@@ -1,3 +1,5 @@
+![HX Unbound community banner](assets/hx-unbound-banner.png)
+
 # HX Unbound
 
 A community connecting independent projects that expand what Line 6 HX and Helix hardware can do.
