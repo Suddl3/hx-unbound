@@ -1,5 +1,7 @@
 ![HX Unbound community banner](assets/hx-unbound-banner.png)
 
+**[Join the Discord community](https://discord.gg/szCNtvCEs)** · [Browse the project directory](PROJECTS.md)
+
 # HX Unbound
 
 A community connecting independent projects that expand what Line 6 HX and Helix hardware can do.
@@ -20,7 +22,7 @@ Device support and testing differ by project and revision. Follow each project's
 
 ## Community
 
-The HX Unbound Discord is being organized. Its invitation link will be added when the server is ready for newcomers.
+[Join HX Unbound on Discord](https://discord.gg/szCNtvCEs) to meet other builders, share findings, and get involved. The invite opens in **start-here**.
 
 The planned channels are **start-here**, **projects**, **development**, **testing-and-help**, and **general**. The project directory is maintained here; Discord hosts introductions, discussions, and collaboration.
 
