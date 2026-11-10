@@ -44,7 +44,7 @@
   },
   "events": {
     "setup:v1": {
-      "status": "queued",
+      "status": "sending",
       "event": {
         "key": "setup:v1",
         "repo": "Suddl3/hx-unbound",
