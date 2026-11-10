@@ -1,5 +1,58 @@
 {
   "version": 1,
-  "repos": {},
-  "events": {}
+  "repos": {
+    "nocaseguy/hx-stomp-nam-lite": {
+      "since": "2026-11-10T23:01:22Z",
+      "checked_at": "2026-11-10T23:01:22Z"
+    },
+    "savedadodo/helix-floor-nam-lite": {
+      "since": "2026-11-10T23:01:22Z",
+      "checked_at": "2026-11-10T23:01:22Z"
+    },
+    "andreidevs/helix-lt-nam": {
+      "since": "2026-11-10T23:01:22Z",
+      "checked_at": "2026-11-10T23:01:22Z"
+    },
+    "scottlynn73/hx-effects-nam-lite": {
+      "since": "2026-11-10T23:01:22Z",
+      "checked_at": "2026-11-10T23:01:22Z"
+    },
+    "wisemandenny/hx-stomp-customOS": {
+      "since": "2026-11-10T23:01:22Z",
+      "checked_at": "2026-11-10T23:01:22Z"
+    },
+    "andreidevs/hx-edit-nam": {
+      "since": "2026-11-10T23:01:22Z",
+      "checked_at": "2026-11-10T23:01:22Z"
+    },
+    "Suddl3/hx-unbound-editor": {
+      "since": "2026-11-10T23:01:22Z",
+      "checked_at": "2026-11-10T23:01:22Z"
+    },
+    "crmne/tonepush": {
+      "since": "2026-11-10T23:01:22Z",
+      "checked_at": "2026-11-10T23:01:22Z"
+    },
+    "allansomensi/openhx": {
+      "since": "2026-11-10T23:01:22Z",
+      "checked_at": "2026-11-10T23:01:22Z"
+    },
+    "mpeskett88/ToneRelay": {
+      "since": "2026-11-10T23:01:22Z",
+      "checked_at": "2026-11-10T23:01:22Z"
+    }
+  },
+  "events": {
+    "setup:v1": {
+      "status": "queued",
+      "event": {
+        "key": "setup:v1",
+        "repo": "Suddl3/hx-unbound",
+        "kind": "Monitoring enabled",
+        "title": "10 projects \u2022 releases and merged pull requests \u2022 checked hourly",
+        "url": "https://github.com/Suddl3/hx-unbound/blob/main/monitor/repos.json",
+        "at": "2026-11-10T23:01:22Z"
+      }
+    }
+  }
 }
