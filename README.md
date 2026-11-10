@@ -24,7 +24,9 @@ Device support and testing differ by project and revision. Follow each project's
 
 [Join HX Unbound on Discord](https://discord.gg/cMpWeu3MgK) to meet other builders, share findings, and get involved. The invite opens in **start-here**.
 
-The planned channels are **start-here**, **projects**, **development**, **testing-and-help**, and **general**. The project directory is maintained here; Discord hosts introductions, discussions, and collaboration.
+The channels are **start-here**, **projects**, **development**, **testing-and-help**, **general**, and **repo-updates**. The project directory is maintained here; Discord hosts introductions, discussions, and collaboration.
+
+**Repository updates:** [#repo-updates](https://discord.com/channels/1569415462666899638/1569845602626441246) receives new releases and merged pull requests from the ten main projects, checked hourly by GitHub Actions. See the [monitored repositories](monitor/repos.json) and [monitor documentation](monitor/README.md). Each project starts with a quiet baseline; historical updates are not reposted.
 
 ## Add or correct a project
 

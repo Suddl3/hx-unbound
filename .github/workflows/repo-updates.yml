@@ -1,0 +1,46 @@
+name: Community repository updates
+
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Check without posting or changing the saved state'
+        type: boolean
+        default: false
+      announce_setup:
+        description: 'Send the one-time monitoring-enabled notice to verify delivery'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: community-repository-updates
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    if: github.repository == 'Suddl3/hx-unbound' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out community hub
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          persist-credentials: false
+      - name: Test monitor
+        run: python3 -m unittest discover -s monitor -p 'test_*.py'
+      - name: Check repositories and post new updates
+        env:
+          GH_TOKEN: ${{ github.token }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          DRY_RUN: ${{ inputs.dry_run || 'false' }}
+          ANNOUNCE_SETUP: ${{ inputs.announce_setup || 'false' }}
+        run: |
+          args=()
+          if [ "$DRY_RUN" = "true" ]; then args+=(--dry-run); fi
+          if [ "$ANNOUNCE_SETUP" = "true" ]; then args+=(--announce-setup); fi
+          python3 monitor/watch.py "${args[@]}"
