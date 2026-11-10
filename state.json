@@ -44,7 +44,7 @@
   },
   "events": {
     "setup:v1": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "setup:v1",
         "repo": "Suddl3/hx-unbound",
@@ -52,7 +52,9 @@
         "title": "10 projects \u2022 releases and merged pull requests \u2022 checked hourly",
         "url": "https://github.com/Suddl3/hx-unbound/blob/main/monitor/repos.json",
         "at": "2026-11-10T23:01:22Z"
-      }
+      },
+      "message_id": "1569849531905081456",
+      "sent_at": "2026-11-10T23:01:34Z"
     }
   }
 }
