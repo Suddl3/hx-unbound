@@ -26,7 +26,7 @@ Device support and testing differ by project and revision. Follow each project's
 
 The channels are **start-here**, **projects**, **development**, **testing-and-help**, **general**, and **repo-updates**. The project directory is maintained here; Discord hosts introductions, discussions, and collaboration.
 
-**Repository updates:** [#repo-updates](https://discord.com/channels/1569415462666899638/1569845602626441246) receives new releases and merged pull requests from the ten main projects, checked hourly by GitHub Actions. See the [monitored repositories](monitor/repos.json) and [monitor documentation](monitor/README.md). Each project starts with a quiet baseline; historical updates are not reposted.
+**Repository updates:** [#repo-updates](https://discord.com/channels/1569415462666899638/1569845602626441246) receives new releases, newly opened pull requests, and merged pull requests, checked hourly by GitHub Actions. The [project directory](PROJECTS.md) is also the monitoring list: adding a repo to its main project tables automatically includes it on the next check. Foundational references are excluded. Each new project starts with a quiet baseline; historical updates are not reposted. See the [monitor documentation](monitor/README.md).
 
 ## Add or correct a project
 

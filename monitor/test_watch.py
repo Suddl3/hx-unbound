@@ -28,6 +28,67 @@ class FakeGitHub:
 
 
 class MonitorTests(unittest.TestCase):
+    def test_directory_addition_and_reference_exclusion(self):
+        directory = '''Prose https://github.com/ignored/prose
+<!-- monitored-projects:start -->
+| Project | Owner | Scope |
+| --- | --- | --- |
+| [First](https://github.com/owner/first/tree/main) | owner | Text [ref](https://github.com/ignored/ref) |
+| [Again](https://github.com/OWNER/FIRST.git) | owner | Duplicate |
+<!-- monitored-projects:end -->
+| [Reference](https://github.com/ignored/reference) | owner | Reference |
+'''
+        self.assertEqual(["owner/first"], watch.directory_repos(directory))
+        directory = directory.replace("<!-- monitored-projects:end -->", "| [New](https://github.com/owner/new) | owner | Added |\n<!-- monitored-projects:end -->")
+        self.assertEqual(["owner/first", "owner/new"], watch.directory_repos(directory))
+
+    def test_malformed_directory_fails_instead_of_silently_dropping_projects(self):
+        for source in ["no markers", "<!-- monitored-projects:start --><!-- monitored-projects:end -->",
+                       "<!-- monitored-projects:start -->\n| [Bad](https://example.com/repo) | x |\n<!-- monitored-projects:end -->"]:
+            with self.subTest(source=source), self.assertRaises(watch.MonitorError):
+                watch.directory_repos(source)
+
+    def test_new_directory_repo_is_baselined_without_backlog(self):
+        store, sent = MemoryStore(), []
+        with patch.object(FakeGitHub, "events", return_value=[]):
+            result = watch.run(FakeGitHub(), store, [REPO, "another/new"], sent.append)
+        self.assertEqual(1, result["baselined"])
+        self.assertEqual([], sent)
+        self.assertIn("another/new", store.state["repos"])
+
+    def test_existing_install_gets_new_pr_baseline(self):
+        store = MemoryStore()
+        checkpoints = []
+        def events(repo, checkpoint):
+            checkpoints.append(checkpoint)
+            return []
+        with patch.object(FakeGitHub, "events", side_effect=events):
+            watch.run(FakeGitHub(), store, [REPO], lambda _: None)
+        self.assertNotEqual(OLD, checkpoints[0]["opened_since"])
+        self.assertEqual(OLD, checkpoints[0]["since"])
+        self.assertEqual(checkpoints[0]["opened_since"], store.state["repos"][REPO]["opened_since"])
+
+    def test_open_and_merge_have_independent_event_ids(self):
+        pull = {"number": 4, "title": "Feature", "created_at": NEW, "merged_at": None,
+                "html_url": f"https://github.com/{REPO}/pull/4", "draft": False}
+        events = watch.select_events(REPO, [], [pull], OLD, OLD)
+        self.assertEqual([REPO + ":pr-opened:4"], [e["key"] for e in events])
+        pull["merged_at"] = "2026-11-10T01:00:00Z"
+        events = watch.select_events(REPO, [], [pull], OLD, OLD)
+        self.assertEqual({REPO + ":pr-opened:4", REPO + ":pr:4"}, {e["key"] for e in events})
+        self.assertEqual(1, len(watch.select_events(REPO, [], [pull], OLD, NEW)))
+
+    def test_drafts_are_clearly_labelled(self):
+        pull = {"number": 1, "title": "Work in progress", "created_at": NEW, "merged_at": None,
+                "html_url": f"https://github.com/{REPO}/pull/1", "draft": True}
+        self.assertEqual("Draft pull request opened", watch.select_events(REPO, [], [pull], OLD, OLD)[0]["kind"])
+
+    def test_removed_repo_does_not_publish_queued_updates(self):
+        store, sent = MemoryStore(), []
+        store.state["events"][EVENT["key"]] = {"status": "queued", "event": EVENT}
+        watch.publish_pending(store, sent.append, set())
+        self.assertEqual([], sent)
+
     def test_first_run_and_new_repo_skip_history(self):
         store = MemoryStore(False)
         sent = []

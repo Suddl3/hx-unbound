@@ -1,8 +1,10 @@
 # Community repository updates
 
-GitHub Actions checks the ten projects in `repos.json` hourly, at minute 17. It posts new published releases (including labelled prereleases) and merged pull requests to Discord's `#repo-updates`. It does not post commits, issues, comments, or draft releases. GitHub schedules can be delayed.
+GitHub Actions reads the project tables in [PROJECTS.md](../PROJECTS.md) hourly, at minute 17. It posts new published releases (including labelled prereleases), newly opened pull requests, and merged pull requests to Discord's `#repo-updates`. Draft PRs are announced with a clear draft label. It does not post individual commits, issues, comments, PR edits/reviews, or draft releases. GitHub schedules can be delayed.
 
-The first successful check of each repository establishes its baseline without posting historical activity. Adding a repository to `repos.json` gives it a fresh baseline. The seven foundational references in PROJECTS.md are not monitored by default.
+The directory is the only maintained repository list. Add a row to any project table between the `monitored-projects:start` and `monitored-projects:end` HTML comments in PROJECTS.md; the next hourly run picks it up automatically. The monitor reads the first column's GitHub project link, resolves branch/file links to their repository, and deduplicates repeated links regardless of capitalization. Links in prose or descriptions are ignored. The foundational reference tables remain outside the monitored section.
+
+The first successful check of a newly added repository establishes its baseline without posting historical activity. Existing repositories receive a separate quiet baseline when PR-opening announcements are first enabled; existing open PRs are not announced retroactively, but future merges still are. Removing a project row stops checking that repository and stops posting its queued events; saved history remains available if it is re-added. Re-adding a previously monitored project resumes its saved checkpoint. An opened PR is a GitHub review request, not a commit or a branch push. A PR can produce one opening announcement and one later merge announcement.
 
 ## Operation
 

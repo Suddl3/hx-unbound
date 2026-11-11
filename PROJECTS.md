@@ -4,6 +4,10 @@ Reviewed November 9, 2026. Repository links and descriptions were checked agains
 
 These are known relevant projects, not a confirmed membership roster or an exhaustive list. The owner column identifies the GitHub repository owner, not sole authorship. Projects retain their own ownership and licenses.
 
+Repositories in the three project tables below are automatically monitored in Discord's **#repo-updates**. Adding a row starts monitoring on the next hourly check, with no historical backlog. The foundational references farther down are not monitored.
+
+<!-- monitored-projects:start -->
+
 ## NAM firmware and device extensions
 
 | Project | Repository owner | Purpose and current scope |
@@ -32,6 +36,8 @@ These projects are relevant to the ecosystem. Their inclusion does not imply Dis
 | [TonePush](https://github.com/crmne/tonepush) | crmne | Editor, CLI, and reusable USB/protocol/catalog crates. HX Unbound uses pinned portions of these crates. Project hardware coverage and operation-specific support belong in its own documentation. |
 | [OpenHX](https://github.com/allansomensi/openhx) | allansomensi | Cross-platform HX tooling and protocol research. Current feature checklist supports setlist/preset listing and selection; full GUI editing and other operations remain planned. Reports navigation validation on Stomp, Stomp XL, and Floor. |
 | [ToneRelay](https://github.com/mpeskett88/ToneRelay) | mpeskett88 | Browser/mobile editor using a Raspberry Pi as the USB host. Reports Floor 3.80 verification, with other HX devices listed as future work. Credits TonePush, OpenHX, and helix_usb for related transport/protocol work. |
+
+<!-- monitored-projects:end -->
 
 ## Foundational research and NAM projects
 
