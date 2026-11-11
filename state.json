@@ -93,7 +93,7 @@
       "sent_at": "2026-11-11T05:57:02Z"
     },
     "wisemandenny/hx-stomp-customOS:pr-opened:39": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hx-stomp-customOS:pr-opened:39",
         "repo": "wisemandenny/hx-stomp-customOS",
@@ -101,7 +101,9 @@
         "title": "#39 Each feature is a Global Settings section of its own",
         "url": "https://github.com/wisemandenny/hx-stomp-customOS/pull/39",
         "at": "2026-11-11T04:06:46Z"
-      }
+      },
+      "message_id": "1569954093793812521",
+      "sent_at": "2026-11-11T05:57:04Z"
     },
     "andreidevs/hx-edit-nam:pr-opened:4": {
       "status": "queued",
