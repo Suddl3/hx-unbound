@@ -67,7 +67,7 @@
       "sent_at": "2026-11-10T23:01:34Z"
     },
     "wisemandenny/hx-stomp-customOS:pr:27": {
-      "status": "queued",
+      "status": "sending",
       "event": {
         "key": "wisemandenny/hx-stomp-customOS:pr:27",
         "repo": "wisemandenny/hx-stomp-customOS",
