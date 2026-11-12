@@ -151,7 +151,7 @@
       }
     },
     "crmne/tonepush:pr-opened:110": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "crmne/tonepush:pr-opened:110",
         "repo": "crmne/tonepush",
@@ -159,7 +159,9 @@
         "title": "#110 Never read an empty impulse response slot",
         "url": "https://github.com/crmne/tonepush/pull/110",
         "at": "2026-11-11T11:11:00Z"
-      }
+      },
+      "message_id": "1570376018831609887",
+      "sent_at": "2026-11-12T09:53:39Z"
     },
     "crmne/tonepush:pr-opened:111": {
       "status": "queued",
