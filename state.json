@@ -490,7 +490,7 @@
       "sent_at": "2026-11-12T09:53:58Z"
     },
     "crmne/tonepush:pr-opened:118": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "crmne/tonepush:pr-opened:118",
         "repo": "crmne/tonepush",
@@ -498,7 +498,9 @@
         "title": "#118 Survive an out-of-order events frame on an HX Effects, and say when the events channel did not answer",
         "url": "https://github.com/crmne/tonepush/pull/118",
         "at": "2026-11-11T19:27:16Z"
-      }
+      },
+      "message_id": "1570376110129020929",
+      "sent_at": "2026-11-12T09:54:00Z"
     },
     "crmne/tonepush:pr-opened:120": {
       "status": "queued",
