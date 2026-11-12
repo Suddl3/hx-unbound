@@ -529,7 +529,7 @@
       "sent_at": "2026-11-12T09:54:05Z"
     },
     "andreidevs/hx-edit-nam:pr:6": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "andreidevs/hx-edit-nam:pr:6",
         "repo": "andreidevs/hx-edit-nam",
@@ -537,7 +537,9 @@
         "title": "#6 Import .nam captures by drag and drop",
         "url": "https://github.com/andreidevs/hx-edit-nam/pull/6",
         "at": "2026-11-12T09:24:11Z"
-      }
+      },
+      "message_id": "1570376135865274451",
+      "sent_at": "2026-11-12T09:54:07Z"
     },
     "andreidevs/hx-edit-nam:release:442725312": {
       "status": "queued",
