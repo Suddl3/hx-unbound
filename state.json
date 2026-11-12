@@ -594,7 +594,7 @@
       "sent_at": "2026-11-12T18:21:56Z"
     },
     "wisemandenny/hxtra:pr:62": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:62",
         "repo": "wisemandenny/hxtra",
@@ -602,7 +602,9 @@
         "title": "#62 README: AI policy, FAQ cards, Known issues, issue forms",
         "url": "https://github.com/wisemandenny/hxtra/pull/62",
         "at": "2026-11-12T14:53:49Z"
-      }
+      },
+      "message_id": "1570503946638852216",
+      "sent_at": "2026-11-12T18:21:59Z"
     },
     "wisemandenny/hxtra:pr-opened:63": {
       "status": "queued",
