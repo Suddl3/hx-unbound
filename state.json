@@ -477,7 +477,7 @@
       "sent_at": "2026-11-12T09:53:56Z"
     },
     "andreidevs/hx-edit-nam:release:442121198": {
-      "status": "queued",
+      "status": "sending",
       "event": {
         "key": "andreidevs/hx-edit-nam:release:442121198",
         "repo": "andreidevs/hx-edit-nam",
