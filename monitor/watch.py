@@ -160,7 +160,8 @@ class Store:
 
 def message(event):
     # Link only to the monitored repository; upstream titles are plain data, with all mentions disabled.
-    if not event["url"].startswith(f"https://github.com/{event['repo']}/"):
+    # GitHub names are not case-sensitive, and a directory row may be capitalized differently.
+    if not event["url"].lower().startswith(f"https://github.com/{event['repo']}/".lower()):
         raise MonitorError("Unexpected event URL")
     return {"username": "HX Unbound Updates", "allowed_mentions": {"parse": []},
             "embeds": [{"author": {"name": event["repo"]},
@@ -169,14 +170,31 @@ def message(event):
                         "footer": {"text": "HX Unbound • Community project updates"}}]}
 
 
-def publish_pending(store, send, repos=None):
-    sent = 0
+def current_repo(github, repo):
+    """Read a listed repository, refusing one that was renamed or moved: GitHub answers for the old name with the new one."""
+    meta = github.api(f"/repos/{repo}")
+    name = meta.get("full_name")
+    if not isinstance(name, str) or name.lower() != repo.lower():
+        shown = name if isinstance(name, str) and re.fullmatch(r"[\w.-]+/[\w.-]+", name) else "another name"
+        raise MonitorError(f"renamed or moved to {shown}; update its row in PROJECTS.md")
+    return meta
+
+
+def publish_pending(store, send, repos=None, held=None):
+    """Post queued updates. An update whose link is outside its listed repository stays queued and does not stop the
+    others: its repository is added to `held`, or reported in an error after the rest are posted when `held` is None."""
+    sent, outside = 0, []
     for key, record in store.state["events"].items():
         if record["status"] != "queued":
             continue
         if repos is not None and record["event"]["repo"] not in repos and key != "setup:v1":
             continue
-        payload = message(record["event"])
+        try:
+            payload = message(record["event"])
+        except MonitorError:
+            if record["event"]["repo"] not in outside:
+                outside.append(record["event"]["repo"])
+            continue
         # Persist before sending. Interrupted/ambiguous delivery is never automatically repeated.
         record["status"] = "sending"
         store.save()
@@ -189,6 +207,10 @@ def publish_pending(store, send, repos=None):
     uncertain = sum(r["status"] == "sending" for r in store.state["events"].values())
     if uncertain:
         raise MonitorError(f"{uncertain} interrupted delivery record(s) need review; not reposted")
+    if held is not None:
+        held.extend(outside)
+    elif outside:
+        raise MonitorError("Updates held back, their links are outside the listed repository: " + ", ".join(outside))
     return sent
 
 
@@ -205,7 +227,7 @@ def run(github, store, repos, send, dry_run=False, announce_setup=False):
         if checkpoint is None:
             # Validate that this is a readable public repository before establishing its baseline.
             try:
-                meta = github.api(f"/repos/{repo}")
+                meta = current_repo(github, repo)
                 if meta.get("private") is not False:
                     raise MonitorError("Monitor only supports public repositories")
                 # Check both feeds so a disabled API fails visibly at setup, not an hour later.
@@ -217,6 +239,8 @@ def run(github, store, repos, send, dry_run=False, announce_setup=False):
             counts["baselined"] += 1
             continue
         try:
+            # A renamed repository is reported by name and skipped; the other projects are still checked and posted.
+            current_repo(github, repo)
             # Existing installs get a separate quiet baseline for PR-opening announcements.
             events = github.events(repo, {**checkpoint, "opened_since": checkpoint.get("opened_since", started)})
         except MonitorError as exc:
@@ -237,7 +261,10 @@ def run(github, store, repos, send, dry_run=False, announce_setup=False):
     if not dry_run:
         store.save()
         active = {r for r in store.state["repos"] if r.lower() in {p.lower() for p in repos}}
-        counts["posted"] = publish_pending(store, send, active)
+        held = []
+        counts["posted"] = publish_pending(store, send, active, held)
+        failures += [f"{repo}: queued updates held back, their links are outside this repository (renamed or moved?)"
+                     for repo in held if not any(failure.startswith(repo + ": ") for failure in failures)]
     print(json.dumps({"dry_run": dry_run, "repositories": len(repos), **counts, "errors": failures}))
     if failures:
         raise MonitorError("One or more repositories could not be checked; their checkpoints were preserved")

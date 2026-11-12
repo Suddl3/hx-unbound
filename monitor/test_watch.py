@@ -1,4 +1,6 @@
+import contextlib
 import copy
+import io
 import unittest
 from unittest.mock import patch
 import watch
@@ -20,8 +22,11 @@ class MemoryStore:
 
 
 class FakeGitHub:
+    renamed = {}
+
     def api(self, path):
-        return {"private": False}
+        repo = path.removeprefix("/repos/")
+        return {"private": False, "full_name": self.renamed.get(repo, repo)}
 
     def events(self, repo, checkpoint):
         return [EVENT]
@@ -164,6 +169,63 @@ class MonitorTests(unittest.TestCase):
         event = dict(EVENT, url="https://example.com")
         with self.assertRaises(watch.MonitorError):
             watch.message(event)
+
+    def test_link_check_ignores_capitalization(self):
+        self.assertEqual(EVENT["url"], watch.message(dict(EVENT, repo=REPO.upper()))["embeds"][0]["url"])
+
+    def test_renamed_repo_is_named_and_the_others_still_post(self):
+        store, sent, output = MemoryStore(), [], io.StringIO()
+        store.state["repos"]["old/name"] = {"since": OLD, "checked_at": OLD}
+        def send(payload):
+            sent.append(payload)
+            return {"id": "123"}
+        with patch.object(FakeGitHub, "renamed", {"old/name": "new/name"}), contextlib.redirect_stdout(output):
+            with self.assertRaises(watch.MonitorError):
+                watch.run(FakeGitHub(), store, ["old/name", REPO], send)
+        self.assertEqual([REPO], [payload["embeds"][0]["author"]["name"] for payload in sent])
+        self.assertIn("old/name: renamed or moved to new/name; update its row in PROJECTS.md", output.getvalue())
+        self.assertEqual(OLD, store.state["repos"]["old/name"]["checked_at"])
+        self.assertEqual([EVENT["key"]], list(store.state["events"]))
+
+    def test_renamed_repo_is_not_baselined_when_first_listed(self):
+        store, output = MemoryStore(), io.StringIO()
+        with patch.object(FakeGitHub, "renamed", {"old/name": "new/name"}), contextlib.redirect_stdout(output):
+            with self.assertRaises(watch.MonitorError):
+                watch.run(FakeGitHub(), store, [REPO, "old/name"], lambda _: {"id": "123"})
+        self.assertNotIn("old/name", store.state["repos"])
+
+    def test_queued_update_outside_its_repo_does_not_block_the_others(self):
+        outside = dict(EVENT, key="old/name:pr:9", repo="old/name", url="https://github.com/new/name/pull/9")
+        def filled():
+            store = MemoryStore()
+            store.state["events"][outside["key"]] = {"status": "queued", "event": outside}
+            store.state["events"][EVENT["key"]] = {"status": "queued", "event": EVENT}
+            return store
+        sent = []
+        def send(payload):
+            sent.append(payload)
+            return {"id": "123"}
+        store, held = filled(), []
+        self.assertEqual(1, watch.publish_pending(store, send, {REPO, "old/name"}, held))
+        self.assertEqual(["old/name"], held)
+        self.assertEqual("queued", store.state["events"][outside["key"]]["status"])
+        self.assertEqual("sent", store.state["events"][EVENT["key"]]["status"])
+        store = filled()
+        with self.assertRaises(watch.MonitorError):
+            watch.publish_pending(store, send, {REPO, "old/name"})
+        self.assertEqual(2, len(sent))
+
+    def test_held_updates_fail_the_run_after_posting_the_rest(self):
+        outside = dict(EVENT, key=REPO + ":pr:9", url="https://github.com/new/name/pull/9")
+        store, sent, output = MemoryStore(), [], io.StringIO()
+        store.state["events"][outside["key"]] = {"status": "queued", "event": outside}
+        def send(payload):
+            sent.append(payload)
+            return {"id": "123"}
+        with contextlib.redirect_stdout(output), self.assertRaises(watch.MonitorError):
+            watch.run(FakeGitHub(), store, [REPO], send)
+        self.assertEqual(1, len(sent))
+        self.assertIn(REPO + ": queued updates held back", output.getvalue())
 
 
 if __name__ == "__main__":

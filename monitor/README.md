@@ -27,6 +27,12 @@ To recover, inspect `#repo-updates` for the event URL. If the message exists, se
 
 This is a periodic activity feed, not an audit archive. A release deleted before a check cannot be discovered. Feed titles are supplied by each project, not independently reviewed feature summaries.
 
+## Renamed or moved repositories
+
+When a listed repository is renamed or transferred, GitHub still answers for the old name. The monitor then skips that repository, keeps its checkpoint, and still checks and posts every other project. The run fails visibly, and its log line lists the cause under `errors`, for example `owner/old: renamed or moved to owner/new; update its row in PROJECTS.md`.
+
+To recover, change that row's link in PROJECTS.md to the new name. The repository then starts from a quiet baseline under its new name, like any newly listed project. Updates already queued under the old name are never posted.
+
 ## Local checks
 
 `python -m unittest discover -s monitor -p 'test_*.py'`
