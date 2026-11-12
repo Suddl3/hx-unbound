@@ -14,10 +14,10 @@ Repositories in the three project tables below are automatically monitored in Di
 | --- | --- | --- |
 | [HX Stomp NAM Lite](https://github.com/nocaseguy/hx-stomp-nam-lite) | nocaseguy | NAM A2 Lite firmware tooling for HX Stomp, Stomp XL, and HX Effects on 3.80.0. Foundational NAM kernel and SHARC tooling used by several ports. The README distinguishes current-build testing from earlier device results. |
 | [Helix Floor NAM Lite](https://github.com/savedadodo/helix-floor-nam-lite/tree/helix-floor) | savedadodo | Experimental Floor port with device-specific DSP work and setup tooling. The relevant default branch is `helix-floor`. Its README reports Floor hardware results and documents HX Edit preset limitations. |
-| [HX Unbound Floor](https://github.com/Suddl3/hx-unbound-floor) | Suddl3 | Custom firmware project for Helix Floor 3.80.0, built on the Floor port above with its commit history. Plans CustomOS-style extensions for the Floor: a feature engine for the main program, a metronome, more NAM block options, and presets that stay compatible with HX Edit NAM. Started November 12, 2026: its `main` branch builds the Floor port unchanged and adds no firmware features yet. |
+| [HX Unbound Floor](https://github.com/Suddl3/hx-unbound-floor) | Suddl3 | Custom firmware project for Helix Floor 3.80.0, built on the Floor port above with its commit history. Plans HXtra-style extensions for the Floor: a feature engine for the main program, a metronome, more NAM block options, and presets that stay compatible with HX Edit NAM. Started November 12, 2026: its `main` branch builds the Floor port unchanged and adds no firmware features yet. |
 | [Helix LT NAM](https://github.com/andreidevs/helix-lt-nam) | andreidevs | Experimental LT port based on the Floor work. Also contains NAM Studio for capture blending, chaining, refinement, and conversion. The README reports one-device LT testing; multi-block LT capacity remains separately unverified there. |
 | [HX Effects NAM Lite](https://github.com/scottlynn73/hx-effects-nam-lite) | scottlynn73 | HX Effects 3.80.0 port and additional Click/metronome and Geiger/bit-crusher work. Retain this attribution even though upstream also supports HX Effects. The branches use different block identities; their presets are not assumed interchangeable. |
-| [HX Stomp CustomOS](https://github.com/wisemandenny/hx-stomp-customOS) | wisemandenny | Stomp firmware extensions built from the NAM tooling, including tuner settings, BPM display, DSP budget display, long-press actions, additional snapshots, and boot-screen customization. Separate development direction from the current NAM upstream. |
+| [HXtra](https://github.com/wisemandenny/hxtra) | wisemandenny | Formerly HX Stomp CustomOS. Stomp firmware extensions built from the NAM tooling, including tuner settings, BPM display, DSP budget display, long-press actions, additional snapshots, and boot-screen customization. Separate development direction from the current NAM upstream. |
 
 ## NAM editors and capture workflows
 
@@ -54,9 +54,9 @@ These projects are relevant to the ecosystem. Their inclusion does not imply Dis
 
 ## Relationships that help avoid duplicate work
 
-- The Stomp NAM project is a foundation for the Floor, LT, HX Effects, and CustomOS work. Each device/revision still needs its own compatibility evidence.
+- The Stomp NAM project is a foundation for the Floor, LT, HX Effects, and HXtra work. Each device/revision still needs its own compatibility evidence.
 - The LT port explicitly builds on the Floor implementation.
-- HX Unbound Floor builds on the Floor port the way CustomOS builds on the Stomp project. Fixes to the Floor's NAM kernel belong with the Floor port first.
+- HX Unbound Floor builds on the Floor port the way HXtra builds on the Stomp project. Fixes to the Floor's NAM kernel belong with the Floor port first.
 - HX Edit NAM and the HX Unbound editor approach desktop editing differently. Shared capture conversion, compatibility findings, and test cases may be useful across both.
 - TonePush provides shared transport components used by downstream editors. A transport fix should be compared with current upstream work before being reimplemented.
 - HX Effects support exists both upstream and in scottlynn73's project. Preserve both provenance and the distinction between their implementations.
