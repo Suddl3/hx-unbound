@@ -672,7 +672,7 @@
       "sent_at": "2026-11-12T18:22:13Z"
     },
     "wisemandenny/hxtra:pr-opened:65": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:65",
         "repo": "wisemandenny/hxtra",
@@ -680,7 +680,9 @@
         "title": "#65 m4asm: find clang on Linux and WSL",
         "url": "https://github.com/wisemandenny/hxtra/pull/65",
         "at": "2026-11-12T16:38:33Z"
-      }
+      },
+      "message_id": "1570504018130640919",
+      "sent_at": "2026-11-12T18:22:16Z"
     },
     "wisemandenny/hxtra:pr:65": {
       "status": "queued",
