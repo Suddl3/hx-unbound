@@ -633,7 +633,7 @@
       "sent_at": "2026-11-12T18:22:05Z"
     },
     "wisemandenny/hxtra:pr:64": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:64",
         "repo": "wisemandenny/hxtra",
@@ -641,7 +641,9 @@
         "title": "#64 BPM Display: Off values for the tempo and the dot",
         "url": "https://github.com/wisemandenny/hxtra/pull/64",
         "at": "2026-11-12T15:39:57Z"
-      }
+      },
+      "message_id": "1570503982080598098",
+      "sent_at": "2026-11-12T18:22:08Z"
     },
     "wisemandenny/hxtra:pr:63": {
       "status": "queued",
