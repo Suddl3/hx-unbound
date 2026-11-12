@@ -555,7 +555,7 @@
       "sent_at": "2026-11-12T09:54:10Z"
     },
     "andreidevs/helix-lt-nam:release:443041364": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "andreidevs/helix-lt-nam:release:443041364",
         "repo": "andreidevs/helix-lt-nam",
@@ -563,7 +563,9 @@
         "title": "Helix LT: four NAM blocks (2026-11-12)",
         "url": "https://github.com/andreidevs/helix-lt-nam/releases/tag/helix-lt-2026-11-12",
         "at": "2026-11-12T14:14:10Z"
-      }
+      },
+      "message_id": "1570503911977259032",
+      "sent_at": "2026-11-12T18:21:51Z"
     },
     "wisemandenny/hxtra:pr-opened:61": {
       "status": "queued",
