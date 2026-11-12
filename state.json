@@ -3,52 +3,52 @@
   "repos": {
     "nocaseguy/hx-stomp-nam-lite": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-11T18:43:28Z",
+      "checked_at": "2026-11-12T01:33:27Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "savedadodo/helix-floor-nam-lite": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-11T18:43:28Z",
+      "checked_at": "2026-11-12T01:33:27Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "andreidevs/helix-lt-nam": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-11T18:43:28Z",
+      "checked_at": "2026-11-12T01:33:27Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "scottlynn73/hx-effects-nam-lite": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-11T18:43:28Z",
+      "checked_at": "2026-11-12T01:33:27Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "wisemandenny/hx-stomp-customOS": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-11T18:43:28Z",
+      "checked_at": "2026-11-12T01:33:27Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "andreidevs/hx-edit-nam": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-11T18:43:28Z",
+      "checked_at": "2026-11-12T01:33:27Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "Suddl3/hx-unbound-editor": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-11T18:43:28Z",
+      "checked_at": "2026-11-12T01:33:27Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "crmne/tonepush": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-11T18:43:28Z",
+      "checked_at": "2026-11-12T01:33:27Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "allansomensi/openhx": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-11T18:43:28Z",
+      "checked_at": "2026-11-12T01:33:27Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "mpeskett88/ToneRelay": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-11T18:43:28Z",
+      "checked_at": "2026-11-12T01:33:27Z",
       "opened_since": "2026-11-11T03:27:37Z"
     }
   },
@@ -204,6 +204,281 @@
         "title": "#116 Show what each block uses of its path's DSP",
         "url": "https://github.com/crmne/tonepush/pull/116",
         "at": "2026-11-11T15:22:19Z"
+      }
+    },
+    "wisemandenny/hx-stomp-customOS:pr-opened:41": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hx-stomp-customOS:pr-opened:41",
+        "repo": "wisemandenny/hx-stomp-customOS",
+        "kind": "Pull request opened",
+        "title": "#41 Global Settings icon strip: a carousel over every section, with lit and dim icons for feature sections",
+        "url": "https://github.com/wisemandenny/hxtra/pull/41",
+        "at": "2026-11-11T19:09:23Z"
+      }
+    },
+    "wisemandenny/hx-stomp-customOS:pr:40": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hx-stomp-customOS:pr:40",
+        "repo": "wisemandenny/hx-stomp-customOS",
+        "kind": "Merged pull request",
+        "title": "#40 README for the hxtra repo name",
+        "url": "https://github.com/wisemandenny/hxtra/pull/40",
+        "at": "2026-11-11T19:10:30Z"
+      }
+    },
+    "wisemandenny/hx-stomp-customOS:pr:41": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hx-stomp-customOS:pr:41",
+        "repo": "wisemandenny/hx-stomp-customOS",
+        "kind": "Merged pull request",
+        "title": "#41 Global Settings icon strip: a carousel over every section, with lit and dim icons for feature sections",
+        "url": "https://github.com/wisemandenny/hxtra/pull/41",
+        "at": "2026-11-11T19:10:42Z"
+      }
+    },
+    "wisemandenny/hx-stomp-customOS:pr:37": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hx-stomp-customOS:pr:37",
+        "repo": "wisemandenny/hx-stomp-customOS",
+        "kind": "Merged pull request",
+        "title": "#37 Merge upstream hx-stomp-nam-lite (01c0bb0): ten-knob NAM A2 Lite, HX Effects, QA tools",
+        "url": "https://github.com/wisemandenny/hxtra/pull/37",
+        "at": "2026-11-11T19:13:22Z"
+      }
+    },
+    "wisemandenny/hx-stomp-customOS:pr-opened:42": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hx-stomp-customOS:pr-opened:42",
+        "repo": "wisemandenny/hx-stomp-customOS",
+        "kind": "Pull request opened",
+        "title": "#42 BPM and breathing line start a second apart at boot",
+        "url": "https://github.com/wisemandenny/hxtra/pull/42",
+        "at": "2026-11-11T19:43:56Z"
+      }
+    },
+    "wisemandenny/hx-stomp-customOS:pr-opened:43": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hx-stomp-customOS:pr-opened:43",
+        "repo": "wisemandenny/hx-stomp-customOS",
+        "kind": "Pull request opened",
+        "title": "#43 Metronome under Looper with its own look, and a Where is it? column in the README's features table",
+        "url": "https://github.com/wisemandenny/hxtra/pull/43",
+        "at": "2026-11-11T19:44:25Z"
+      }
+    },
+    "wisemandenny/hx-stomp-customOS:pr:42": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hx-stomp-customOS:pr:42",
+        "repo": "wisemandenny/hx-stomp-customOS",
+        "kind": "Merged pull request",
+        "title": "#42 BPM and breathing line start a second apart at boot",
+        "url": "https://github.com/wisemandenny/hxtra/pull/42",
+        "at": "2026-11-11T19:45:09Z"
+      }
+    },
+    "wisemandenny/hx-stomp-customOS:pr:43": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hx-stomp-customOS:pr:43",
+        "repo": "wisemandenny/hx-stomp-customOS",
+        "kind": "Merged pull request",
+        "title": "#43 Metronome under Looper with its own look, and a Where is it? column in the README's features table",
+        "url": "https://github.com/wisemandenny/hxtra/pull/43",
+        "at": "2026-11-11T20:34:04Z"
+      }
+    },
+    "wisemandenny/hx-stomp-customOS:pr-opened:44": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hx-stomp-customOS:pr-opened:44",
+        "repo": "wisemandenny/hx-stomp-customOS",
+        "kind": "Pull request opened",
+        "title": "#44 GR meter alongside NAM, and an Entry 3 small enough for amps",
+        "url": "https://github.com/wisemandenny/hxtra/pull/44",
+        "at": "2026-11-11T21:46:02Z"
+      }
+    },
+    "wisemandenny/hx-stomp-customOS:pr:44": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hx-stomp-customOS:pr:44",
+        "repo": "wisemandenny/hx-stomp-customOS",
+        "kind": "Merged pull request",
+        "title": "#44 GR meter alongside NAM, and an Entry 3 small enough for amps",
+        "url": "https://github.com/wisemandenny/hxtra/pull/44",
+        "at": "2026-11-11T21:47:10Z"
+      }
+    },
+    "wisemandenny/hx-stomp-customOS:pr-opened:45": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hx-stomp-customOS:pr-opened:45",
+        "repo": "wisemandenny/hx-stomp-customOS",
+        "kind": "Pull request opened",
+        "title": "#45 Split FIRMWARE_NOTES.md into indexed notes under docs/research",
+        "url": "https://github.com/wisemandenny/hxtra/pull/45",
+        "at": "2026-11-11T21:59:22Z"
+      }
+    },
+    "wisemandenny/hx-stomp-customOS:pr:45": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hx-stomp-customOS:pr:45",
+        "repo": "wisemandenny/hx-stomp-customOS",
+        "kind": "Merged pull request",
+        "title": "#45 Split FIRMWARE_NOTES.md into indexed notes under docs/research",
+        "url": "https://github.com/wisemandenny/hxtra/pull/45",
+        "at": "2026-11-11T22:02:10Z"
+      }
+    },
+    "wisemandenny/hx-stomp-customOS:pr-opened:46": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hx-stomp-customOS:pr-opened:46",
+        "repo": "wisemandenny/hx-stomp-customOS",
+        "kind": "Pull request opened",
+        "title": "#46 Setup page for HXtra: every feature in every build, published per release",
+        "url": "https://github.com/wisemandenny/hxtra/pull/46",
+        "at": "2026-11-11T22:03:55Z"
+      }
+    },
+    "wisemandenny/hx-stomp-customOS:pr-opened:47": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hx-stomp-customOS:pr-opened:47",
+        "repo": "wisemandenny/hx-stomp-customOS",
+        "kind": "Pull request opened",
+        "title": "#47 Boot screen: HXtra STOMP and v1.0.0",
+        "url": "https://github.com/wisemandenny/hxtra/pull/47",
+        "at": "2026-11-11T22:10:12Z"
+      }
+    },
+    "wisemandenny/hx-stomp-customOS:pr:47": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hx-stomp-customOS:pr:47",
+        "repo": "wisemandenny/hx-stomp-customOS",
+        "kind": "Merged pull request",
+        "title": "#47 Boot screen: HXtra STOMP and v1.0.0",
+        "url": "https://github.com/wisemandenny/hxtra/pull/47",
+        "at": "2026-11-11T22:10:58Z"
+      }
+    },
+    "wisemandenny/hx-stomp-customOS:pr:46": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hx-stomp-customOS:pr:46",
+        "repo": "wisemandenny/hx-stomp-customOS",
+        "kind": "Merged pull request",
+        "title": "#46 Setup page for HXtra: every feature in every build, published per release",
+        "url": "https://github.com/wisemandenny/hxtra/pull/46",
+        "at": "2026-11-11T23:08:03Z"
+      }
+    },
+    "wisemandenny/hx-stomp-customOS:release:442288272": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hx-stomp-customOS:release:442288272",
+        "repo": "wisemandenny/hx-stomp-customOS",
+        "kind": "Release",
+        "title": "HXtra v1.0.0",
+        "url": "https://github.com/wisemandenny/hxtra/releases/tag/v1.0.0",
+        "at": "2026-11-11T23:09:27Z"
+      }
+    },
+    "wisemandenny/hx-stomp-customOS:pr-opened:48": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hx-stomp-customOS:pr-opened:48",
+        "repo": "wisemandenny/hx-stomp-customOS",
+        "kind": "Pull request opened",
+        "title": "#48 Pages: publish build.py and src/sharc for the in-browser build",
+        "url": "https://github.com/wisemandenny/hxtra/pull/48",
+        "at": "2026-11-11T23:10:42Z"
+      }
+    },
+    "wisemandenny/hx-stomp-customOS:pr:48": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hx-stomp-customOS:pr:48",
+        "repo": "wisemandenny/hx-stomp-customOS",
+        "kind": "Merged pull request",
+        "title": "#48 Pages: publish build.py and src/sharc for the in-browser build",
+        "url": "https://github.com/wisemandenny/hxtra/pull/48",
+        "at": "2026-11-11T23:11:25Z"
+      }
+    },
+    "andreidevs/hx-edit-nam:pr:3": {
+      "status": "queued",
+      "event": {
+        "key": "andreidevs/hx-edit-nam:pr:3",
+        "repo": "andreidevs/hx-edit-nam",
+        "kind": "Merged pull request",
+        "title": "#3 Fix TONE3000 reopening while an audition notice stays open",
+        "url": "https://github.com/andreidevs/hx-edit-nam/pull/3",
+        "at": "2026-11-11T19:02:45Z"
+      }
+    },
+    "andreidevs/hx-edit-nam:pr-opened:5": {
+      "status": "queued",
+      "event": {
+        "key": "andreidevs/hx-edit-nam:pr-opened:5",
+        "repo": "andreidevs/hx-edit-nam",
+        "kind": "Pull request opened",
+        "title": "#5 Add NAM library, Clear protection and sidebar tools",
+        "url": "https://github.com/andreidevs/hx-edit-nam/pull/5",
+        "at": "2026-11-11T19:20:24Z"
+      }
+    },
+    "andreidevs/hx-edit-nam:pr:5": {
+      "status": "queued",
+      "event": {
+        "key": "andreidevs/hx-edit-nam:pr:5",
+        "repo": "andreidevs/hx-edit-nam",
+        "kind": "Merged pull request",
+        "title": "#5 Add NAM library, Clear protection and sidebar tools",
+        "url": "https://github.com/andreidevs/hx-edit-nam/pull/5",
+        "at": "2026-11-11T19:24:56Z"
+      }
+    },
+    "andreidevs/hx-edit-nam:release:442121198": {
+      "status": "queued",
+      "event": {
+        "key": "andreidevs/hx-edit-nam:release:442121198",
+        "repo": "andreidevs/hx-edit-nam",
+        "kind": "Release",
+        "title": "HX Edit NAM v0.4.0 for Windows",
+        "url": "https://github.com/andreidevs/hx-edit-nam/releases/tag/v0.4.0",
+        "at": "2026-11-11T19:27:15Z"
+      }
+    },
+    "crmne/tonepush:pr-opened:118": {
+      "status": "queued",
+      "event": {
+        "key": "crmne/tonepush:pr-opened:118",
+        "repo": "crmne/tonepush",
+        "kind": "Pull request opened",
+        "title": "#118 Survive an out-of-order events frame on an HX Effects, and say when the events channel did not answer",
+        "url": "https://github.com/crmne/tonepush/pull/118",
+        "at": "2026-11-11T19:27:16Z"
+      }
+    },
+    "crmne/tonepush:pr-opened:120": {
+      "status": "queued",
+      "event": {
+        "key": "crmne/tonepush:pr-opened:120",
+        "repo": "crmne/tonepush",
+        "kind": "Draft pull request opened",
+        "title": "#120 Read a menu's first label as its parameter's lowest value",
+        "url": "https://github.com/crmne/tonepush/pull/120",
+        "at": "2026-11-11T23:14:27Z"
       }
     }
   }
