@@ -464,7 +464,7 @@
       "sent_at": "2026-11-12T09:53:54Z"
     },
     "andreidevs/hx-edit-nam:pr:5": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "andreidevs/hx-edit-nam:pr:5",
         "repo": "andreidevs/hx-edit-nam",
@@ -472,7 +472,9 @@
         "title": "#5 Add NAM library, Clear protection and sidebar tools",
         "url": "https://github.com/andreidevs/hx-edit-nam/pull/5",
         "at": "2026-11-11T19:24:56Z"
-      }
+      },
+      "message_id": "1570376092131524640",
+      "sent_at": "2026-11-12T09:53:56Z"
     },
     "andreidevs/hx-edit-nam:release:442121198": {
       "status": "queued",
