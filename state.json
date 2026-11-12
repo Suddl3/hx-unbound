@@ -164,7 +164,7 @@
       "sent_at": "2026-11-12T09:53:39Z"
     },
     "crmne/tonepush:pr-opened:111": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "crmne/tonepush:pr-opened:111",
         "repo": "crmne/tonepush",
@@ -172,7 +172,9 @@
         "title": "#111 Keep large sends inside an HX Stomp's receive window",
         "url": "https://github.com/crmne/tonepush/pull/111",
         "at": "2026-11-11T11:11:06Z"
-      }
+      },
+      "message_id": "1570376028046495826",
+      "sent_at": "2026-11-12T09:53:41Z"
     },
     "crmne/tonepush:pr-opened:112": {
       "status": "queued",
