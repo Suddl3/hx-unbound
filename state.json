@@ -151,7 +151,7 @@
       }
     },
     "crmne/tonepush:pr-opened:110": {
-      "status": "queued",
+      "status": "sending",
       "event": {
         "key": "crmne/tonepush:pr-opened:110",
         "repo": "crmne/tonepush",
