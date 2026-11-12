@@ -203,7 +203,7 @@
       "sent_at": "2026-11-12T09:53:45Z"
     },
     "crmne/tonepush:pr-opened:115": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "crmne/tonepush:pr-opened:115",
         "repo": "crmne/tonepush",
@@ -211,7 +211,9 @@
         "title": "#115 Keep a block as it stands when it changes to its other variant",
         "url": "https://github.com/crmne/tonepush/pull/115",
         "at": "2026-11-11T13:32:52Z"
-      }
+      },
+      "message_id": "1570376054919528460",
+      "sent_at": "2026-11-12T09:53:47Z"
     },
     "crmne/tonepush:pr-opened:116": {
       "status": "queued",
