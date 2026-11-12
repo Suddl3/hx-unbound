@@ -177,7 +177,7 @@
       "sent_at": "2026-11-12T09:53:41Z"
     },
     "crmne/tonepush:pr-opened:112": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "crmne/tonepush:pr-opened:112",
         "repo": "crmne/tonepush",
@@ -185,7 +185,9 @@
         "title": "#112 Show a stomp or a knob used on the pedal",
         "url": "https://github.com/crmne/tonepush/pull/112",
         "at": "2026-11-11T12:03:18Z"
-      }
+      },
+      "message_id": "1570376036737355797",
+      "sent_at": "2026-11-12T09:53:43Z"
     },
     "crmne/tonepush:pr-opened:114": {
       "status": "queued",
