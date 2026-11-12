@@ -490,7 +490,7 @@
       "sent_at": "2026-11-12T09:53:58Z"
     },
     "crmne/tonepush:pr-opened:118": {
-      "status": "queued",
+      "status": "sending",
       "event": {
         "key": "crmne/tonepush:pr-opened:118",
         "repo": "crmne/tonepush",
