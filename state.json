@@ -542,7 +542,7 @@
       "sent_at": "2026-11-12T09:54:07Z"
     },
     "andreidevs/hx-edit-nam:release:442725312": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "andreidevs/hx-edit-nam:release:442725312",
         "repo": "andreidevs/hx-edit-nam",
@@ -550,7 +550,9 @@
         "title": "HX Edit NAM v0.4.1 for Windows",
         "url": "https://github.com/andreidevs/hx-edit-nam/releases/tag/v0.4.1",
         "at": "2026-11-12T09:25:12Z"
-      }
+      },
+      "message_id": "1570376146712002662",
+      "sent_at": "2026-11-12T09:54:10Z"
     }
   }
 }
