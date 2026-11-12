@@ -529,7 +529,7 @@
       "sent_at": "2026-11-12T09:54:05Z"
     },
     "andreidevs/hx-edit-nam:pr:6": {
-      "status": "queued",
+      "status": "sending",
       "event": {
         "key": "andreidevs/hx-edit-nam:pr:6",
         "repo": "andreidevs/hx-edit-nam",
