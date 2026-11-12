@@ -607,7 +607,7 @@
       "sent_at": "2026-11-12T18:21:59Z"
     },
     "wisemandenny/hxtra:pr-opened:63": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:63",
         "repo": "wisemandenny/hxtra",
@@ -615,7 +615,9 @@
         "title": "#63 More snapshots: MIDI CC 69 selects snapshots 4\u20136 (values 3\u20135)",
         "url": "https://github.com/wisemandenny/hxtra/pull/63",
         "at": "2026-11-12T15:16:10Z"
-      }
+      },
+      "message_id": "1570503956965097618",
+      "sent_at": "2026-11-12T18:22:01Z"
     },
     "wisemandenny/hxtra:pr-opened:64": {
       "status": "queued",
