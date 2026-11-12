@@ -555,7 +555,7 @@
       "sent_at": "2026-11-12T09:54:10Z"
     },
     "andreidevs/helix-lt-nam:release:443041364": {
-      "status": "queued",
+      "status": "sending",
       "event": {
         "key": "andreidevs/helix-lt-nam:release:443041364",
         "repo": "andreidevs/helix-lt-nam",
