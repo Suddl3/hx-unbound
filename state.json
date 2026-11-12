@@ -568,7 +568,7 @@
       "sent_at": "2026-11-12T18:21:51Z"
     },
     "wisemandenny/hxtra:pr-opened:61": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:61",
         "repo": "wisemandenny/hxtra",
@@ -576,7 +576,9 @@
         "title": "#61 Web setup page: readable step anchors",
         "url": "https://github.com/wisemandenny/hxtra/pull/61",
         "at": "2026-11-12T14:17:20Z"
-      }
+      },
+      "message_id": "1570503924455309403",
+      "sent_at": "2026-11-12T18:21:54Z"
     },
     "wisemandenny/hxtra:pr-opened:62": {
       "status": "queued",
