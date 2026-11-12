@@ -190,7 +190,7 @@
       "sent_at": "2026-11-12T09:53:43Z"
     },
     "crmne/tonepush:pr-opened:114": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "crmne/tonepush:pr-opened:114",
         "repo": "crmne/tonepush",
@@ -198,7 +198,9 @@
         "title": "#114 Place and price the variant the Mono or Stereo shelf shows",
         "url": "https://github.com/crmne/tonepush/pull/114",
         "at": "2026-11-11T13:06:03Z"
-      }
+      },
+      "message_id": "1570376045515898952",
+      "sent_at": "2026-11-12T09:53:45Z"
     },
     "crmne/tonepush:pr-opened:115": {
       "status": "queued",
