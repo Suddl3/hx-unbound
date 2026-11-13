@@ -1114,7 +1114,7 @@
       "sent_at": "2026-11-13T22:41:05Z"
     },
     "wisemandenny/hxtra:pr-opened:86": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:86",
         "repo": "wisemandenny/hxtra",
@@ -1122,7 +1122,9 @@
         "title": "#86 USB input and on-device feature tests",
         "url": "https://github.com/wisemandenny/hxtra/pull/86",
         "at": "2026-11-13T17:03:05Z"
-      }
+      },
+      "message_id": "1570931547954225223",
+      "sent_at": "2026-11-13T22:41:07Z"
     }
   }
 }
