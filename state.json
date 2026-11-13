@@ -958,7 +958,7 @@
       "sent_at": "2026-11-13T08:02:50Z"
     },
     "Suddl3/hx-unbound-floor:pr-opened:6": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-unbound-floor:pr-opened:6",
         "repo": "Suddl3/hx-unbound-floor",
@@ -966,7 +966,9 @@
         "title": "#6 Browser builder: load screen_mirror.py",
         "url": "https://github.com/Suddl3/hx-unbound-floor/pull/6",
         "at": "2026-11-13T14:14:41Z"
-      }
+      },
+      "message_id": "1570837893214240780",
+      "sent_at": "2026-11-13T16:28:58Z"
     },
     "Suddl3/hx-unbound-floor:pr-opened:7": {
       "status": "queued",
