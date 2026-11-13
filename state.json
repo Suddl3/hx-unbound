@@ -763,7 +763,7 @@
       "sent_at": "2026-11-13T00:29:19Z"
     },
     "wisemandenny/hxtra:pr-opened:70": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:70",
         "repo": "wisemandenny/hxtra",
@@ -771,7 +771,9 @@
         "title": "#70 README: demos behind Demo toggles",
         "url": "https://github.com/wisemandenny/hxtra/pull/70",
         "at": "2026-11-12T19:36:33Z"
-      }
+      },
+      "message_id": "1570596403082694697",
+      "sent_at": "2026-11-13T00:29:22Z"
     },
     "wisemandenny/hxtra:pr:70": {
       "status": "queued",
