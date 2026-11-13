@@ -1036,7 +1036,7 @@
       "sent_at": "2026-11-13T16:29:13Z"
     },
     "wisemandenny/hxtra:pr:76": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:76",
         "repo": "wisemandenny/hxtra",
@@ -1044,7 +1044,9 @@
         "title": "#76 NAM's Model knob reads as a whole number (#75)",
         "url": "https://github.com/wisemandenny/hxtra/pull/76",
         "at": "2026-11-13T14:53:58Z"
-      }
+      },
+      "message_id": "1570837966807367724",
+      "sent_at": "2026-11-13T16:29:16Z"
     },
     "wisemandenny/hxtra:pr-opened:80": {
       "status": "queued",
