@@ -1075,7 +1075,7 @@
       "sent_at": "2026-11-13T16:29:21Z"
     },
     "wisemandenny/hxtra:pr:83": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:83",
         "repo": "wisemandenny/hxtra",
@@ -1083,7 +1083,9 @@
         "title": "#83 CI: run the tests on pushes to next",
         "url": "https://github.com/wisemandenny/hxtra/pull/83",
         "at": "2026-11-13T16:14:44Z"
-      }
+      },
+      "message_id": "1570838000584101940",
+      "sent_at": "2026-11-13T16:29:24Z"
     }
   }
 }
