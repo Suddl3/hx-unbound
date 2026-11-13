@@ -906,7 +906,7 @@
       "sent_at": "2026-11-13T08:02:42Z"
     },
     "Suddl3/hx-unbound-floor:pr-opened:5": {
-      "status": "queued",
+      "status": "sending",
       "event": {
         "key": "Suddl3/hx-unbound-floor:pr-opened:5",
         "repo": "Suddl3/hx-unbound-floor",
