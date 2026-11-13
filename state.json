@@ -828,7 +828,7 @@
       "sent_at": "2026-11-13T00:29:33Z"
     },
     "nocaseguy/hx-stomp-nam-lite:pr-opened:13": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "nocaseguy/hx-stomp-nam-lite:pr-opened:13",
         "repo": "nocaseguy/hx-stomp-nam-lite",
@@ -836,7 +836,9 @@
         "title": "#13 Setup page: setup only; features move to the README",
         "url": "https://github.com/nocaseguy/hx-stomp-nam-lite/pull/13",
         "at": "2026-11-13T02:40:59Z"
-      }
+      },
+      "message_id": "1570710442278522932",
+      "sent_at": "2026-11-13T08:02:32Z"
     },
     "Suddl3/hx-unbound-floor:pr-opened:3": {
       "status": "queued",
