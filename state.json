@@ -789,7 +789,7 @@
       "sent_at": "2026-11-13T00:29:25Z"
     },
     "wisemandenny/hxtra:pr:68": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:68",
         "repo": "wisemandenny/hxtra",
@@ -797,7 +797,9 @@
         "title": "#68 Release v1.1.0",
         "url": "https://github.com/wisemandenny/hxtra/pull/68",
         "at": "2026-11-12T19:53:45Z"
-      }
+      },
+      "message_id": "1570596423215489065",
+      "sent_at": "2026-11-13T00:29:27Z"
     },
     "wisemandenny/hxtra:release:443438184": {
       "status": "queued",
