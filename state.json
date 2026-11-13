@@ -854,7 +854,7 @@
       "sent_at": "2026-11-13T08:02:34Z"
     },
     "Suddl3/hx-unbound-floor:pr-opened:4": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-unbound-floor:pr-opened:4",
         "repo": "Suddl3/hx-unbound-floor",
@@ -862,7 +862,9 @@
         "title": "#4 Screen mirror for the Floor (ported from HXtra)",
         "url": "https://github.com/Suddl3/hx-unbound-floor/pull/4",
         "at": "2026-11-13T02:56:36Z"
-      }
+      },
+      "message_id": "1570710461253685290",
+      "sent_at": "2026-11-13T08:02:36Z"
     },
     "Suddl3/hx-unbound-floor:pr:1": {
       "status": "queued",
