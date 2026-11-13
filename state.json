@@ -802,7 +802,7 @@
       "sent_at": "2026-11-13T00:29:27Z"
     },
     "wisemandenny/hxtra:release:443438184": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:release:443438184",
         "repo": "wisemandenny/hxtra",
@@ -810,7 +810,9 @@
         "title": "HXtra v1.1.0",
         "url": "https://github.com/wisemandenny/hxtra/releases/tag/v1.1.0",
         "at": "2026-11-12T19:54:39Z"
-      }
+      },
+      "message_id": "1570596436050051311",
+      "sent_at": "2026-11-13T00:29:30Z"
     },
     "andreidevs/hx-edit-nam:release:443528239": {
       "status": "queued",
