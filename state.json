@@ -3,22 +3,22 @@
   "repos": {
     "nocaseguy/hx-stomp-nam-lite": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-13T16:28:34Z",
+      "checked_at": "2026-11-13T22:40:48Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "savedadodo/helix-floor-nam-lite": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-13T16:28:34Z",
+      "checked_at": "2026-11-13T22:40:48Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "andreidevs/helix-lt-nam": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-13T16:28:34Z",
+      "checked_at": "2026-11-13T22:40:48Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "scottlynn73/hx-effects-nam-lite": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-13T16:28:34Z",
+      "checked_at": "2026-11-13T22:40:48Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "wisemandenny/hx-stomp-customOS": {
@@ -28,37 +28,37 @@
     },
     "andreidevs/hx-edit-nam": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-13T16:28:34Z",
+      "checked_at": "2026-11-13T22:40:48Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "Suddl3/hx-unbound-editor": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-13T16:28:34Z",
+      "checked_at": "2026-11-13T22:40:48Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "crmne/tonepush": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-13T16:28:34Z",
+      "checked_at": "2026-11-13T22:40:48Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "allansomensi/openhx": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-13T16:28:34Z",
+      "checked_at": "2026-11-13T22:40:48Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "mpeskett88/ToneRelay": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-13T16:28:34Z",
+      "checked_at": "2026-11-13T22:40:48Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "Suddl3/hx-unbound-floor": {
       "since": "2026-11-12T09:53:23Z",
-      "checked_at": "2026-11-13T16:28:34Z",
+      "checked_at": "2026-11-13T22:40:48Z",
       "opened_since": "2026-11-12T09:53:23Z"
     },
     "wisemandenny/hxtra": {
       "since": "2026-11-12T09:53:23Z",
-      "checked_at": "2026-11-13T16:28:34Z",
+      "checked_at": "2026-11-13T22:40:48Z",
       "opened_since": "2026-11-12T09:53:23Z"
     }
   },
@@ -1086,6 +1086,39 @@
       },
       "message_id": "1570838000584101940",
       "sent_at": "2026-11-13T16:29:24Z"
+    },
+    "wisemandenny/hxtra:pr-opened:85": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:85",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#85 README and setup page polish; page English moves into EN",
+        "url": "https://github.com/wisemandenny/hxtra/pull/85",
+        "at": "2026-11-13T16:56:59Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:85": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:85",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#85 README and setup page polish; page English moves into EN",
+        "url": "https://github.com/wisemandenny/hxtra/pull/85",
+        "at": "2026-11-13T16:57:10Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:86": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:86",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#86 USB input and on-device feature tests",
+        "url": "https://github.com/wisemandenny/hxtra/pull/86",
+        "at": "2026-11-13T17:03:05Z"
+      }
     }
   }
 }
