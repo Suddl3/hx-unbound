@@ -932,7 +932,7 @@
       "sent_at": "2026-11-13T08:02:46Z"
     },
     "wisemandenny/hxtra:pr:72": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:72",
         "repo": "wisemandenny/hxtra",
@@ -940,7 +940,9 @@
         "title": "#72 Setup page: setup only; features move to the README",
         "url": "https://github.com/wisemandenny/hxtra/pull/72",
         "at": "2026-11-13T02:58:19Z"
-      }
+      },
+      "message_id": "1570710509953622027",
+      "sent_at": "2026-11-13T08:02:48Z"
     },
     "wisemandenny/hxtra:pr-opened:73": {
       "status": "queued",
