@@ -945,7 +945,7 @@
       "sent_at": "2026-11-13T08:02:48Z"
     },
     "wisemandenny/hxtra:pr-opened:73": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:73",
         "repo": "wisemandenny/hxtra",
@@ -953,7 +953,9 @@
         "title": "#73 Metronome: MIDI In and footswitch assignment in Bypass Assign",
         "url": "https://github.com/wisemandenny/hxtra/pull/73",
         "at": "2026-11-13T03:17:21Z"
-      }
+      },
+      "message_id": "1570710518107209835",
+      "sent_at": "2026-11-13T08:02:50Z"
     }
   }
 }
