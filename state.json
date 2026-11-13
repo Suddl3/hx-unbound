@@ -724,7 +724,7 @@
       "sent_at": "2026-11-12T18:22:24Z"
     },
     "andreidevs/helix-lt-nam:release:443529176": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "andreidevs/helix-lt-nam:release:443529176",
         "repo": "andreidevs/helix-lt-nam",
@@ -732,7 +732,9 @@
         "title": "Helix LT: NAM Pedal block (NAM5_PEDAL)",
         "url": "https://github.com/andreidevs/helix-lt-nam/releases/tag/helix-lt-2026-11-13",
         "at": "2026-11-12T21:27:15Z"
-      }
+      },
+      "message_id": "1570596368983003307",
+      "sent_at": "2026-11-13T00:29:14Z"
     },
     "wisemandenny/hxtra:pr:67": {
       "status": "queued",
