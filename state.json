@@ -3,22 +3,22 @@
   "repos": {
     "nocaseguy/hx-stomp-nam-lite": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-13T08:02:18Z",
+      "checked_at": "2026-11-13T16:28:34Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "savedadodo/helix-floor-nam-lite": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-13T08:02:18Z",
+      "checked_at": "2026-11-13T16:28:34Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "andreidevs/helix-lt-nam": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-13T08:02:18Z",
+      "checked_at": "2026-11-13T16:28:34Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "scottlynn73/hx-effects-nam-lite": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-13T08:02:18Z",
+      "checked_at": "2026-11-13T16:28:34Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "wisemandenny/hx-stomp-customOS": {
@@ -28,37 +28,37 @@
     },
     "andreidevs/hx-edit-nam": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-13T08:02:18Z",
+      "checked_at": "2026-11-13T16:28:34Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "Suddl3/hx-unbound-editor": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-13T08:02:18Z",
+      "checked_at": "2026-11-13T16:28:34Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "crmne/tonepush": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-13T08:02:18Z",
+      "checked_at": "2026-11-13T16:28:34Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "allansomensi/openhx": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-13T08:02:18Z",
+      "checked_at": "2026-11-13T16:28:34Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "mpeskett88/ToneRelay": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-13T08:02:18Z",
+      "checked_at": "2026-11-13T16:28:34Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "Suddl3/hx-unbound-floor": {
       "since": "2026-11-12T09:53:23Z",
-      "checked_at": "2026-11-13T08:02:18Z",
+      "checked_at": "2026-11-13T16:28:34Z",
       "opened_since": "2026-11-12T09:53:23Z"
     },
     "wisemandenny/hxtra": {
       "since": "2026-11-12T09:53:23Z",
-      "checked_at": "2026-11-13T08:02:18Z",
+      "checked_at": "2026-11-13T16:28:34Z",
       "opened_since": "2026-11-12T09:53:23Z"
     }
   },
@@ -956,6 +956,116 @@
       },
       "message_id": "1570710518107209835",
       "sent_at": "2026-11-13T08:02:50Z"
+    },
+    "Suddl3/hx-unbound-floor:pr-opened:6": {
+      "status": "queued",
+      "event": {
+        "key": "Suddl3/hx-unbound-floor:pr-opened:6",
+        "repo": "Suddl3/hx-unbound-floor",
+        "kind": "Pull request opened",
+        "title": "#6 Browser builder: load screen_mirror.py",
+        "url": "https://github.com/Suddl3/hx-unbound-floor/pull/6",
+        "at": "2026-11-13T14:14:41Z"
+      }
+    },
+    "Suddl3/hx-unbound-floor:pr-opened:7": {
+      "status": "queued",
+      "event": {
+        "key": "Suddl3/hx-unbound-floor:pr-opened:7",
+        "repo": "Suddl3/hx-unbound-floor",
+        "kind": "Pull request opened",
+        "title": "#7 Opt-in real-gear names in the builder, with a generator",
+        "url": "https://github.com/Suddl3/hx-unbound-floor/pull/7",
+        "at": "2026-11-13T14:19:11Z"
+      }
+    },
+    "Suddl3/hx-unbound-floor:pr:6": {
+      "status": "queued",
+      "event": {
+        "key": "Suddl3/hx-unbound-floor:pr:6",
+        "repo": "Suddl3/hx-unbound-floor",
+        "kind": "Merged pull request",
+        "title": "#6 Browser builder: load screen_mirror.py",
+        "url": "https://github.com/Suddl3/hx-unbound-floor/pull/6",
+        "at": "2026-11-13T14:42:45Z"
+      }
+    },
+    "Suddl3/hx-unbound-floor:pr:5": {
+      "status": "queued",
+      "event": {
+        "key": "Suddl3/hx-unbound-floor:pr:5",
+        "repo": "Suddl3/hx-unbound-floor",
+        "kind": "Merged pull request",
+        "title": "#5 DSP meter for the Floor (from HXtra), remote input and restart",
+        "url": "https://github.com/Suddl3/hx-unbound-floor/pull/5",
+        "at": "2026-11-13T14:42:48Z"
+      }
+    },
+    "Suddl3/hx-unbound-floor:pr:7": {
+      "status": "queued",
+      "event": {
+        "key": "Suddl3/hx-unbound-floor:pr:7",
+        "repo": "Suddl3/hx-unbound-floor",
+        "kind": "Merged pull request",
+        "title": "#7 Opt-in real-gear names in the builder, with a generator",
+        "url": "https://github.com/Suddl3/hx-unbound-floor/pull/7",
+        "at": "2026-11-13T15:13:31Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:76": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:76",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#76 NAM's Model knob reads as a whole number (#75)",
+        "url": "https://github.com/wisemandenny/hxtra/pull/76",
+        "at": "2026-11-13T14:29:34Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:76": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:76",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#76 NAM's Model knob reads as a whole number (#75)",
+        "url": "https://github.com/wisemandenny/hxtra/pull/76",
+        "at": "2026-11-13T14:53:58Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:80": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:80",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#80 GR meter: Mtr Size with Off, S, M, L, XL",
+        "url": "https://github.com/wisemandenny/hxtra/pull/80",
+        "at": "2026-11-13T15:33:56Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:83": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:83",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#83 CI: run the tests on pushes to next",
+        "url": "https://github.com/wisemandenny/hxtra/pull/83",
+        "at": "2026-11-13T16:13:01Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:83": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:83",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#83 CI: run the tests on pushes to next",
+        "url": "https://github.com/wisemandenny/hxtra/pull/83",
+        "at": "2026-11-13T16:14:44Z"
+      }
     }
   }
 }
