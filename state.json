@@ -737,7 +737,7 @@
       "sent_at": "2026-11-13T00:29:14Z"
     },
     "wisemandenny/hxtra:pr:67": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:67",
         "repo": "wisemandenny/hxtra",
@@ -745,7 +745,9 @@
         "title": "#67 Demo videos: every feature's demo in the README, docs and web setup page, recorded with sound",
         "url": "https://github.com/wisemandenny/hxtra/pull/67",
         "at": "2026-11-12T19:03:29Z"
-      }
+      },
+      "message_id": "1570596380282458154",
+      "sent_at": "2026-11-13T00:29:17Z"
     },
     "wisemandenny/hxtra:pr-opened:68": {
       "status": "queued",
