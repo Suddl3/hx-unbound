@@ -880,7 +880,7 @@
       "sent_at": "2026-11-13T08:02:38Z"
     },
     "Suddl3/hx-unbound-floor:pr:3": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-unbound-floor:pr:3",
         "repo": "Suddl3/hx-unbound-floor",
@@ -888,7 +888,9 @@
         "title": "#3 DSP headroom tests and NAM cost 3250 on the Floor",
         "url": "https://github.com/Suddl3/hx-unbound-floor/pull/3",
         "at": "2026-11-13T04:50:45Z"
-      }
+      },
+      "message_id": "1570710477124665405",
+      "sent_at": "2026-11-13T08:02:40Z"
     },
     "Suddl3/hx-unbound-floor:pr:4": {
       "status": "queued",
