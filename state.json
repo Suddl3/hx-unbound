@@ -1088,7 +1088,7 @@
       "sent_at": "2026-11-13T16:29:24Z"
     },
     "wisemandenny/hxtra:pr-opened:85": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:85",
         "repo": "wisemandenny/hxtra",
@@ -1096,7 +1096,9 @@
         "title": "#85 README and setup page polish; page English moves into EN",
         "url": "https://github.com/wisemandenny/hxtra/pull/85",
         "at": "2026-11-13T16:56:59Z"
-      }
+      },
+      "message_id": "1570931526781239419",
+      "sent_at": "2026-11-13T22:41:02Z"
     },
     "wisemandenny/hxtra:pr:85": {
       "status": "queued",
