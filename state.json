@@ -906,7 +906,7 @@
       "sent_at": "2026-11-13T08:02:42Z"
     },
     "Suddl3/hx-unbound-floor:pr-opened:5": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-unbound-floor:pr-opened:5",
         "repo": "Suddl3/hx-unbound-floor",
@@ -914,7 +914,9 @@
         "title": "#5 DSP meter for the Floor (from HXtra), remote input and restart",
         "url": "https://github.com/Suddl3/hx-unbound-floor/pull/5",
         "at": "2026-11-13T07:25:07Z"
-      }
+      },
+      "message_id": "1570710493105233926",
+      "sent_at": "2026-11-13T08:02:44Z"
     },
     "wisemandenny/hxtra:pr-opened:72": {
       "status": "queued",
