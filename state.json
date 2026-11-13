@@ -867,7 +867,7 @@
       "sent_at": "2026-11-13T08:02:36Z"
     },
     "Suddl3/hx-unbound-floor:pr:1": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-unbound-floor:pr:1",
         "repo": "Suddl3/hx-unbound-floor",
@@ -875,7 +875,9 @@
         "title": "#1 Floor tools: faster kernel layout, DSP meter reader, custom model names, notes",
         "url": "https://github.com/Suddl3/hx-unbound-floor/pull/1",
         "at": "2026-11-13T02:56:55Z"
-      }
+      },
+      "message_id": "1570710469675712627",
+      "sent_at": "2026-11-13T08:02:38Z"
     },
     "Suddl3/hx-unbound-floor:pr:3": {
       "status": "queued",
