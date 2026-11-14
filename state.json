@@ -1244,7 +1244,7 @@
       "sent_at": "2026-11-14T22:28:47Z"
     },
     "wisemandenny/hxtra:pr:101": {
-      "status": "queued",
+      "status": "sending",
       "event": {
         "key": "wisemandenny/hxtra:pr:101",
         "repo": "wisemandenny/hxtra",
