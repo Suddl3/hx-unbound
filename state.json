@@ -1244,7 +1244,7 @@
       "sent_at": "2026-11-14T22:28:47Z"
     },
     "wisemandenny/hxtra:pr:101": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:101",
         "repo": "wisemandenny/hxtra",
@@ -1252,7 +1252,9 @@
         "title": "#101 Long press: GlobalEQ footswitch function, any footswitch leaves Global EQ",
         "url": "https://github.com/wisemandenny/hxtra/pull/101",
         "at": "2026-11-14T22:19:21Z"
-      }
+      },
+      "message_id": "1571290841258004551",
+      "sent_at": "2026-11-14T22:28:50Z"
     }
   }
 }
