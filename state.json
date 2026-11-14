@@ -1231,7 +1231,7 @@
       "sent_at": "2026-11-14T22:28:45Z"
     },
     "wisemandenny/hxtra:pr:73": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:73",
         "repo": "wisemandenny/hxtra",
@@ -1239,7 +1239,9 @@
         "title": "#73 Metronome: MIDI In, footswitch assignment and LED colour in Bypass Assign",
         "url": "https://github.com/wisemandenny/hxtra/pull/73",
         "at": "2026-11-14T22:03:10Z"
-      }
+      },
+      "message_id": "1571290832831512630",
+      "sent_at": "2026-11-14T22:28:47Z"
     },
     "wisemandenny/hxtra:pr:101": {
       "status": "queued",
