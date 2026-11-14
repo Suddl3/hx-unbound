@@ -1127,7 +1127,7 @@
       "sent_at": "2026-11-13T22:41:07Z"
     },
     "wisemandenny/hxtra:pr:80": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:80",
         "repo": "wisemandenny/hxtra",
@@ -1135,7 +1135,9 @@
         "title": "#80 GR meter: Mtr Size with Off, S, M, L, XL",
         "url": "https://github.com/wisemandenny/hxtra/pull/80",
         "at": "2026-11-14T03:50:16Z"
-      }
+      },
+      "message_id": "1571125475831717889",
+      "sent_at": "2026-11-14T11:31:43Z"
     }
   }
 }
