@@ -1166,7 +1166,7 @@
       "sent_at": "2026-11-14T22:28:35Z"
     },
     "wisemandenny/hxtra:pr:100": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:100",
         "repo": "wisemandenny/hxtra",
@@ -1174,7 +1174,9 @@
         "title": "#100 BPM note: the beat dot syncs with the metronome",
         "url": "https://github.com/wisemandenny/hxtra/pull/100",
         "at": "2026-11-14T20:42:54Z"
-      }
+      },
+      "message_id": "1571290790339285159",
+      "sent_at": "2026-11-14T22:28:37Z"
     },
     "wisemandenny/hxtra:pr:86": {
       "status": "queued",
