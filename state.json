@@ -1218,7 +1218,7 @@
       "sent_at": "2026-11-14T22:28:43Z"
     },
     "wisemandenny/hxtra:pr:102": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:102",
         "repo": "wisemandenny/hxtra",
@@ -1226,7 +1226,9 @@
         "title": "#102 GR meter on a compressor's Edit view",
         "url": "https://github.com/wisemandenny/hxtra/pull/102",
         "at": "2026-11-14T21:50:25Z"
-      }
+      },
+      "message_id": "1571290823973142529",
+      "sent_at": "2026-11-14T22:28:45Z"
     },
     "wisemandenny/hxtra:pr:73": {
       "status": "queued",
