@@ -1140,7 +1140,7 @@
       "sent_at": "2026-11-14T11:31:43Z"
     },
     "Suddl3/hx-unbound-floor:pr-opened:8": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-unbound-floor:pr-opened:8",
         "repo": "Suddl3/hx-unbound-floor",
@@ -1148,7 +1148,9 @@
         "title": "#8 Focus View and model pictures: research (experimental)",
         "url": "https://github.com/Suddl3/hx-unbound-floor/pull/8",
         "at": "2026-11-14T17:16:58Z"
-      }
+      },
+      "message_id": "1571225440188629085",
+      "sent_at": "2026-11-14T18:08:57Z"
     }
   }
 }
