@@ -3,22 +3,22 @@
   "repos": {
     "nocaseguy/hx-stomp-nam-lite": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-14T22:28:22Z",
+      "checked_at": "2026-11-15T02:43:01Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "savedadodo/helix-floor-nam-lite": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-14T22:28:22Z",
+      "checked_at": "2026-11-15T02:43:01Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "andreidevs/helix-lt-nam": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-14T22:28:22Z",
+      "checked_at": "2026-11-15T02:43:01Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "scottlynn73/hx-effects-nam-lite": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-14T22:28:22Z",
+      "checked_at": "2026-11-15T02:43:01Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "wisemandenny/hx-stomp-customOS": {
@@ -28,37 +28,37 @@
     },
     "andreidevs/hx-edit-nam": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-14T22:28:22Z",
+      "checked_at": "2026-11-15T02:43:01Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "Suddl3/hx-unbound-editor": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-14T22:28:22Z",
+      "checked_at": "2026-11-15T02:43:01Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "crmne/tonepush": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-14T22:28:22Z",
+      "checked_at": "2026-11-15T02:43:01Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "allansomensi/openhx": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-14T22:28:22Z",
+      "checked_at": "2026-11-15T02:43:01Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "mpeskett88/ToneRelay": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-14T22:28:22Z",
+      "checked_at": "2026-11-15T02:43:01Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "Suddl3/hx-unbound-floor": {
       "since": "2026-11-12T09:53:23Z",
-      "checked_at": "2026-11-14T22:28:22Z",
+      "checked_at": "2026-11-15T02:43:01Z",
       "opened_since": "2026-11-12T09:53:23Z"
     },
     "wisemandenny/hxtra": {
       "since": "2026-11-12T09:53:23Z",
-      "checked_at": "2026-11-14T22:28:22Z",
+      "checked_at": "2026-11-15T02:43:01Z",
       "opened_since": "2026-11-12T09:53:23Z"
     }
   },
@@ -1255,6 +1255,28 @@
       },
       "message_id": "1571290841258004551",
       "sent_at": "2026-11-14T22:28:50Z"
+    },
+    "wisemandenny/hxtra:pr-opened:105": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:105",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#105 FX Loop gate: Gate, Threshold and Decay on the FX Loop and Return blocks (#69)",
+        "url": "https://github.com/wisemandenny/hxtra/pull/105",
+        "at": "2026-11-15T01:06:04Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:106": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:106",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#106 GR meter: 789 normal words of Block 3 instead of 1,236",
+        "url": "https://github.com/wisemandenny/hxtra/pull/106",
+        "at": "2026-11-15T01:34:42Z"
+      }
     }
   }
 }
