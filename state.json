@@ -1257,7 +1257,7 @@
       "sent_at": "2026-11-14T22:28:50Z"
     },
     "wisemandenny/hxtra:pr-opened:105": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:105",
         "repo": "wisemandenny/hxtra",
@@ -1265,7 +1265,9 @@
         "title": "#105 FX Loop gate: Gate, Threshold and Decay on the FX Loop and Return blocks (#69)",
         "url": "https://github.com/wisemandenny/hxtra/pull/105",
         "at": "2026-11-15T01:06:04Z"
-      }
+      },
+      "message_id": "1571354876406009859",
+      "sent_at": "2026-11-15T02:43:17Z"
     },
     "wisemandenny/hxtra:pr-opened:106": {
       "status": "queued",
