@@ -1647,7 +1647,7 @@
       "sent_at": "2026-11-16T22:10:29Z"
     },
     "wisemandenny/hxtra:pr:123": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:123",
         "repo": "wisemandenny/hxtra",
@@ -1655,7 +1655,9 @@
         "title": "#123 NAM's free SHARC primitive list drops the five stock-used rows",
         "url": "https://github.com/wisemandenny/hxtra/pull/123",
         "at": "2026-11-16T20:11:46Z"
-      }
+      },
+      "message_id": "1572011011668443288",
+      "sent_at": "2026-11-16T22:10:31Z"
     }
   }
 }
