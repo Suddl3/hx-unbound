@@ -1296,7 +1296,7 @@
       "sent_at": "2026-11-16T11:28:00Z"
     },
     "crmne/tonepush:pr-opened:123": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "crmne/tonepush:pr-opened:123",
         "repo": "crmne/tonepush",
@@ -1304,7 +1304,9 @@
         "title": "#123 Update fastframe to v0.17.0",
         "url": "https://github.com/crmne/tonepush/pull/123",
         "at": "2026-11-16T03:24:49Z"
-      }
+      },
+      "message_id": "1571849325632299069",
+      "sent_at": "2026-11-16T11:28:02Z"
     },
     "crmne/tonepush:pr:122": {
       "status": "queued",
