@@ -1491,7 +1491,7 @@
       "sent_at": "2026-11-16T22:09:57Z"
     },
     "wisemandenny/hxtra:pr-opened:119": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:119",
         "repo": "wisemandenny/hxtra",
@@ -1499,7 +1499,9 @@
         "title": "#119 Button combinations: research note, and hx_input presses controls together",
         "url": "https://github.com/wisemandenny/hxtra/pull/119",
         "at": "2026-11-16T17:34:11Z"
-      }
+      },
+      "message_id": "1572010877853507695",
+      "sent_at": "2026-11-16T22:09:59Z"
     },
     "wisemandenny/hxtra:pr-opened:120": {
       "status": "queued",
