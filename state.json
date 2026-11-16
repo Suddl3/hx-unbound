@@ -1387,7 +1387,7 @@
       "sent_at": "2026-11-16T22:09:36Z"
     },
     "wisemandenny/hxtra:pr:106": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:106",
         "repo": "wisemandenny/hxtra",
@@ -1395,7 +1395,9 @@
         "title": "#106 GR meter: 789 normal words of Block 3 instead of 1,236",
         "url": "https://github.com/wisemandenny/hxtra/pull/106",
         "at": "2026-11-16T14:53:41Z"
-      }
+      },
+      "message_id": "1572010791798968392",
+      "sent_at": "2026-11-16T22:09:39Z"
     },
     "wisemandenny/hxtra:pr:105": {
       "status": "queued",
