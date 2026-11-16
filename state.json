@@ -1582,7 +1582,7 @@
       "sent_at": "2026-11-16T22:10:15Z"
     },
     "wisemandenny/hxtra:pr-opened:122": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:122",
         "repo": "wisemandenny/hxtra",
@@ -1590,7 +1590,9 @@
         "title": "#122 Research: USB and jack routing on the SHARC (#81, #93)",
         "url": "https://github.com/wisemandenny/hxtra/pull/122",
         "at": "2026-11-16T18:24:36Z"
-      }
+      },
+      "message_id": "1572010955079024651",
+      "sent_at": "2026-11-16T22:10:18Z"
     },
     "wisemandenny/hxtra:pr:119": {
       "status": "queued",
