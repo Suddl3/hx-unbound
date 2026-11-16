@@ -1413,7 +1413,7 @@
       "sent_at": "2026-11-16T22:09:42Z"
     },
     "wisemandenny/hxtra:pr-opened:113": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:113",
         "repo": "wisemandenny/hxtra",
@@ -1421,7 +1421,9 @@
         "title": "#113 DSP features share one Block 3 room; the setup page picks NAM blocks and DSP features (#111)",
         "url": "https://github.com/wisemandenny/hxtra/pull/113",
         "at": "2026-11-16T16:13:11Z"
-      }
+      },
+      "message_id": "1572010813760217099",
+      "sent_at": "2026-11-16T22:09:44Z"
     },
     "wisemandenny/hxtra:pr-opened:114": {
       "status": "queued",
