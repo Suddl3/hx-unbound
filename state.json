@@ -1374,7 +1374,7 @@
       "sent_at": "2026-11-16T22:09:33Z"
     },
     "wisemandenny/hxtra:pr:110": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:110",
         "repo": "wisemandenny/hxtra",
@@ -1382,7 +1382,9 @@
         "title": "#110 Outside pull requests aimed at main are retargeted to next (main)",
         "url": "https://github.com/wisemandenny/hxtra/pull/110",
         "at": "2026-11-16T14:43:05Z"
-      }
+      },
+      "message_id": "1572010778175737978",
+      "sent_at": "2026-11-16T22:09:36Z"
     },
     "wisemandenny/hxtra:pr:106": {
       "status": "queued",
