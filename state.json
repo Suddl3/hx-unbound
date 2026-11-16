@@ -1478,7 +1478,7 @@
       "sent_at": "2026-11-16T22:09:54Z"
     },
     "wisemandenny/hxtra:pr-opened:118": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:118",
         "repo": "wisemandenny/hxtra",
@@ -1486,7 +1486,9 @@
         "title": "#118 SHARC disassembler for Entry 2: 48-bit ISA and VISA",
         "url": "https://github.com/wisemandenny/hxtra/pull/118",
         "at": "2026-11-16T17:30:42Z"
-      }
+      },
+      "message_id": "1572010866365431992",
+      "sent_at": "2026-11-16T22:09:57Z"
     },
     "wisemandenny/hxtra:pr-opened:119": {
       "status": "queued",
