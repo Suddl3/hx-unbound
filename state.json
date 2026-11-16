@@ -1400,7 +1400,7 @@
       "sent_at": "2026-11-16T22:09:39Z"
     },
     "wisemandenny/hxtra:pr:105": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:105",
         "repo": "wisemandenny/hxtra",
@@ -1408,7 +1408,9 @@
         "title": "#105 Noise gate on FX Loop and Return blocks (#69)",
         "url": "https://github.com/wisemandenny/hxtra/pull/105",
         "at": "2026-11-16T15:37:47Z"
-      }
+      },
+      "message_id": "1572010803740020850",
+      "sent_at": "2026-11-16T22:09:42Z"
     },
     "wisemandenny/hxtra:pr-opened:113": {
       "status": "queued",
