@@ -1439,7 +1439,7 @@
       "sent_at": "2026-11-16T22:09:47Z"
     },
     "wisemandenny/hxtra:pr:114": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:114",
         "repo": "wisemandenny/hxtra",
@@ -1447,7 +1447,9 @@
         "title": "#114 USB monitoring: Ins/Outs > Path A Out to USB 3/4 for DAW monitoring (#81)",
         "url": "https://github.com/wisemandenny/hxtra/pull/114",
         "at": "2026-11-16T16:27:19Z"
-      }
+      },
+      "message_id": "1572010835444760718",
+      "sent_at": "2026-11-16T22:09:49Z"
     },
     "wisemandenny/hxtra:pr-opened:115": {
       "status": "queued",
