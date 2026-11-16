@@ -1634,7 +1634,7 @@
       "sent_at": "2026-11-16T22:10:26Z"
     },
     "wisemandenny/hxtra:pr:117": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:117",
         "repo": "wisemandenny/hxtra",
@@ -1642,7 +1642,9 @@
         "title": "#117 Preset mode LED colors: a global color, and per-preset colors lit when selected and dimmed when not",
         "url": "https://github.com/wisemandenny/hxtra/pull/117",
         "at": "2026-11-16T20:03:20Z"
-      }
+      },
+      "message_id": "1572011001384271933",
+      "sent_at": "2026-11-16T22:10:29Z"
     },
     "wisemandenny/hxtra:pr:123": {
       "status": "queued",
