@@ -3,22 +3,22 @@
   "repos": {
     "nocaseguy/hx-stomp-nam-lite": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-16T11:27:41Z",
+      "checked_at": "2026-11-16T22:09:09Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "savedadodo/helix-floor-nam-lite": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-16T11:27:41Z",
+      "checked_at": "2026-11-16T22:09:09Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "andreidevs/helix-lt-nam": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-16T11:27:41Z",
+      "checked_at": "2026-11-16T22:09:09Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "scottlynn73/hx-effects-nam-lite": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-16T11:27:41Z",
+      "checked_at": "2026-11-16T22:09:09Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "wisemandenny/hx-stomp-customOS": {
@@ -28,37 +28,37 @@
     },
     "andreidevs/hx-edit-nam": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-16T11:27:41Z",
+      "checked_at": "2026-11-16T22:09:09Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "Suddl3/hx-unbound-editor": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-16T11:27:41Z",
+      "checked_at": "2026-11-16T22:09:09Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "crmne/tonepush": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-16T11:27:41Z",
+      "checked_at": "2026-11-16T22:09:09Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "allansomensi/openhx": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-16T11:27:41Z",
+      "checked_at": "2026-11-16T22:09:09Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "mpeskett88/ToneRelay": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-16T11:27:41Z",
+      "checked_at": "2026-11-16T22:09:09Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "Suddl3/hx-unbound-floor": {
       "since": "2026-11-12T09:53:23Z",
-      "checked_at": "2026-11-16T11:27:41Z",
+      "checked_at": "2026-11-16T22:09:09Z",
       "opened_since": "2026-11-12T09:53:23Z"
     },
     "wisemandenny/hxtra": {
       "since": "2026-11-12T09:53:23Z",
-      "checked_at": "2026-11-16T11:27:41Z",
+      "checked_at": "2026-11-16T22:09:09Z",
       "opened_since": "2026-11-12T09:53:23Z"
     }
   },
@@ -1320,6 +1320,292 @@
       },
       "message_id": "1571849336508129303",
       "sent_at": "2026-11-16T11:28:05Z"
+    },
+    "nocaseguy/hx-stomp-nam-lite:pr-opened:15": {
+      "status": "queued",
+      "event": {
+        "key": "nocaseguy/hx-stomp-nam-lite:pr-opened:15",
+        "repo": "nocaseguy/hx-stomp-nam-lite",
+        "kind": "Pull request opened",
+        "title": "#15 SHARC disassembler for Entry 2: 48-bit ISA and VISA",
+        "url": "https://github.com/nocaseguy/hx-stomp-nam-lite/pull/15",
+        "at": "2026-11-16T17:32:08Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:109": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:109",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#109 Outside pull requests aimed at main are retargeted to next",
+        "url": "https://github.com/wisemandenny/hxtra/pull/109",
+        "at": "2026-11-16T14:39:42Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:110": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:110",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#110 Outside pull requests aimed at main are retargeted to next (main)",
+        "url": "https://github.com/wisemandenny/hxtra/pull/110",
+        "at": "2026-11-16T14:39:45Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:109": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:109",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#109 Outside pull requests aimed at main are retargeted to next",
+        "url": "https://github.com/wisemandenny/hxtra/pull/109",
+        "at": "2026-11-16T14:42:57Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:110": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:110",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#110 Outside pull requests aimed at main are retargeted to next (main)",
+        "url": "https://github.com/wisemandenny/hxtra/pull/110",
+        "at": "2026-11-16T14:43:05Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:106": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:106",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#106 GR meter: 789 normal words of Block 3 instead of 1,236",
+        "url": "https://github.com/wisemandenny/hxtra/pull/106",
+        "at": "2026-11-16T14:53:41Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:105": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:105",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#105 Noise gate on FX Loop and Return blocks (#69)",
+        "url": "https://github.com/wisemandenny/hxtra/pull/105",
+        "at": "2026-11-16T15:37:47Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:113": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:113",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#113 DSP features share one Block 3 room; the setup page picks NAM blocks and DSP features (#111)",
+        "url": "https://github.com/wisemandenny/hxtra/pull/113",
+        "at": "2026-11-16T16:13:11Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:114": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:114",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#114 USB monitoring: Ins/Outs > Path A Out to USB 3/4 for DAW monitoring (#81)",
+        "url": "https://github.com/wisemandenny/hxtra/pull/114",
+        "at": "2026-11-16T16:13:43Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:114": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:114",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#114 USB monitoring: Ins/Outs > Path A Out to USB 3/4 for DAW monitoring (#81)",
+        "url": "https://github.com/wisemandenny/hxtra/pull/114",
+        "at": "2026-11-16T16:27:19Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:115": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:115",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#115 Global setting for selected preset's LED color in Preset mode",
+        "url": "https://github.com/wisemandenny/hxtra/pull/115",
+        "at": "2026-11-16T16:42:13Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:117": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:117",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#117 Preset mode LED colors: a global color, and per-preset colors lit when selected and dimmed when not",
+        "url": "https://github.com/wisemandenny/hxtra/pull/117",
+        "at": "2026-11-16T17:00:37Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:118": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:118",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#118 SHARC disassembler for Entry 2: 48-bit ISA and VISA",
+        "url": "https://github.com/wisemandenny/hxtra/pull/118",
+        "at": "2026-11-16T17:30:42Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:119": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:119",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#119 Button combinations: research note, and hx_input presses controls together",
+        "url": "https://github.com/wisemandenny/hxtra/pull/119",
+        "at": "2026-11-16T17:34:11Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:120": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:120",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#120 Ignore local/, a repo-root folder for your own files",
+        "url": "https://github.com/wisemandenny/hxtra/pull/120",
+        "at": "2026-11-16T17:36:28Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:118": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:118",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#118 SHARC disassembler for Entry 2: 48-bit ISA and VISA",
+        "url": "https://github.com/wisemandenny/hxtra/pull/118",
+        "at": "2026-11-16T17:41:35Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:120": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:120",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#120 Ignore local/, a repo-root folder for your own files",
+        "url": "https://github.com/wisemandenny/hxtra/pull/120",
+        "at": "2026-11-16T17:45:54Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:113": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:113",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#113 DSP features share one Block 3 room; the setup page picks NAM blocks and DSP features (#111)",
+        "url": "https://github.com/wisemandenny/hxtra/pull/113",
+        "at": "2026-11-16T17:51:05Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:121": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:121",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#121 Research note: split, merge and path B on the M4",
+        "url": "https://github.com/wisemandenny/hxtra/pull/121",
+        "at": "2026-11-16T18:02:20Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:121": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:121",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#121 Research note: split, merge and path B on the M4",
+        "url": "https://github.com/wisemandenny/hxtra/pull/121",
+        "at": "2026-11-16T18:13:11Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:122": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:122",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#122 Research: USB and jack routing on the SHARC (#81, #93)",
+        "url": "https://github.com/wisemandenny/hxtra/pull/122",
+        "at": "2026-11-16T18:24:36Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:119": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:119",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#119 Button combinations: research note, and hx_input presses controls together",
+        "url": "https://github.com/wisemandenny/hxtra/pull/119",
+        "at": "2026-11-16T18:29:14Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:122": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:122",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#122 Research: USB and jack routing on the SHARC (#81, #93)",
+        "url": "https://github.com/wisemandenny/hxtra/pull/122",
+        "at": "2026-11-16T18:38:29Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:123": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:123",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#123 NAM's free SHARC primitive list drops the five stock-used rows",
+        "url": "https://github.com/wisemandenny/hxtra/pull/123",
+        "at": "2026-11-16T19:48:35Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:117": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:117",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#117 Preset mode LED colors: a global color, and per-preset colors lit when selected and dimmed when not",
+        "url": "https://github.com/wisemandenny/hxtra/pull/117",
+        "at": "2026-11-16T20:03:20Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:123": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:123",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#123 NAM's free SHARC primitive list drops the five stock-used rows",
+        "url": "https://github.com/wisemandenny/hxtra/pull/123",
+        "at": "2026-11-16T20:11:46Z"
+      }
     }
   }
 }
