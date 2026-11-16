@@ -1530,7 +1530,7 @@
       "sent_at": "2026-11-16T22:10:05Z"
     },
     "wisemandenny/hxtra:pr:120": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:120",
         "repo": "wisemandenny/hxtra",
@@ -1538,7 +1538,9 @@
         "title": "#120 Ignore local/, a repo-root folder for your own files",
         "url": "https://github.com/wisemandenny/hxtra/pull/120",
         "at": "2026-11-16T17:45:54Z"
-      }
+      },
+      "message_id": "1572010912708042823",
+      "sent_at": "2026-11-16T22:10:08Z"
     },
     "wisemandenny/hxtra:pr:113": {
       "status": "queued",
