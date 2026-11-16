@@ -1569,7 +1569,7 @@
       "sent_at": "2026-11-16T22:10:13Z"
     },
     "wisemandenny/hxtra:pr:121": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:121",
         "repo": "wisemandenny/hxtra",
@@ -1577,7 +1577,9 @@
         "title": "#121 Research note: split, merge and path B on the M4",
         "url": "https://github.com/wisemandenny/hxtra/pull/121",
         "at": "2026-11-16T18:13:11Z"
-      }
+      },
+      "message_id": "1572010944027041973",
+      "sent_at": "2026-11-16T22:10:15Z"
     },
     "wisemandenny/hxtra:pr-opened:122": {
       "status": "queued",
