@@ -1322,7 +1322,7 @@
       "sent_at": "2026-11-16T11:28:05Z"
     },
     "nocaseguy/hx-stomp-nam-lite:pr-opened:15": {
-      "status": "queued",
+      "status": "sending",
       "event": {
         "key": "nocaseguy/hx-stomp-nam-lite:pr-opened:15",
         "repo": "nocaseguy/hx-stomp-nam-lite",
