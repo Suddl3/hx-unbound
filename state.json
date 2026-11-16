@@ -1309,7 +1309,7 @@
       "sent_at": "2026-11-16T11:28:02Z"
     },
     "crmne/tonepush:pr:122": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "crmne/tonepush:pr:122",
         "repo": "crmne/tonepush",
@@ -1317,7 +1317,9 @@
         "title": "#122 Update weekly dependency updates",
         "url": "https://github.com/crmne/tonepush/pull/122",
         "at": "2026-11-16T08:07:28Z"
-      }
+      },
+      "message_id": "1571849336508129303",
+      "sent_at": "2026-11-16T11:28:05Z"
     }
   }
 }
