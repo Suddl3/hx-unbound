@@ -1452,7 +1452,7 @@
       "sent_at": "2026-11-16T22:09:49Z"
     },
     "wisemandenny/hxtra:pr-opened:115": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:115",
         "repo": "wisemandenny/hxtra",
@@ -1460,7 +1460,9 @@
         "title": "#115 Global setting for selected preset's LED color in Preset mode",
         "url": "https://github.com/wisemandenny/hxtra/pull/115",
         "at": "2026-11-16T16:42:13Z"
-      }
+      },
+      "message_id": "1572010846081523804",
+      "sent_at": "2026-11-16T22:09:52Z"
     },
     "wisemandenny/hxtra:pr-opened:117": {
       "status": "queued",
