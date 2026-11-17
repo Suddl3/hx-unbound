@@ -1769,7 +1769,7 @@
       "sent_at": "2026-11-17T04:31:36Z"
     },
     "wisemandenny/hxtra:pr-opened:127": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:127",
         "repo": "wisemandenny/hxtra",
@@ -1777,7 +1777,9 @@
         "title": "#127 Six snapshots: renamed snapshot names no longer cut by a black band after bank B",
         "url": "https://github.com/wisemandenny/hxtra/pull/127",
         "at": "2026-11-17T01:04:40Z"
-      }
+      },
+      "message_id": "1572106922432135341",
+      "sent_at": "2026-11-17T04:31:38Z"
     },
     "wisemandenny/hxtra:pr:127": {
       "status": "queued",
