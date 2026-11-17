@@ -1730,7 +1730,7 @@
       "sent_at": "2026-11-17T04:31:29Z"
     },
     "wisemandenny/hxtra:pr:124": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:124",
         "repo": "wisemandenny/hxtra",
@@ -1738,7 +1738,9 @@
         "title": "#124 Path A Out: USB Only, path A to USB 3/4 with the Send jacks silent",
         "url": "https://github.com/wisemandenny/hxtra/pull/124",
         "at": "2026-11-16T22:44:44Z"
-      }
+      },
+      "message_id": "1572106894678556814",
+      "sent_at": "2026-11-17T04:31:32Z"
     },
     "wisemandenny/hxtra:pr-opened:126": {
       "status": "queued",
