@@ -1847,7 +1847,7 @@
       "sent_at": "2026-11-17T04:31:49Z"
     },
     "wisemandenny/hxtra:pr:128": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:128",
         "repo": "wisemandenny/hxtra",
@@ -1855,7 +1855,9 @@
         "title": "#128 GR meter: unmetered compressor cores go straight to the stock code (#84)",
         "url": "https://github.com/wisemandenny/hxtra/pull/128",
         "at": "2026-11-17T02:58:35Z"
-      }
+      },
+      "message_id": "1572106973535674389",
+      "sent_at": "2026-11-17T04:31:50Z"
     },
     "wisemandenny/hxtra:pr:129": {
       "status": "queued",
