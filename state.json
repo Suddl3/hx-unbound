@@ -2068,7 +2068,7 @@
       "sent_at": "2026-11-17T22:55:42Z"
     },
     "allansomensi/openhx:pr-opened:13": {
-      "status": "queued",
+      "status": "sending",
       "event": {
         "key": "allansomensi/openhx:pr-opened:13",
         "repo": "allansomensi/openhx",
