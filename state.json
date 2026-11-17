@@ -1899,7 +1899,7 @@
       "sent_at": "2026-11-17T14:29:17Z"
     },
     "wisemandenny/hxtra:pr-opened:132": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:132",
         "repo": "wisemandenny/hxtra",
@@ -1907,7 +1907,9 @@
         "title": "#132 README: \"Watch demo\" badge on the demo toggles",
         "url": "https://github.com/wisemandenny/hxtra/pull/132",
         "at": "2026-11-17T14:23:35Z"
-      }
+      },
+      "message_id": "1572257336070906119",
+      "sent_at": "2026-11-17T14:29:20Z"
     }
   }
 }
