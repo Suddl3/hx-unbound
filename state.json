@@ -1964,7 +1964,7 @@
       "sent_at": "2026-11-17T22:55:20Z"
     },
     "wisemandenny/hxtra:pr-opened:134": {
-      "status": "queued",
+      "status": "sending",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:134",
         "repo": "wisemandenny/hxtra",
