@@ -1743,7 +1743,7 @@
       "sent_at": "2026-11-17T04:31:32Z"
     },
     "wisemandenny/hxtra:pr-opened:126": {
-      "status": "queued",
+      "status": "sending",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:126",
         "repo": "wisemandenny/hxtra",
