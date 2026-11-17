@@ -1743,7 +1743,7 @@
       "sent_at": "2026-11-17T04:31:32Z"
     },
     "wisemandenny/hxtra:pr-opened:126": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:126",
         "repo": "wisemandenny/hxtra",
@@ -1751,7 +1751,9 @@
         "title": "#126 Path A Out: Main+Snd, Main copied to the Send jacks and USB 3/4",
         "url": "https://github.com/wisemandenny/hxtra/pull/126",
         "at": "2026-11-17T00:16:49Z"
-      }
+      },
+      "message_id": "1572106905415979142",
+      "sent_at": "2026-11-17T04:31:34Z"
     },
     "wisemandenny/hxtra:pr:126": {
       "status": "queued",
