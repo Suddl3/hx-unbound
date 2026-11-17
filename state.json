@@ -2068,7 +2068,7 @@
       "sent_at": "2026-11-17T22:55:42Z"
     },
     "allansomensi/openhx:pr-opened:13": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "allansomensi/openhx:pr-opened:13",
         "repo": "allansomensi/openhx",
@@ -2076,7 +2076,9 @@
         "title": "#13 fix(core): take a preset's slot from its array position",
         "url": "https://github.com/allansomensi/openhx/pull/13",
         "at": "2026-11-17T15:31:44Z"
-      }
+      },
+      "message_id": "1572384781566738613",
+      "sent_at": "2026-11-17T22:55:45Z"
     },
     "allansomensi/openhx:pr-opened:15": {
       "status": "queued",
