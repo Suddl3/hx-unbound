@@ -2003,7 +2003,7 @@
       "sent_at": "2026-11-17T22:55:28Z"
     },
     "wisemandenny/hxtra:pr:132": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:132",
         "repo": "wisemandenny/hxtra",
@@ -2011,7 +2011,9 @@
         "title": "#132 Feature tour page (web/features.html) replaces docs/features.md; README Watch demo badges link to it",
         "url": "https://github.com/wisemandenny/hxtra/pull/132",
         "at": "2026-11-17T16:22:59Z"
-      }
+      },
+      "message_id": "1572384722787504149",
+      "sent_at": "2026-11-17T22:55:31Z"
     },
     "wisemandenny/hxtra:pr-opened:135": {
       "status": "queued",
