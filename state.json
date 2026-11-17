@@ -1886,7 +1886,7 @@
       "sent_at": "2026-11-17T14:29:15Z"
     },
     "Suddl3/hx-unbound-floor:pr-opened:13": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-unbound-floor:pr-opened:13",
         "repo": "Suddl3/hx-unbound-floor",
@@ -1894,7 +1894,9 @@
         "title": "#13 NAM Pedal block (NAM_PEDAL=1, PAIR layout)",
         "url": "https://github.com/Suddl3/hx-unbound-floor/pull/13",
         "at": "2026-11-17T13:41:34Z"
-      }
+      },
+      "message_id": "1572257326360952863",
+      "sent_at": "2026-11-17T14:29:17Z"
     },
     "wisemandenny/hxtra:pr-opened:132": {
       "status": "queued",
