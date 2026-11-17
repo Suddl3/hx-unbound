@@ -2094,7 +2094,7 @@
       "sent_at": "2026-11-17T22:55:48Z"
     },
     "allansomensi/openhx:pr-opened:17": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "allansomensi/openhx:pr-opened:17",
         "repo": "allansomensi/openhx",
@@ -2102,7 +2102,9 @@
         "title": "#17 feat: read the active preset's blocks (first draft)",
         "url": "https://github.com/allansomensi/openhx/pull/17",
         "at": "2026-11-17T15:39:55Z"
-      }
+      },
+      "message_id": "1572384804035367034",
+      "sent_at": "2026-11-17T22:55:50Z"
     }
   }
 }
