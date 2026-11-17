@@ -2029,7 +2029,7 @@
       "sent_at": "2026-11-17T22:55:34Z"
     },
     "wisemandenny/hxtra:pr:135": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:135",
         "repo": "wisemandenny/hxtra",
@@ -2037,7 +2037,9 @@
         "title": "#135 Feature tour in 10 languages; README cards use the tour's feature names",
         "url": "https://github.com/wisemandenny/hxtra/pull/135",
         "at": "2026-11-17T18:15:37Z"
-      }
+      },
+      "message_id": "1572384747655798893",
+      "sent_at": "2026-11-17T22:55:37Z"
     },
     "wisemandenny/hxtra:pr-opened:136": {
       "status": "queued",
