@@ -1704,7 +1704,7 @@
       "sent_at": "2026-11-17T04:31:25Z"
     },
     "Suddl3/hx-unbound-floor:pr-opened:11": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-unbound-floor:pr-opened:11",
         "repo": "Suddl3/hx-unbound-floor",
@@ -1712,7 +1712,9 @@
         "title": "#11 Editor command 0x53: which firmware this is (NAM_UNBOUND_INFO=1)",
         "url": "https://github.com/Suddl3/hx-unbound-floor/pull/11",
         "at": "2026-11-17T02:40:58Z"
-      }
+      },
+      "message_id": "1572106875326169139",
+      "sent_at": "2026-11-17T04:31:27Z"
     },
     "wisemandenny/hxtra:pr-opened:124": {
       "status": "queued",
