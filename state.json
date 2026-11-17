@@ -3,22 +3,22 @@
   "repos": {
     "nocaseguy/hx-stomp-nam-lite": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-17T14:28:56Z",
+      "checked_at": "2026-11-17T22:54:51Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "savedadodo/helix-floor-nam-lite": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-17T14:28:56Z",
+      "checked_at": "2026-11-17T22:54:51Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "andreidevs/helix-lt-nam": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-17T14:28:56Z",
+      "checked_at": "2026-11-17T22:54:51Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "scottlynn73/hx-effects-nam-lite": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-17T14:28:56Z",
+      "checked_at": "2026-11-17T22:54:51Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "wisemandenny/hx-stomp-customOS": {
@@ -28,42 +28,42 @@
     },
     "andreidevs/hx-edit-nam": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-17T14:28:56Z",
+      "checked_at": "2026-11-17T22:54:51Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "Suddl3/hx-unbound-editor": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-17T14:28:56Z",
+      "checked_at": "2026-11-17T22:54:51Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "crmne/tonepush": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-17T14:28:56Z",
+      "checked_at": "2026-11-17T22:54:51Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "allansomensi/openhx": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-17T14:28:56Z",
+      "checked_at": "2026-11-17T22:54:51Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "mpeskett88/ToneRelay": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-17T14:28:56Z",
+      "checked_at": "2026-11-17T22:54:51Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "Suddl3/hx-unbound-floor": {
       "since": "2026-11-12T09:53:23Z",
-      "checked_at": "2026-11-17T14:28:56Z",
+      "checked_at": "2026-11-17T22:54:51Z",
       "opened_since": "2026-11-12T09:53:23Z"
     },
     "wisemandenny/hxtra": {
       "since": "2026-11-12T09:53:23Z",
-      "checked_at": "2026-11-17T14:28:56Z",
+      "checked_at": "2026-11-17T22:54:51Z",
       "opened_since": "2026-11-12T09:53:23Z"
     },
     "Suddl3/hx-edit-unbound": {
       "since": "2026-11-17T04:31:07Z",
-      "checked_at": "2026-11-17T14:28:56Z",
+      "checked_at": "2026-11-17T22:54:51Z",
       "opened_since": "2026-11-17T04:31:07Z"
     }
   },
@@ -1910,6 +1910,171 @@
       },
       "message_id": "1572257336070906119",
       "sent_at": "2026-11-17T14:29:20Z"
+    },
+    "Suddl3/hx-unbound-floor:pr:11": {
+      "status": "queued",
+      "event": {
+        "key": "Suddl3/hx-unbound-floor:pr:11",
+        "repo": "Suddl3/hx-unbound-floor",
+        "kind": "Merged pull request",
+        "title": "#11 Editor command 0x53: which firmware this is (NAM_UNBOUND_INFO=1)",
+        "url": "https://github.com/Suddl3/hx-unbound-floor/pull/11",
+        "at": "2026-11-17T14:58:53Z"
+      }
+    },
+    "Suddl3/hx-unbound-floor:pr:12": {
+      "status": "queued",
+      "event": {
+        "key": "Suddl3/hx-unbound-floor:pr:12",
+        "repo": "Suddl3/hx-unbound-floor",
+        "kind": "Merged pull request",
+        "title": "#12 PICTURE_STORE.md: the picture, icon and background stores, with test vectors",
+        "url": "https://github.com/Suddl3/hx-unbound-floor/pull/12",
+        "at": "2026-11-17T14:59:25Z"
+      }
+    },
+    "Suddl3/hx-unbound-floor:pr-opened:14": {
+      "status": "queued",
+      "event": {
+        "key": "Suddl3/hx-unbound-floor:pr-opened:14",
+        "repo": "Suddl3/hx-unbound-floor",
+        "kind": "Pull request opened",
+        "title": "#14 Browser builder: load every module the Floor build imports, with a test",
+        "url": "https://github.com/Suddl3/hx-unbound-floor/pull/14",
+        "at": "2026-11-17T15:03:12Z"
+      }
+    },
+    "Suddl3/hx-unbound-floor:pr:14": {
+      "status": "queued",
+      "event": {
+        "key": "Suddl3/hx-unbound-floor:pr:14",
+        "repo": "Suddl3/hx-unbound-floor",
+        "kind": "Merged pull request",
+        "title": "#14 Browser builder: load every module the Floor build imports, with a test",
+        "url": "https://github.com/Suddl3/hx-unbound-floor/pull/14",
+        "at": "2026-11-17T15:46:05Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:134": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:134",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#134 Main+Snd: the Send copy carries Global EQ, USB 3/4 does not",
+        "url": "https://github.com/wisemandenny/hxtra/pull/134",
+        "at": "2026-11-17T14:34:08Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:134": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:134",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#134 Main+Snd: the Send copy carries Global EQ, USB 3/4 does not",
+        "url": "https://github.com/wisemandenny/hxtra/pull/134",
+        "at": "2026-11-17T14:49:14Z"
+      }
+    },
+    "wisemandenny/hxtra:release:448775449": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:release:448775449",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Release",
+        "title": "HXtra v1.1.1",
+        "url": "https://github.com/wisemandenny/hxtra/releases/tag/v1.1.1",
+        "at": "2026-11-17T14:51:50Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:132": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:132",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#132 Feature tour page (web/features.html) replaces docs/features.md; README Watch demo badges link to it",
+        "url": "https://github.com/wisemandenny/hxtra/pull/132",
+        "at": "2026-11-17T16:22:59Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:135": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:135",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#135 Feature tour in 10 languages; README cards use the tour's feature names",
+        "url": "https://github.com/wisemandenny/hxtra/pull/135",
+        "at": "2026-11-17T17:12:12Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:135": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:135",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#135 Feature tour in 10 languages; README cards use the tour's feature names",
+        "url": "https://github.com/wisemandenny/hxtra/pull/135",
+        "at": "2026-11-17T18:15:37Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:136": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:136",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#136 Tap command: per-preset tap tempo in the Command Center; Tap LED Color Off replaces Tap Tempo LED",
+        "url": "https://github.com/wisemandenny/hxtra/pull/136",
+        "at": "2026-11-17T18:52:21Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:136": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:136",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#136 Tap command: per-preset tap tempo in the Command Center; Tap LED Color Off replaces Tap Tempo LED",
+        "url": "https://github.com/wisemandenny/hxtra/pull/136",
+        "at": "2026-11-17T19:08:51Z"
+      }
+    },
+    "allansomensi/openhx:pr-opened:13": {
+      "status": "queued",
+      "event": {
+        "key": "allansomensi/openhx:pr-opened:13",
+        "repo": "allansomensi/openhx",
+        "kind": "Pull request opened",
+        "title": "#13 fix(core): take a preset's slot from its array position",
+        "url": "https://github.com/allansomensi/openhx/pull/13",
+        "at": "2026-11-17T15:31:44Z"
+      }
+    },
+    "allansomensi/openhx:pr-opened:15": {
+      "status": "queued",
+      "event": {
+        "key": "allansomensi/openhx:pr-opened:15",
+        "repo": "allansomensi/openhx",
+        "kind": "Pull request opened",
+        "title": "#15 fix(core): report USB permission errors instead of \"device not found\"",
+        "url": "https://github.com/allansomensi/openhx/pull/15",
+        "at": "2026-11-17T15:35:14Z"
+      }
+    },
+    "allansomensi/openhx:pr-opened:17": {
+      "status": "queued",
+      "event": {
+        "key": "allansomensi/openhx:pr-opened:17",
+        "repo": "allansomensi/openhx",
+        "kind": "Draft pull request opened",
+        "title": "#17 feat: read the active preset's blocks (first draft)",
+        "url": "https://github.com/allansomensi/openhx/pull/17",
+        "at": "2026-11-17T15:39:55Z"
+      }
     }
   }
 }
