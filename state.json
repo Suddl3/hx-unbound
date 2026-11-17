@@ -1821,7 +1821,7 @@
       "sent_at": "2026-11-17T04:31:44Z"
     },
     "wisemandenny/hxtra:pr-opened:130": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:130",
         "repo": "wisemandenny/hxtra",
@@ -1829,7 +1829,9 @@
         "title": "#130 Release v1.1.1: preset freeze fix (#84) and snapshot names (#127)",
         "url": "https://github.com/wisemandenny/hxtra/pull/130",
         "at": "2026-11-17T02:27:02Z"
-      }
+      },
+      "message_id": "1572106956758585405",
+      "sent_at": "2026-11-17T04:31:46Z"
     },
     "wisemandenny/hxtra:pr:130": {
       "status": "queued",
