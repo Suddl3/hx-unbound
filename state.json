@@ -1925,7 +1925,7 @@
       "sent_at": "2026-11-17T22:55:11Z"
     },
     "Suddl3/hx-unbound-floor:pr:12": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-unbound-floor:pr:12",
         "repo": "Suddl3/hx-unbound-floor",
@@ -1933,7 +1933,9 @@
         "title": "#12 PICTURE_STORE.md: the picture, icon and background stores, with test vectors",
         "url": "https://github.com/Suddl3/hx-unbound-floor/pull/12",
         "at": "2026-11-17T14:59:25Z"
-      }
+      },
+      "message_id": "1572384653422108764",
+      "sent_at": "2026-11-17T22:55:15Z"
     },
     "Suddl3/hx-unbound-floor:pr-opened:14": {
       "status": "queued",
