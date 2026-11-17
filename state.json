@@ -1678,7 +1678,7 @@
       "sent_at": "2026-11-17T04:31:20Z"
     },
     "Suddl3/hx-unbound-floor:pr-opened:9": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-unbound-floor:pr-opened:9",
         "repo": "Suddl3/hx-unbound-floor",
@@ -1686,7 +1686,9 @@
         "title": "#9 Focus View: each NAM capture shows its own big picture",
         "url": "https://github.com/Suddl3/hx-unbound-floor/pull/9",
         "at": "2026-11-17T01:13:35Z"
-      }
+      },
+      "message_id": "1572106856338427960",
+      "sent_at": "2026-11-17T04:31:23Z"
     },
     "Suddl3/hx-unbound-floor:pr:9": {
       "status": "queued",
