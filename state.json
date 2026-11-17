@@ -3,22 +3,22 @@
   "repos": {
     "nocaseguy/hx-stomp-nam-lite": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-16T22:09:09Z",
+      "checked_at": "2026-11-17T04:31:07Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "savedadodo/helix-floor-nam-lite": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-16T22:09:09Z",
+      "checked_at": "2026-11-17T04:31:07Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "andreidevs/helix-lt-nam": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-16T22:09:09Z",
+      "checked_at": "2026-11-17T04:31:07Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "scottlynn73/hx-effects-nam-lite": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-16T22:09:09Z",
+      "checked_at": "2026-11-17T04:31:07Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "wisemandenny/hx-stomp-customOS": {
@@ -28,38 +28,43 @@
     },
     "andreidevs/hx-edit-nam": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-16T22:09:09Z",
+      "checked_at": "2026-11-17T04:31:07Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "Suddl3/hx-unbound-editor": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-16T22:09:09Z",
+      "checked_at": "2026-11-17T04:31:07Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "crmne/tonepush": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-16T22:09:09Z",
+      "checked_at": "2026-11-17T04:31:07Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "allansomensi/openhx": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-16T22:09:09Z",
+      "checked_at": "2026-11-17T04:31:07Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "mpeskett88/ToneRelay": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-16T22:09:09Z",
+      "checked_at": "2026-11-17T04:31:07Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "Suddl3/hx-unbound-floor": {
       "since": "2026-11-12T09:53:23Z",
-      "checked_at": "2026-11-16T22:09:09Z",
+      "checked_at": "2026-11-17T04:31:07Z",
       "opened_since": "2026-11-12T09:53:23Z"
     },
     "wisemandenny/hxtra": {
       "since": "2026-11-12T09:53:23Z",
-      "checked_at": "2026-11-16T22:09:09Z",
+      "checked_at": "2026-11-17T04:31:07Z",
       "opened_since": "2026-11-12T09:53:23Z"
+    },
+    "Suddl3/hx-edit-unbound": {
+      "since": "2026-11-17T04:31:07Z",
+      "checked_at": "2026-11-17T04:31:07Z",
+      "opened_since": "2026-11-17T04:31:07Z"
     }
   },
   "events": {
@@ -1658,6 +1663,182 @@
       },
       "message_id": "1572011011668443288",
       "sent_at": "2026-11-16T22:10:31Z"
+    },
+    "Suddl3/hx-unbound-floor:pr:8": {
+      "status": "queued",
+      "event": {
+        "key": "Suddl3/hx-unbound-floor:pr:8",
+        "repo": "Suddl3/hx-unbound-floor",
+        "kind": "Merged pull request",
+        "title": "#8 Focus View, block art and eMMC picture store, with a live dev mode",
+        "url": "https://github.com/Suddl3/hx-unbound-floor/pull/8",
+        "at": "2026-11-16T23:41:05Z"
+      }
+    },
+    "Suddl3/hx-unbound-floor:pr-opened:9": {
+      "status": "queued",
+      "event": {
+        "key": "Suddl3/hx-unbound-floor:pr-opened:9",
+        "repo": "Suddl3/hx-unbound-floor",
+        "kind": "Pull request opened",
+        "title": "#9 Focus View: each NAM capture shows its own big picture",
+        "url": "https://github.com/Suddl3/hx-unbound-floor/pull/9",
+        "at": "2026-11-17T01:13:35Z"
+      }
+    },
+    "Suddl3/hx-unbound-floor:pr:9": {
+      "status": "queued",
+      "event": {
+        "key": "Suddl3/hx-unbound-floor:pr:9",
+        "repo": "Suddl3/hx-unbound-floor",
+        "kind": "Merged pull request",
+        "title": "#9 Focus View: each NAM capture shows its own big picture",
+        "url": "https://github.com/Suddl3/hx-unbound-floor/pull/9",
+        "at": "2026-11-17T01:36:19Z"
+      }
+    },
+    "Suddl3/hx-unbound-floor:pr-opened:11": {
+      "status": "queued",
+      "event": {
+        "key": "Suddl3/hx-unbound-floor:pr-opened:11",
+        "repo": "Suddl3/hx-unbound-floor",
+        "kind": "Pull request opened",
+        "title": "#11 Editor command 0x53: which firmware this is (NAM_UNBOUND_INFO=1)",
+        "url": "https://github.com/Suddl3/hx-unbound-floor/pull/11",
+        "at": "2026-11-17T02:40:58Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:124": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:124",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#124 Path A Out: USB Only, path A to USB 3/4 with the Send jacks silent",
+        "url": "https://github.com/wisemandenny/hxtra/pull/124",
+        "at": "2026-11-16T22:33:18Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:124": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:124",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#124 Path A Out: USB Only, path A to USB 3/4 with the Send jacks silent",
+        "url": "https://github.com/wisemandenny/hxtra/pull/124",
+        "at": "2026-11-16T22:44:44Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:126": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:126",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#126 Path A Out: Main+Snd, Main copied to the Send jacks and USB 3/4",
+        "url": "https://github.com/wisemandenny/hxtra/pull/126",
+        "at": "2026-11-17T00:16:49Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:126": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:126",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#126 Path A Out: Main+Snd, Main copied to the Send jacks and USB 3/4",
+        "url": "https://github.com/wisemandenny/hxtra/pull/126",
+        "at": "2026-11-17T00:31:50Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:127": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:127",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#127 Six snapshots: renamed snapshot names no longer cut by a black band after bank B",
+        "url": "https://github.com/wisemandenny/hxtra/pull/127",
+        "at": "2026-11-17T01:04:40Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:127": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:127",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#127 Six snapshots: renamed snapshot names no longer cut by a black band after bank B",
+        "url": "https://github.com/wisemandenny/hxtra/pull/127",
+        "at": "2026-11-17T01:17:33Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:128": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:128",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#128 GR meter: unmetered compressor cores go straight to the stock code (#84)",
+        "url": "https://github.com/wisemandenny/hxtra/pull/128",
+        "at": "2026-11-17T02:19:15Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:129": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:129",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#129 DSP Usage Display settings: Model Browser, Edit Blocks and Total",
+        "url": "https://github.com/wisemandenny/hxtra/pull/129",
+        "at": "2026-11-17T02:20:45Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:130": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:130",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#130 Release v1.1.1: preset freeze fix (#84) and snapshot names (#127)",
+        "url": "https://github.com/wisemandenny/hxtra/pull/130",
+        "at": "2026-11-17T02:27:02Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:130": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:130",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#130 Release v1.1.1: preset freeze fix (#84) and snapshot names (#127)",
+        "url": "https://github.com/wisemandenny/hxtra/pull/130",
+        "at": "2026-11-17T02:58:33Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:128": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:128",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#128 GR meter: unmetered compressor cores go straight to the stock code (#84)",
+        "url": "https://github.com/wisemandenny/hxtra/pull/128",
+        "at": "2026-11-17T02:58:35Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:129": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:129",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#129 DSP Usage Display settings: Model Browser, Edit Blocks and Total",
+        "url": "https://github.com/wisemandenny/hxtra/pull/129",
+        "at": "2026-11-17T03:09:15Z"
+      }
     }
   }
 }
