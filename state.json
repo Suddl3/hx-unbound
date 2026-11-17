@@ -2042,7 +2042,7 @@
       "sent_at": "2026-11-17T22:55:37Z"
     },
     "wisemandenny/hxtra:pr-opened:136": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:136",
         "repo": "wisemandenny/hxtra",
@@ -2050,7 +2050,9 @@
         "title": "#136 Tap command: per-preset tap tempo in the Command Center; Tap LED Color Off replaces Tap Tempo LED",
         "url": "https://github.com/wisemandenny/hxtra/pull/136",
         "at": "2026-11-17T18:52:21Z"
-      }
+      },
+      "message_id": "1572384758674231399",
+      "sent_at": "2026-11-17T22:55:40Z"
     },
     "wisemandenny/hxtra:pr:136": {
       "status": "queued",
