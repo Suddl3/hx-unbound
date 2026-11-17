@@ -1964,7 +1964,7 @@
       "sent_at": "2026-11-17T22:55:20Z"
     },
     "wisemandenny/hxtra:pr-opened:134": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:134",
         "repo": "wisemandenny/hxtra",
@@ -1972,7 +1972,9 @@
         "title": "#134 Main+Snd: the Send copy carries Global EQ, USB 3/4 does not",
         "url": "https://github.com/wisemandenny/hxtra/pull/134",
         "at": "2026-11-17T14:34:08Z"
-      }
+      },
+      "message_id": "1572384687672791231",
+      "sent_at": "2026-11-17T22:55:23Z"
     },
     "wisemandenny/hxtra:pr:134": {
       "status": "queued",
