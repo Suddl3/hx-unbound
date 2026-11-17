@@ -1665,7 +1665,7 @@
       "sent_at": "2026-11-16T22:10:31Z"
     },
     "Suddl3/hx-unbound-floor:pr:8": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-unbound-floor:pr:8",
         "repo": "Suddl3/hx-unbound-floor",
@@ -1673,7 +1673,9 @@
         "title": "#8 Focus View, block art and eMMC picture store, with a live dev mode",
         "url": "https://github.com/Suddl3/hx-unbound-floor/pull/8",
         "at": "2026-11-16T23:41:05Z"
-      }
+      },
+      "message_id": "1572106847433920533",
+      "sent_at": "2026-11-17T04:31:20Z"
     },
     "Suddl3/hx-unbound-floor:pr-opened:9": {
       "status": "queued",
