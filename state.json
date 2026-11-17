@@ -2081,7 +2081,7 @@
       "sent_at": "2026-11-17T22:55:45Z"
     },
     "allansomensi/openhx:pr-opened:15": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "allansomensi/openhx:pr-opened:15",
         "repo": "allansomensi/openhx",
@@ -2089,7 +2089,9 @@
         "title": "#15 fix(core): report USB permission errors instead of \"device not found\"",
         "url": "https://github.com/allansomensi/openhx/pull/15",
         "at": "2026-11-17T15:35:14Z"
-      }
+      },
+      "message_id": "1572384792782049381",
+      "sent_at": "2026-11-17T22:55:48Z"
     },
     "allansomensi/openhx:pr-opened:17": {
       "status": "queued",
