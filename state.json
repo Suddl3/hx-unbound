@@ -1860,7 +1860,7 @@
       "sent_at": "2026-11-17T04:31:50Z"
     },
     "wisemandenny/hxtra:pr:129": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:129",
         "repo": "wisemandenny/hxtra",
@@ -1868,7 +1868,9 @@
         "title": "#129 DSP Usage Display settings: Model Browser, Edit Blocks and Total",
         "url": "https://github.com/wisemandenny/hxtra/pull/129",
         "at": "2026-11-17T03:09:15Z"
-      }
+      },
+      "message_id": "1572106982016426065",
+      "sent_at": "2026-11-17T04:31:52Z"
     }
   }
 }
