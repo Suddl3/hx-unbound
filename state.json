@@ -1912,7 +1912,7 @@
       "sent_at": "2026-11-17T14:29:20Z"
     },
     "Suddl3/hx-unbound-floor:pr:11": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-unbound-floor:pr:11",
         "repo": "Suddl3/hx-unbound-floor",
@@ -1920,7 +1920,9 @@
         "title": "#11 Editor command 0x53: which firmware this is (NAM_UNBOUND_INFO=1)",
         "url": "https://github.com/Suddl3/hx-unbound-floor/pull/11",
         "at": "2026-11-17T14:58:53Z"
-      }
+      },
+      "message_id": "1572384640168108213",
+      "sent_at": "2026-11-17T22:55:11Z"
     },
     "Suddl3/hx-unbound-floor:pr:12": {
       "status": "queued",
