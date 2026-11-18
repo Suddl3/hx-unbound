@@ -2484,7 +2484,7 @@
       "sent_at": "2026-11-18T21:59:58Z"
     },
     "wisemandenny/hxtra:pr-opened:159": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:159",
         "repo": "wisemandenny/hxtra",
@@ -2492,7 +2492,9 @@
         "title": "#159 Release v1.2.0: next into main, with the NAM-off build fix",
         "url": "https://github.com/wisemandenny/hxtra/pull/159",
         "at": "2026-11-18T18:06:46Z"
-      }
+      },
+      "message_id": "1572733142790569985",
+      "sent_at": "2026-11-18T22:00:01Z"
     },
     "wisemandenny/hxtra:pr:159": {
       "status": "queued",
