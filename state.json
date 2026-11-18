@@ -2458,7 +2458,7 @@
       "sent_at": "2026-11-18T21:59:54Z"
     },
     "wisemandenny/hxtra:pr-opened:158": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:158",
         "repo": "wisemandenny/hxtra",
@@ -2466,7 +2466,9 @@
         "title": "#158 NAM-off builds with two of the GR meter, FX Loop gate and Input Sidechain: Entry 3 strings grow at the tail",
         "url": "https://github.com/wisemandenny/hxtra/pull/158",
         "at": "2026-11-18T17:37:24Z"
-      }
+      },
+      "message_id": "1572733122926354533",
+      "sent_at": "2026-11-18T21:59:56Z"
     },
     "wisemandenny/hxtra:pr:158": {
       "status": "queued",
