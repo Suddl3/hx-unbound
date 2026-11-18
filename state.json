@@ -2354,7 +2354,7 @@
       "sent_at": "2026-11-18T14:04:55Z"
     },
     "wisemandenny/hxtra:pr:140": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:140",
         "repo": "wisemandenny/hxtra",
@@ -2362,7 +2362,9 @@
         "title": "#140 Release 1.2: HX Stomp only, and the v1.2.0 bump",
         "url": "https://github.com/wisemandenny/hxtra/pull/140",
         "at": "2026-11-18T14:29:10Z"
-      }
+      },
+      "message_id": "1572733039006589072",
+      "sent_at": "2026-11-18T21:59:36Z"
     },
     "wisemandenny/hxtra:pr-opened:153": {
       "status": "queued",
