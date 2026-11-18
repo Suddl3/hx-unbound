@@ -3,22 +3,22 @@
   "repos": {
     "nocaseguy/hx-stomp-nam-lite": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-18T14:04:20Z",
+      "checked_at": "2026-11-18T21:59:21Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "savedadodo/helix-floor-nam-lite": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-18T14:04:20Z",
+      "checked_at": "2026-11-18T21:59:21Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "andreidevs/helix-lt-nam": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-18T14:04:20Z",
+      "checked_at": "2026-11-18T21:59:21Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "scottlynn73/hx-effects-nam-lite": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-18T14:04:20Z",
+      "checked_at": "2026-11-18T21:59:21Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "wisemandenny/hx-stomp-customOS": {
@@ -28,42 +28,42 @@
     },
     "andreidevs/hx-edit-nam": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-18T14:04:20Z",
+      "checked_at": "2026-11-18T21:59:21Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "Suddl3/hx-unbound-editor": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-18T14:04:20Z",
+      "checked_at": "2026-11-18T21:59:21Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "crmne/tonepush": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-18T14:04:20Z",
+      "checked_at": "2026-11-18T21:59:21Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "allansomensi/openhx": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-18T14:04:20Z",
+      "checked_at": "2026-11-18T21:59:21Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "mpeskett88/ToneRelay": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-18T14:04:20Z",
+      "checked_at": "2026-11-18T21:59:21Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "Suddl3/hx-unbound-floor": {
       "since": "2026-11-12T09:53:23Z",
-      "checked_at": "2026-11-18T14:04:20Z",
+      "checked_at": "2026-11-18T21:59:21Z",
       "opened_since": "2026-11-12T09:53:23Z"
     },
     "wisemandenny/hxtra": {
       "since": "2026-11-12T09:53:23Z",
-      "checked_at": "2026-11-18T14:04:20Z",
+      "checked_at": "2026-11-18T21:59:21Z",
       "opened_since": "2026-11-12T09:53:23Z"
     },
     "Suddl3/hx-edit-unbound": {
       "since": "2026-11-17T04:31:07Z",
-      "checked_at": "2026-11-18T14:04:20Z",
+      "checked_at": "2026-11-18T21:59:21Z",
       "opened_since": "2026-11-17T04:31:07Z"
     }
   },
@@ -2352,6 +2352,171 @@
       },
       "message_id": "1572613580543496297",
       "sent_at": "2026-11-18T14:04:55Z"
+    },
+    "wisemandenny/hxtra:pr:140": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:140",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#140 Release 1.2: HX Stomp only, and the v1.2.0 bump",
+        "url": "https://github.com/wisemandenny/hxtra/pull/140",
+        "at": "2026-11-18T14:29:10Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:153": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:153",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#153 1.2 demos: feature tour slots, README tour and Watch demo badges",
+        "url": "https://github.com/wisemandenny/hxtra/pull/153",
+        "at": "2026-11-18T15:37:09Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:155": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:155",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#155 hx_mirror: even out footswitch LED blinks in rendered demos",
+        "url": "https://github.com/wisemandenny/hxtra/pull/155",
+        "at": "2026-11-18T15:43:23Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:153": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:153",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#153 1.2 demos: feature tour slots, README tour and Watch demo badges",
+        "url": "https://github.com/wisemandenny/hxtra/pull/153",
+        "at": "2026-11-18T15:52:59Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:156": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:156",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#156 Release v1.2.0: next into main",
+        "url": "https://github.com/wisemandenny/hxtra/pull/156",
+        "at": "2026-11-18T15:56:00Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:156": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:156",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#156 Release v1.2.0: next into main",
+        "url": "https://github.com/wisemandenny/hxtra/pull/156",
+        "at": "2026-11-18T16:18:05Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:157": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:157",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#157 Bug report form: which optional features the build has",
+        "url": "https://github.com/wisemandenny/hxtra/pull/157",
+        "at": "2026-11-18T17:22:06Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:157": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:157",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#157 Bug report form: which optional features the build has",
+        "url": "https://github.com/wisemandenny/hxtra/pull/157",
+        "at": "2026-11-18T17:30:21Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:158": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:158",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#158 NAM-off builds with two of the GR meter, FX Loop gate and Input Sidechain: Entry 3 strings grow at the tail",
+        "url": "https://github.com/wisemandenny/hxtra/pull/158",
+        "at": "2026-11-18T17:37:24Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:158": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:158",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#158 NAM-off builds with two of the GR meter, FX Loop gate and Input Sidechain: Entry 3 strings grow at the tail",
+        "url": "https://github.com/wisemandenny/hxtra/pull/158",
+        "at": "2026-11-18T17:54:46Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:159": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:159",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#159 Release v1.2.0: next into main, with the NAM-off build fix",
+        "url": "https://github.com/wisemandenny/hxtra/pull/159",
+        "at": "2026-11-18T18:06:46Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:159": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:159",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#159 Release v1.2.0: next into main, with the NAM-off build fix",
+        "url": "https://github.com/wisemandenny/hxtra/pull/159",
+        "at": "2026-11-18T18:23:53Z"
+      }
+    },
+    "wisemandenny/hxtra:release:450453826": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:release:450453826",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Release",
+        "title": "HXtra v1.2.0",
+        "url": "https://github.com/wisemandenny/hxtra/releases/tag/v1.2.0",
+        "at": "2026-11-18T19:26:35Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:155": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:155",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#155 hx_mirror: even out footswitch LED blinks in rendered demos",
+        "url": "https://github.com/wisemandenny/hxtra/pull/155",
+        "at": "2026-11-18T21:28:55Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:161": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:161",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#161 Sync upstream nocaseguy/hx-stomp-nam-lite (aa5f5a8) into next",
+        "url": "https://github.com/wisemandenny/hxtra/pull/161",
+        "at": "2026-11-18T21:30:58Z"
+      }
     }
   }
 }
