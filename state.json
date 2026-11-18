@@ -2393,7 +2393,7 @@
       "sent_at": "2026-11-18T21:59:41Z"
     },
     "wisemandenny/hxtra:pr:153": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:153",
         "repo": "wisemandenny/hxtra",
@@ -2401,7 +2401,9 @@
         "title": "#153 1.2 demos: feature tour slots, README tour and Watch demo badges",
         "url": "https://github.com/wisemandenny/hxtra/pull/153",
         "at": "2026-11-18T15:52:59Z"
-      }
+      },
+      "message_id": "1572733071059591199",
+      "sent_at": "2026-11-18T21:59:44Z"
     },
     "wisemandenny/hxtra:pr-opened:156": {
       "status": "queued",
