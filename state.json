@@ -2380,7 +2380,7 @@
       "sent_at": "2026-11-18T21:59:39Z"
     },
     "wisemandenny/hxtra:pr-opened:155": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:155",
         "repo": "wisemandenny/hxtra",
@@ -2388,7 +2388,9 @@
         "title": "#155 hx_mirror: even out footswitch LED blinks in rendered demos",
         "url": "https://github.com/wisemandenny/hxtra/pull/155",
         "at": "2026-11-18T15:43:23Z"
-      }
+      },
+      "message_id": "1572733061093916794",
+      "sent_at": "2026-11-18T21:59:41Z"
     },
     "wisemandenny/hxtra:pr:153": {
       "status": "queued",
