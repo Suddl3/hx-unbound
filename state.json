@@ -2406,7 +2406,7 @@
       "sent_at": "2026-11-18T21:59:44Z"
     },
     "wisemandenny/hxtra:pr-opened:156": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:156",
         "repo": "wisemandenny/hxtra",
@@ -2414,7 +2414,9 @@
         "title": "#156 Release v1.2.0: next into main",
         "url": "https://github.com/wisemandenny/hxtra/pull/156",
         "at": "2026-11-18T15:56:00Z"
-      }
+      },
+      "message_id": "1572733082082213994",
+      "sent_at": "2026-11-18T21:59:46Z"
     },
     "wisemandenny/hxtra:pr:156": {
       "status": "queued",
