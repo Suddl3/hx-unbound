@@ -2133,7 +2133,7 @@
       "sent_at": "2026-11-18T04:26:32Z"
     },
     "wisemandenny/hxtra:pr-opened:138": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:138",
         "repo": "wisemandenny/hxtra",
@@ -2141,7 +2141,9 @@
         "title": "#138 Setup page: anonymous usage counts (GoatCounter)",
         "url": "https://github.com/wisemandenny/hxtra/pull/138",
         "at": "2026-11-18T02:15:13Z"
-      }
+      },
+      "message_id": "1572468036953444385",
+      "sent_at": "2026-11-18T04:26:35Z"
     },
     "wisemandenny/hxtra:pr:138": {
       "status": "queued",
