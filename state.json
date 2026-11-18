@@ -2211,7 +2211,7 @@
       "sent_at": "2026-11-18T04:26:47Z"
     },
     "wisemandenny/hxtra:pr:141": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:141",
         "repo": "wisemandenny/hxtra",
@@ -2219,7 +2219,9 @@
         "title": "#141 Setup page: the built file downloads as HXtra_v<release>.hxf",
         "url": "https://github.com/wisemandenny/hxtra/pull/141",
         "at": "2026-11-18T03:20:46Z"
-      }
+      },
+      "message_id": "1572468096990453851",
+      "sent_at": "2026-11-18T04:26:49Z"
     },
     "wisemandenny/hxtra:pr:142": {
       "status": "queued",
