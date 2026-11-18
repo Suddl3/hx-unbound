@@ -2315,7 +2315,7 @@
       "sent_at": "2026-11-18T14:04:45Z"
     },
     "wisemandenny/hxtra:pr-opened:147": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:147",
         "repo": "wisemandenny/hxtra",
@@ -2323,7 +2323,9 @@
         "title": "#147 Research notes and a test comment state decisions without naming who made them",
         "url": "https://github.com/wisemandenny/hxtra/pull/147",
         "at": "2026-11-18T05:01:32Z"
-      }
+      },
+      "message_id": "1572613551645007893",
+      "sent_at": "2026-11-18T14:04:48Z"
     },
     "wisemandenny/hxtra:pr:139": {
       "status": "queued",
