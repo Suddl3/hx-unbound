@@ -2302,7 +2302,7 @@
       "sent_at": "2026-11-18T14:04:42Z"
     },
     "wisemandenny/hxtra:pr:145": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:145",
         "repo": "wisemandenny/hxtra",
@@ -2310,7 +2310,9 @@
         "title": "#145 Label Color: HXtra settings' and block knobs' labels in Teal",
         "url": "https://github.com/wisemandenny/hxtra/pull/145",
         "at": "2026-11-18T04:46:04Z"
-      }
+      },
+      "message_id": "1572613538697187511",
+      "sent_at": "2026-11-18T14:04:45Z"
     },
     "wisemandenny/hxtra:pr-opened:147": {
       "status": "queued",
