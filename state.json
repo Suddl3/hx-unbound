@@ -2432,7 +2432,7 @@
       "sent_at": "2026-11-18T21:59:49Z"
     },
     "wisemandenny/hxtra:pr-opened:157": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:157",
         "repo": "wisemandenny/hxtra",
@@ -2440,7 +2440,9 @@
         "title": "#157 Bug report form: which optional features the build has",
         "url": "https://github.com/wisemandenny/hxtra/pull/157",
         "at": "2026-11-18T17:22:06Z"
-      }
+      },
+      "message_id": "1572733102684504289",
+      "sent_at": "2026-11-18T21:59:51Z"
     },
     "wisemandenny/hxtra:pr:157": {
       "status": "queued",
