@@ -2276,7 +2276,7 @@
       "sent_at": "2026-11-18T04:26:58Z"
     },
     "nocaseguy/hx-stomp-nam-lite:pr:15": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "nocaseguy/hx-stomp-nam-lite:pr:15",
         "repo": "nocaseguy/hx-stomp-nam-lite",
@@ -2284,7 +2284,9 @@
         "title": "#15 SHARC disassembler for Entry 2: 48-bit ISA and VISA",
         "url": "https://github.com/nocaseguy/hx-stomp-nam-lite/pull/15",
         "at": "2026-11-18T12:27:19Z"
-      }
+      },
+      "message_id": "1572613505385889834",
+      "sent_at": "2026-11-18T14:04:37Z"
     },
     "Suddl3/hx-unbound-floor:pr-opened:15": {
       "status": "queued",
