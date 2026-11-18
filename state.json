@@ -2133,7 +2133,7 @@
       "sent_at": "2026-11-18T04:26:32Z"
     },
     "wisemandenny/hxtra:pr-opened:138": {
-      "status": "queued",
+      "status": "sending",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:138",
         "repo": "wisemandenny/hxtra",
