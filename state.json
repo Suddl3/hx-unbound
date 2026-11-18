@@ -2328,7 +2328,7 @@
       "sent_at": "2026-11-18T14:04:48Z"
     },
     "wisemandenny/hxtra:pr:139": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:139",
         "repo": "wisemandenny/hxtra",
@@ -2336,7 +2336,9 @@
         "title": "#139 Release 1.2 copy: README, setup page and feature tour match next",
         "url": "https://github.com/wisemandenny/hxtra/pull/139",
         "at": "2026-11-18T05:10:10Z"
-      }
+      },
+      "message_id": "1572613567830560883",
+      "sent_at": "2026-11-18T14:04:52Z"
     },
     "wisemandenny/hxtra:pr:147": {
       "status": "queued",
