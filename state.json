@@ -2120,7 +2120,7 @@
       "sent_at": "2026-11-18T04:26:29Z"
     },
     "wisemandenny/hxtra:pr:137": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:137",
         "repo": "wisemandenny/hxtra",
@@ -2128,7 +2128,9 @@
         "title": "#137 Tap command: a Tap ring follows external MIDI clock without a TAP footswitch",
         "url": "https://github.com/wisemandenny/hxtra/pull/137",
         "at": "2026-11-18T01:59:13Z"
-      }
+      },
+      "message_id": "1572468025615978528",
+      "sent_at": "2026-11-18T04:26:32Z"
     },
     "wisemandenny/hxtra:pr-opened:138": {
       "status": "queued",
