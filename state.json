@@ -2198,7 +2198,7 @@
       "sent_at": "2026-11-18T04:26:44Z"
     },
     "wisemandenny/hxtra:pr-opened:142": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:142",
         "repo": "wisemandenny/hxtra",
@@ -2206,7 +2206,9 @@
         "title": "#142 Usage counts: ?count=test respects Do Not Track and GPC off a local copy",
         "url": "https://github.com/wisemandenny/hxtra/pull/142",
         "at": "2026-11-18T03:10:35Z"
-      }
+      },
+      "message_id": "1572468086915731548",
+      "sent_at": "2026-11-18T04:26:47Z"
     },
     "wisemandenny/hxtra:pr:141": {
       "status": "queued",
