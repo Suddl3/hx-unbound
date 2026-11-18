@@ -2237,7 +2237,7 @@
       "sent_at": "2026-11-18T04:26:51Z"
     },
     "wisemandenny/hxtra:pr-opened:143": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:143",
         "repo": "wisemandenny/hxtra",
@@ -2245,7 +2245,9 @@
         "title": "#143 Noise Gate Input Sidechain (#131, experimental)",
         "url": "https://github.com/wisemandenny/hxtra/pull/143",
         "at": "2026-11-18T03:29:51Z"
-      }
+      },
+      "message_id": "1572468116720713801",
+      "sent_at": "2026-11-18T04:26:54Z"
     },
     "wisemandenny/hxtra:pr:143": {
       "status": "queued",
