@@ -2744,7 +2744,7 @@
       "sent_at": "2026-11-19T03:33:45Z"
     },
     "wisemandenny/hxtra:release:450746788": {
-      "status": "queued",
+      "status": "sending",
       "event": {
         "key": "wisemandenny/hxtra:release:450746788",
         "repo": "wisemandenny/hxtra",
