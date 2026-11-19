@@ -2796,7 +2796,7 @@
       "sent_at": "2026-11-19T03:33:55Z"
     },
     "wisemandenny/hxtra:pr-opened:174": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:174",
         "repo": "wisemandenny/hxtra",
@@ -2804,7 +2804,9 @@
         "title": "#174 Setup page NAM-0 fix: next into main",
         "url": "https://github.com/wisemandenny/hxtra/pull/174",
         "at": "2026-11-19T01:34:11Z"
-      }
+      },
+      "message_id": "1572817182000160809",
+      "sent_at": "2026-11-19T03:33:57Z"
     },
     "wisemandenny/hxtra:pr:174": {
       "status": "queued",
