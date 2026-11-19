@@ -2718,7 +2718,7 @@
       "sent_at": "2026-11-19T03:33:40Z"
     },
     "wisemandenny/hxtra:pr-opened:172": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:172",
         "repo": "wisemandenny/hxtra",
@@ -2726,7 +2726,9 @@
         "title": "#172 Release v1.2.1: next into main",
         "url": "https://github.com/wisemandenny/hxtra/pull/172",
         "at": "2026-11-18T23:47:36Z"
-      }
+      },
+      "message_id": "1572817118544527423",
+      "sent_at": "2026-11-19T03:33:42Z"
     },
     "wisemandenny/hxtra:pr:172": {
       "status": "queued",
