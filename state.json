@@ -2822,7 +2822,7 @@
       "sent_at": "2026-11-19T03:34:00Z"
     },
     "crmne/tonepush:pr-opened:124": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "crmne/tonepush:pr-opened:124",
         "repo": "crmne/tonepush",
@@ -2830,7 +2830,9 @@
         "title": "#124 Extend backup parametric libraries",
         "url": "https://github.com/crmne/tonepush/pull/124",
         "at": "2026-11-18T23:00:32Z"
-      }
+      },
+      "message_id": "1572817203538165791",
+      "sent_at": "2026-11-19T03:34:02Z"
     }
   }
 }
