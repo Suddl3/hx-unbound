@@ -3,22 +3,22 @@
   "repos": {
     "nocaseguy/hx-stomp-nam-lite": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-18T21:59:21Z",
+      "checked_at": "2026-11-19T03:32:53Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "savedadodo/helix-floor-nam-lite": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-18T21:59:21Z",
+      "checked_at": "2026-11-19T03:32:53Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "andreidevs/helix-lt-nam": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-18T21:59:21Z",
+      "checked_at": "2026-11-19T03:32:53Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "scottlynn73/hx-effects-nam-lite": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-18T21:59:21Z",
+      "checked_at": "2026-11-19T03:32:53Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "wisemandenny/hx-stomp-customOS": {
@@ -28,42 +28,42 @@
     },
     "andreidevs/hx-edit-nam": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-18T21:59:21Z",
+      "checked_at": "2026-11-19T03:32:53Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "Suddl3/hx-unbound-editor": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-18T21:59:21Z",
+      "checked_at": "2026-11-19T03:32:53Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "crmne/tonepush": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-18T21:59:21Z",
+      "checked_at": "2026-11-19T03:32:53Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "allansomensi/openhx": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-18T21:59:21Z",
+      "checked_at": "2026-11-19T03:32:53Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "mpeskett88/ToneRelay": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-18T21:59:21Z",
+      "checked_at": "2026-11-19T03:32:53Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "Suddl3/hx-unbound-floor": {
       "since": "2026-11-12T09:53:23Z",
-      "checked_at": "2026-11-18T21:59:21Z",
+      "checked_at": "2026-11-19T03:32:53Z",
       "opened_since": "2026-11-12T09:53:23Z"
     },
     "wisemandenny/hxtra": {
       "since": "2026-11-12T09:53:23Z",
-      "checked_at": "2026-11-18T21:59:21Z",
+      "checked_at": "2026-11-19T03:32:53Z",
       "opened_since": "2026-11-12T09:53:23Z"
     },
     "Suddl3/hx-edit-unbound": {
       "since": "2026-11-17T04:31:07Z",
-      "checked_at": "2026-11-18T21:59:21Z",
+      "checked_at": "2026-11-19T03:32:53Z",
       "opened_since": "2026-11-17T04:31:07Z"
     }
   },
@@ -2547,6 +2547,248 @@
       },
       "message_id": "1572733183642836993",
       "sent_at": "2026-11-18T22:00:11Z"
+    },
+    "Suddl3/hx-unbound-floor:pr-opened:16": {
+      "status": "queued",
+      "event": {
+        "key": "Suddl3/hx-unbound-floor:pr-opened:16",
+        "repo": "Suddl3/hx-unbound-floor",
+        "kind": "Draft pull request opened",
+        "title": "#16 floor_emmc_art: --input store.json (the editor's Floor look file)",
+        "url": "https://github.com/Suddl3/hx-unbound-floor/pull/16",
+        "at": "2026-11-18T23:12:03Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:162": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:162",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#162 Research note: the 8-block limit",
+        "url": "https://github.com/wisemandenny/hxtra/pull/162",
+        "at": "2026-11-18T22:02:11Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:161": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:161",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#161 Sync upstream nocaseguy/hx-stomp-nam-lite (aa5f5a8) into next",
+        "url": "https://github.com/wisemandenny/hxtra/pull/161",
+        "at": "2026-11-18T22:10:10Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:162": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:162",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#162 Research note: the 8-block limit",
+        "url": "https://github.com/wisemandenny/hxtra/pull/162",
+        "at": "2026-11-18T22:13:59Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:166": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:166",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#166 Long press: a footswitch with a looper on it keeps its stock press and hold (#165)",
+        "url": "https://github.com/wisemandenny/hxtra/pull/166",
+        "at": "2026-11-18T22:38:09Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:167": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:167",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#167 m4cache: every page combination's modules, MD5s pinned through the cache (#163)",
+        "url": "https://github.com/wisemandenny/hxtra/pull/167",
+        "at": "2026-11-18T22:43:07Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:167": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:167",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#167 m4cache: every page combination's modules, MD5s pinned through the cache (#163)",
+        "url": "https://github.com/wisemandenny/hxtra/pull/167",
+        "at": "2026-11-18T23:00:48Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:168": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:168",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Draft pull request opened",
+        "title": "#168 WIP - More snapshots: hold FS1 or FS2 to pick 1-3 or 4-6, so any snapshot is one change away",
+        "url": "https://github.com/wisemandenny/hxtra/pull/168",
+        "at": "2026-11-18T23:13:06Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:166": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:166",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#166 Long press: a footswitch with a looper on it keeps its stock press and hold (#165)",
+        "url": "https://github.com/wisemandenny/hxtra/pull/166",
+        "at": "2026-11-18T23:18:02Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:169": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:169",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#169 CI: run the firmware tests",
+        "url": "https://github.com/wisemandenny/hxtra/pull/169",
+        "at": "2026-11-18T23:23:15Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:170": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:170",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#170 Release v1.2.1: boot text and MD5 pins",
+        "url": "https://github.com/wisemandenny/hxtra/pull/170",
+        "at": "2026-11-18T23:29:48Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:171": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:171",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Draft pull request opened",
+        "title": "#171 WIP - Looper: clear a stopped loop without hearing it, and a quick double press always stops",
+        "url": "https://github.com/wisemandenny/hxtra/pull/171",
+        "at": "2026-11-18T23:46:09Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:170": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:170",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#170 Release v1.2.1: boot text and MD5 pins",
+        "url": "https://github.com/wisemandenny/hxtra/pull/170",
+        "at": "2026-11-18T23:47:01Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:172": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:172",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#172 Release v1.2.1: next into main",
+        "url": "https://github.com/wisemandenny/hxtra/pull/172",
+        "at": "2026-11-18T23:47:36Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:172": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:172",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#172 Release v1.2.1: next into main",
+        "url": "https://github.com/wisemandenny/hxtra/pull/172",
+        "at": "2026-11-19T00:05:08Z"
+      }
+    },
+    "wisemandenny/hxtra:release:450746788": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:release:450746788",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Release",
+        "title": "HXtra v1.2.1",
+        "url": "https://github.com/wisemandenny/hxtra/releases/tag/v1.2.1",
+        "at": "2026-11-19T01:01:44Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:169": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:169",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#169 CI: run the firmware tests",
+        "url": "https://github.com/wisemandenny/hxtra/pull/169",
+        "at": "2026-11-19T01:02:51Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:173": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:173",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#173 Setup page: builds with no NAM blocks find tools/features",
+        "url": "https://github.com/wisemandenny/hxtra/pull/173",
+        "at": "2026-11-19T01:08:38Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:173": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:173",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#173 Setup page: builds with no NAM blocks find tools/features",
+        "url": "https://github.com/wisemandenny/hxtra/pull/173",
+        "at": "2026-11-19T01:33:40Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:174": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:174",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#174 Setup page NAM-0 fix: next into main",
+        "url": "https://github.com/wisemandenny/hxtra/pull/174",
+        "at": "2026-11-19T01:34:11Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:174": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:174",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#174 Setup page NAM-0 fix: next into main",
+        "url": "https://github.com/wisemandenny/hxtra/pull/174",
+        "at": "2026-11-19T01:41:38Z"
+      }
+    },
+    "crmne/tonepush:pr-opened:124": {
+      "status": "queued",
+      "event": {
+        "key": "crmne/tonepush:pr-opened:124",
+        "repo": "crmne/tonepush",
+        "kind": "Pull request opened",
+        "title": "#124 Extend backup parametric libraries",
+        "url": "https://github.com/crmne/tonepush/pull/124",
+        "at": "2026-11-18T23:00:32Z"
+      }
     }
   }
 }
