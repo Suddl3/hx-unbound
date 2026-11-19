@@ -2601,7 +2601,7 @@
       "sent_at": "2026-11-19T03:33:16Z"
     },
     "wisemandenny/hxtra:pr-opened:166": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:166",
         "repo": "wisemandenny/hxtra",
@@ -2609,7 +2609,9 @@
         "title": "#166 Long press: a footswitch with a looper on it keeps its stock press and hold (#165)",
         "url": "https://github.com/wisemandenny/hxtra/pull/166",
         "at": "2026-11-18T22:38:09Z"
-      }
+      },
+      "message_id": "1572817019227742361",
+      "sent_at": "2026-11-19T03:33:19Z"
     },
     "wisemandenny/hxtra:pr-opened:167": {
       "status": "queued",
