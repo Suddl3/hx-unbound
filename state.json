@@ -2614,7 +2614,7 @@
       "sent_at": "2026-11-19T03:33:19Z"
     },
     "wisemandenny/hxtra:pr-opened:167": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:167",
         "repo": "wisemandenny/hxtra",
@@ -2622,7 +2622,9 @@
         "title": "#167 m4cache: every page combination's modules, MD5s pinned through the cache (#163)",
         "url": "https://github.com/wisemandenny/hxtra/pull/167",
         "at": "2026-11-18T22:43:07Z"
-      }
+      },
+      "message_id": "1572817030363611179",
+      "sent_at": "2026-11-19T03:33:21Z"
     },
     "wisemandenny/hxtra:pr:167": {
       "status": "queued",
