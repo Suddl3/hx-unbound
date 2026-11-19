@@ -2575,7 +2575,7 @@
       "sent_at": "2026-11-19T03:33:11Z"
     },
     "wisemandenny/hxtra:pr:161": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:161",
         "repo": "wisemandenny/hxtra",
@@ -2583,7 +2583,9 @@
         "title": "#161 Sync upstream nocaseguy/hx-stomp-nam-lite (aa5f5a8) into next",
         "url": "https://github.com/wisemandenny/hxtra/pull/161",
         "at": "2026-11-18T22:10:10Z"
-      }
+      },
+      "message_id": "1572816997430067245",
+      "sent_at": "2026-11-19T03:33:13Z"
     },
     "wisemandenny/hxtra:pr:162": {
       "status": "queued",
