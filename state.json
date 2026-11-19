@@ -2588,7 +2588,7 @@
       "sent_at": "2026-11-19T03:33:13Z"
     },
     "wisemandenny/hxtra:pr:162": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:162",
         "repo": "wisemandenny/hxtra",
@@ -2596,7 +2596,9 @@
         "title": "#162 Research note: the 8-block limit",
         "url": "https://github.com/wisemandenny/hxtra/pull/162",
         "at": "2026-11-18T22:13:59Z"
-      }
+      },
+      "message_id": "1572817008448245791",
+      "sent_at": "2026-11-19T03:33:16Z"
     },
     "wisemandenny/hxtra:pr-opened:166": {
       "status": "queued",
