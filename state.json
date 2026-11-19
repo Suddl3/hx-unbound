@@ -2705,7 +2705,7 @@
       "sent_at": "2026-11-19T03:33:37Z"
     },
     "wisemandenny/hxtra:pr:170": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:170",
         "repo": "wisemandenny/hxtra",
@@ -2713,7 +2713,9 @@
         "title": "#170 Release v1.2.1: boot text and MD5 pins",
         "url": "https://github.com/wisemandenny/hxtra/pull/170",
         "at": "2026-11-18T23:47:01Z"
-      }
+      },
+      "message_id": "1572817107106922543",
+      "sent_at": "2026-11-19T03:33:40Z"
     },
     "wisemandenny/hxtra:pr-opened:172": {
       "status": "queued",
