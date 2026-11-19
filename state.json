@@ -2770,7 +2770,7 @@
       "sent_at": "2026-11-19T03:33:50Z"
     },
     "wisemandenny/hxtra:pr-opened:173": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:173",
         "repo": "wisemandenny/hxtra",
@@ -2778,7 +2778,9 @@
         "title": "#173 Setup page: builds with no NAM blocks find tools/features",
         "url": "https://github.com/wisemandenny/hxtra/pull/173",
         "at": "2026-11-19T01:08:38Z"
-      }
+      },
+      "message_id": "1572817162660479040",
+      "sent_at": "2026-11-19T03:33:53Z"
     },
     "wisemandenny/hxtra:pr:173": {
       "status": "queued",
