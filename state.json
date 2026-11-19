@@ -2692,7 +2692,7 @@
       "sent_at": "2026-11-19T03:33:34Z"
     },
     "wisemandenny/hxtra:pr-opened:171": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:171",
         "repo": "wisemandenny/hxtra",
@@ -2700,7 +2700,9 @@
         "title": "#171 WIP - Looper: clear a stopped loop without hearing it, and a quick double press always stops",
         "url": "https://github.com/wisemandenny/hxtra/pull/171",
         "at": "2026-11-18T23:46:09Z"
-      }
+      },
+      "message_id": "1572817095572332645",
+      "sent_at": "2026-11-19T03:33:37Z"
     },
     "wisemandenny/hxtra:pr:170": {
       "status": "queued",
