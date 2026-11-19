@@ -2835,7 +2835,7 @@
       "sent_at": "2026-11-19T03:34:02Z"
     },
     "wisemandenny/hxtra:pr-opened:175": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:175",
         "repo": "wisemandenny/hxtra",
@@ -2843,7 +2843,9 @@
         "title": "#175 WIP - EXP display: EXP 1 and EXP 2 as bars and values on the Home screen",
         "url": "https://github.com/wisemandenny/hxtra/pull/175",
         "at": "2026-11-19T14:59:48Z"
-      }
+      },
+      "message_id": "1573090723589525565",
+      "sent_at": "2026-11-19T21:40:55Z"
     }
   }
 }
