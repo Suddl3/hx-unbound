@@ -2757,7 +2757,7 @@
       "sent_at": "2026-11-19T03:33:47Z"
     },
     "wisemandenny/hxtra:pr:169": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:169",
         "repo": "wisemandenny/hxtra",
@@ -2765,7 +2765,9 @@
         "title": "#169 CI: run the firmware tests",
         "url": "https://github.com/wisemandenny/hxtra/pull/169",
         "at": "2026-11-19T01:02:51Z"
-      }
+      },
+      "message_id": "1572817151700770919",
+      "sent_at": "2026-11-19T03:33:50Z"
     },
     "wisemandenny/hxtra:pr-opened:173": {
       "status": "queued",
