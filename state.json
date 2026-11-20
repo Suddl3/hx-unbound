@@ -2861,7 +2861,7 @@
       "sent_at": "2026-11-20T03:22:05Z"
     },
     "Suddl3/hx-unbound-floor:pr:17": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-unbound-floor:pr:17",
         "repo": "Suddl3/hx-unbound-floor",
@@ -2869,7 +2869,9 @@
         "title": "#17 Point the editor links at HX Edit Unbound's main branch",
         "url": "https://github.com/Suddl3/hx-unbound-floor/pull/17",
         "at": "2026-11-20T03:04:29Z"
-      }
+      },
+      "message_id": "1573176594707513415",
+      "sent_at": "2026-11-20T03:22:08Z"
     },
     "wisemandenny/hxtra:pr-opened:182": {
       "status": "queued",
