@@ -2952,7 +2952,7 @@
       "sent_at": "2026-11-20T21:10:08Z"
     },
     "wisemandenny/hxtra:pr:188": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:188",
         "repo": "wisemandenny/hxtra",
@@ -2960,7 +2960,9 @@
         "title": "#188 CODEOWNERS: every pull request needs the owner's approval (main)",
         "url": "https://github.com/wisemandenny/hxtra/pull/188",
         "at": "2026-11-20T17:39:03Z"
-      }
+      },
+      "message_id": "1573445374553751576",
+      "sent_at": "2026-11-20T21:10:10Z"
     }
   }
 }
