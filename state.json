@@ -2991,7 +2991,7 @@
       "sent_at": "2026-11-21T18:00:20Z"
     },
     "wisemandenny/hxtra:pr-opened:195": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:195",
         "repo": "wisemandenny/hxtra",
@@ -2999,7 +2999,9 @@
         "title": "#195 Add HX Stomp XL support to HXtra",
         "url": "https://github.com/wisemandenny/hxtra/pull/195",
         "at": "2026-11-21T15:10:22Z"
-      }
+      },
+      "message_id": "1573759999828697154",
+      "sent_at": "2026-11-21T18:00:23Z"
     }
   }
 }
