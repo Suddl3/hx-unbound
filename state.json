@@ -2965,7 +2965,7 @@
       "sent_at": "2026-11-20T21:10:10Z"
     },
     "wisemandenny/hxtra:pr-opened:189": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:189",
         "repo": "wisemandenny/hxtra",
@@ -2973,7 +2973,9 @@
         "title": "#189 GR meter: at Middle, draw again the lit lights after a stock layout",
         "url": "https://github.com/wisemandenny/hxtra/pull/189",
         "at": "2026-11-21T02:37:26Z"
-      }
+      },
+      "message_id": "1573656801256411238",
+      "sent_at": "2026-11-21T11:10:18Z"
     }
   }
 }
