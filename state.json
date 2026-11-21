@@ -2978,7 +2978,7 @@
       "sent_at": "2026-11-21T11:10:18Z"
     },
     "wisemandenny/hxtra:pr-opened:193": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:193",
         "repo": "wisemandenny/hxtra",
@@ -2986,7 +2986,9 @@
         "title": "#193 Footswitch view, Midi block, and Phones Block",
         "url": "https://github.com/wisemandenny/hxtra/pull/193",
         "at": "2026-11-21T13:39:05Z"
-      }
+      },
+      "message_id": "1573759986964635759",
+      "sent_at": "2026-11-21T18:00:20Z"
     },
     "wisemandenny/hxtra:pr-opened:195": {
       "status": "queued",
