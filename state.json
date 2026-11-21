@@ -3,22 +3,22 @@
   "repos": {
     "nocaseguy/hx-stomp-nam-lite": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-21T11:10:01Z",
+      "checked_at": "2026-11-21T18:00:05Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "savedadodo/helix-floor-nam-lite": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-21T11:10:01Z",
+      "checked_at": "2026-11-21T18:00:05Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "andreidevs/helix-lt-nam": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-21T11:10:01Z",
+      "checked_at": "2026-11-21T18:00:05Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "scottlynn73/hx-effects-nam-lite": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-21T11:10:01Z",
+      "checked_at": "2026-11-21T18:00:05Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "wisemandenny/hx-stomp-customOS": {
@@ -28,42 +28,42 @@
     },
     "andreidevs/hx-edit-nam": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-21T11:10:01Z",
+      "checked_at": "2026-11-21T18:00:05Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "Suddl3/hx-unbound-editor": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-21T11:10:01Z",
+      "checked_at": "2026-11-21T18:00:05Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "crmne/tonepush": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-21T11:10:01Z",
+      "checked_at": "2026-11-21T18:00:05Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "allansomensi/openhx": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-21T11:10:01Z",
+      "checked_at": "2026-11-21T18:00:05Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "mpeskett88/ToneRelay": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-21T11:10:01Z",
+      "checked_at": "2026-11-21T18:00:05Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "Suddl3/hx-unbound-floor": {
       "since": "2026-11-12T09:53:23Z",
-      "checked_at": "2026-11-21T11:10:01Z",
+      "checked_at": "2026-11-21T18:00:05Z",
       "opened_since": "2026-11-12T09:53:23Z"
     },
     "wisemandenny/hxtra": {
       "since": "2026-11-12T09:53:23Z",
-      "checked_at": "2026-11-21T11:10:01Z",
+      "checked_at": "2026-11-21T18:00:05Z",
       "opened_since": "2026-11-12T09:53:23Z"
     },
     "Suddl3/hx-edit-unbound": {
       "since": "2026-11-17T04:31:07Z",
-      "checked_at": "2026-11-21T11:10:01Z",
+      "checked_at": "2026-11-21T18:00:05Z",
       "opened_since": "2026-11-17T04:31:07Z"
     }
   },
@@ -2976,6 +2976,28 @@
       },
       "message_id": "1573656801256411238",
       "sent_at": "2026-11-21T11:10:18Z"
+    },
+    "wisemandenny/hxtra:pr-opened:193": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:193",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#193 Footswitch view, Midi block, and Phones Block",
+        "url": "https://github.com/wisemandenny/hxtra/pull/193",
+        "at": "2026-11-21T13:39:05Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:195": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:195",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#195 Add HX Stomp XL support to HXtra",
+        "url": "https://github.com/wisemandenny/hxtra/pull/195",
+        "at": "2026-11-21T15:10:22Z"
+      }
     }
   }
 }
