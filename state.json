@@ -3173,7 +3173,7 @@
       "sent_at": "2026-11-22T06:55:36Z"
     },
     "Suddl3/hx-edit-unbound:pr-opened:5": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-edit-unbound:pr-opened:5",
         "repo": "Suddl3/hx-edit-unbound",
@@ -3181,7 +3181,9 @@
         "title": "#5 Ask the Floor's firmware on command 0x4f",
         "url": "https://github.com/Suddl3/hx-edit-unbound/pull/5",
         "at": "2026-11-22T02:00:36Z"
-      }
+      },
+      "message_id": "1573955101242953779",
+      "sent_at": "2026-11-22T06:55:38Z"
     },
     "Suddl3/hx-edit-unbound:pr:5": {
       "status": "queued",
