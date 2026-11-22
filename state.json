@@ -3212,7 +3212,7 @@
       "sent_at": "2026-11-22T06:55:44Z"
     },
     "Suddl3/hx-edit-unbound:pr:6": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-edit-unbound:pr:6",
         "repo": "Suddl3/hx-edit-unbound",
@@ -3220,7 +3220,9 @@
         "title": "#6 Library window: Import NAM files (files, a folder, or dropped)",
         "url": "https://github.com/Suddl3/hx-edit-unbound/pull/6",
         "at": "2026-11-22T02:33:17Z"
-      }
+      },
+      "message_id": "1573955135477125211",
+      "sent_at": "2026-11-22T06:55:47Z"
     }
   }
 }
