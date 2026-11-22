@@ -3108,7 +3108,7 @@
       "sent_at": "2026-11-22T06:55:22Z"
     },
     "Suddl3/hx-edit-unbound:release:454084952": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-edit-unbound:release:454084952",
         "repo": "Suddl3/hx-edit-unbound",
@@ -3116,7 +3116,9 @@
         "title": "Art assets: gear without the floor shadow (2026-11-22)",
         "url": "https://github.com/Suddl3/hx-edit-unbound/releases/tag/gear-art-2026-11-22",
         "at": "2026-11-22T00:27:31Z"
-      }
+      },
+      "message_id": "1573955041595887678",
+      "sent_at": "2026-11-22T06:55:25Z"
     },
     "Suddl3/hx-edit-unbound:pr-opened:3": {
       "status": "queued",
