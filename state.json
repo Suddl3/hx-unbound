@@ -3056,7 +3056,7 @@
       "sent_at": "2026-11-22T06:55:10Z"
     },
     "Suddl3/hx-unbound-floor:pr:19": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-unbound-floor:pr:19",
         "repo": "Suddl3/hx-unbound-floor",
@@ -3064,7 +3064,9 @@
         "title": "#19 floor_emmc_art: point at the current art release",
         "url": "https://github.com/Suddl3/hx-unbound-floor/pull/19",
         "at": "2026-11-22T02:09:01Z"
-      }
+      },
+      "message_id": "1573954992807743509",
+      "sent_at": "2026-11-22T06:55:13Z"
     },
     "wisemandenny/hxtra:pr-opened:196": {
       "status": "queued",
