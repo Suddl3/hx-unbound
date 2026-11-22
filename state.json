@@ -3147,7 +3147,7 @@
       "sent_at": "2026-11-22T06:55:30Z"
     },
     "Suddl3/hx-edit-unbound:pr-opened:4": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-edit-unbound:pr-opened:4",
         "repo": "Suddl3/hx-edit-unbound",
@@ -3155,7 +3155,9 @@
         "title": "#4 Focus Mode finds the art pack in the clone's art/ folder",
         "url": "https://github.com/Suddl3/hx-edit-unbound/pull/4",
         "at": "2026-11-22T01:28:44Z"
-      }
+      },
+      "message_id": "1573955078094590003",
+      "sent_at": "2026-11-22T06:55:33Z"
     },
     "Suddl3/hx-edit-unbound:pr:4": {
       "status": "queued",
