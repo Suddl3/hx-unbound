@@ -3225,7 +3225,7 @@
       "sent_at": "2026-11-22T06:55:47Z"
     },
     "wisemandenny/hxtra:pr-opened:198": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:198",
         "repo": "wisemandenny/hxtra",
@@ -3233,7 +3233,9 @@
         "title": "#198 Add Model Pictures for HX Stomp",
         "url": "https://github.com/wisemandenny/hxtra/pull/198",
         "at": "2026-11-22T16:33:09Z"
-      }
+      },
+      "message_id": "1574180109785497713",
+      "sent_at": "2026-11-22T21:49:45Z"
     }
   }
 }
