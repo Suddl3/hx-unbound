@@ -3030,7 +3030,7 @@
       "sent_at": "2026-11-22T06:55:05Z"
     },
     "Suddl3/hx-unbound-floor:pr:18": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-unbound-floor:pr:18",
         "repo": "Suddl3/hx-unbound-floor",
@@ -3038,7 +3038,9 @@
         "title": "#18 Editor info command (0x4f) on in every build",
         "url": "https://github.com/Suddl3/hx-unbound-floor/pull/18",
         "at": "2026-11-22T01:59:26Z"
-      }
+      },
+      "message_id": "1573954970967867524",
+      "sent_at": "2026-11-22T06:55:07Z"
     },
     "Suddl3/hx-unbound-floor:pr:15": {
       "status": "queued",
