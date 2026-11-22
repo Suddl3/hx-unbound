@@ -3069,7 +3069,7 @@
       "sent_at": "2026-11-22T06:55:13Z"
     },
     "wisemandenny/hxtra:pr-opened:196": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:196",
         "repo": "wisemandenny/hxtra",
@@ -3077,7 +3077,9 @@
         "title": "#196 Metronome: list it under Volume/Pan, out of the one-looper rule",
         "url": "https://github.com/wisemandenny/hxtra/pull/196",
         "at": "2026-11-22T01:10:07Z"
-      }
+      },
+      "message_id": "1573955003901550715",
+      "sent_at": "2026-11-22T06:55:15Z"
     },
     "Suddl3/hx-edit-unbound:pr-opened:2": {
       "status": "queued",
