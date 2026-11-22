@@ -3121,7 +3121,7 @@
       "sent_at": "2026-11-22T06:55:25Z"
     },
     "Suddl3/hx-edit-unbound:pr-opened:3": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-edit-unbound:pr-opened:3",
         "repo": "Suddl3/hx-edit-unbound",
@@ -3129,7 +3129,9 @@
         "title": "#3 Focus Mode",
         "url": "https://github.com/Suddl3/hx-edit-unbound/pull/3",
         "at": "2026-11-22T01:16:10Z"
-      }
+      },
+      "message_id": "1573955057584574525",
+      "sent_at": "2026-11-22T06:55:28Z"
     },
     "Suddl3/hx-edit-unbound:pr:3": {
       "status": "queued",
