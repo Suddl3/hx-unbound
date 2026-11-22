@@ -3082,7 +3082,7 @@
       "sent_at": "2026-11-22T06:55:15Z"
     },
     "Suddl3/hx-edit-unbound:pr-opened:2": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-edit-unbound:pr-opened:2",
         "repo": "Suddl3/hx-edit-unbound",
@@ -3090,7 +3090,9 @@
         "title": "#2 Gear pictures without the floor shadow",
         "url": "https://github.com/Suddl3/hx-edit-unbound/pull/2",
         "at": "2026-11-22T00:23:53Z"
-      }
+      },
+      "message_id": "1573955014412472412",
+      "sent_at": "2026-11-22T06:55:18Z"
     },
     "Suddl3/hx-edit-unbound:pr:2": {
       "status": "queued",
