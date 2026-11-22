@@ -3043,7 +3043,7 @@
       "sent_at": "2026-11-22T06:55:07Z"
     },
     "Suddl3/hx-unbound-floor:pr:15": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-unbound-floor:pr:15",
         "repo": "Suddl3/hx-unbound-floor",
@@ -3051,7 +3051,9 @@
         "title": "#15 NAM Pedal block (NAM_PEDAL=1, PAIR layout), rebased on main",
         "url": "https://github.com/Suddl3/hx-unbound-floor/pull/15",
         "at": "2026-11-22T01:59:44Z"
-      }
+      },
+      "message_id": "1573954981701222545",
+      "sent_at": "2026-11-22T06:55:10Z"
     },
     "Suddl3/hx-unbound-floor:pr:19": {
       "status": "queued",
