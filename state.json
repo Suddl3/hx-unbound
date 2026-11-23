@@ -3251,7 +3251,7 @@
       "sent_at": "2026-11-23T12:53:16Z"
     },
     "crmne/tonepush:pr-opened:126": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "crmne/tonepush:pr-opened:126",
         "repo": "crmne/tonepush",
@@ -3259,7 +3259,9 @@
         "title": "#126 Update Rust crate jiff to v1",
         "url": "https://github.com/crmne/tonepush/pull/126",
         "at": "2026-11-23T03:32:07Z"
-      }
+      },
+      "message_id": "1574407499736551445",
+      "sent_at": "2026-11-23T12:53:19Z"
     },
     "crmne/tonepush:pr:125": {
       "status": "queued",
