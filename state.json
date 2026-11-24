@@ -3290,7 +3290,7 @@
       "sent_at": "2026-11-24T00:55:51Z"
     },
     "wisemandenny/hxtra:pr-opened:200": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:200",
         "repo": "wisemandenny/hxtra",
@@ -3298,7 +3298,9 @@
         "title": "#200 Research notes: the 0x102 and 0x11c filter primitives, parameter-map tables and ops, stock Mix/Blend laws; tools/sharc/pmap.py",
         "url": "https://github.com/wisemandenny/hxtra/pull/200",
         "at": "2026-11-23T19:06:19Z"
-      }
+      },
+      "message_id": "1574589341739646978",
+      "sent_at": "2026-11-24T00:55:53Z"
     },
     "Suddl3/hx-edit-unbound:pr-opened:7": {
       "status": "queued",
