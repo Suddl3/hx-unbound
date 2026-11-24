@@ -3277,7 +3277,7 @@
       "sent_at": "2026-11-23T12:53:21Z"
     },
     "Suddl3/hx-unbound-floor:pr-opened:20": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-unbound-floor:pr-opened:20",
         "repo": "Suddl3/hx-unbound-floor",
@@ -3285,7 +3285,9 @@
         "title": "#20 Focus View: a scene per stored preset, and see-through gear pixels",
         "url": "https://github.com/Suddl3/hx-unbound-floor/pull/20",
         "at": "2026-11-23T18:40:05Z"
-      }
+      },
+      "message_id": "1574589330608095403",
+      "sent_at": "2026-11-24T00:55:51Z"
     },
     "wisemandenny/hxtra:pr-opened:200": {
       "status": "queued",
