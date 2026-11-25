@@ -3329,7 +3329,7 @@
       "sent_at": "2026-11-25T15:39:32Z"
     },
     "Suddl3/hx-edit-unbound:pr:7": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-edit-unbound:pr:7",
         "repo": "Suddl3/hx-edit-unbound",
@@ -3337,7 +3337,9 @@
         "title": "#7 Workbench: a modern editor screen over HX Edit, with views for presets, Floor look, Levels, the NAM library and TONE3000",
         "url": "https://github.com/Suddl3/hx-edit-unbound/pull/7",
         "at": "2026-11-25T04:29:33Z"
-      }
+      },
+      "message_id": "1575174117995581484",
+      "sent_at": "2026-11-25T15:39:35Z"
     }
   }
 }
