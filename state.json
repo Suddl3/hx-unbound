@@ -3316,7 +3316,7 @@
       "sent_at": "2026-11-24T00:55:56Z"
     },
     "wisemandenny/hxtra:pr-opened:210": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:210",
         "repo": "wisemandenny/hxtra",
@@ -3324,7 +3324,9 @@
         "title": "#210 Entry 2: load data that is all zeros as a zero-fill LDR block",
         "url": "https://github.com/wisemandenny/hxtra/pull/210",
         "at": "2026-11-25T05:15:08Z"
-      }
+      },
+      "message_id": "1575174104334737562",
+      "sent_at": "2026-11-25T15:39:32Z"
     },
     "Suddl3/hx-edit-unbound:pr:7": {
       "status": "queued",
