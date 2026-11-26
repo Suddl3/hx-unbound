@@ -3511,7 +3511,7 @@
       "sent_at": "2026-11-26T00:25:23Z"
     },
     "Suddl3/hx-unbound-floor:pr-opened:22": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-unbound-floor:pr-opened:22",
         "repo": "Suddl3/hx-unbound-floor",
@@ -3519,7 +3519,9 @@
         "title": "#22 Floor: optional \"HX FLOOR UNBOUND\" boot screen (NAM_SPLASH)",
         "url": "https://github.com/Suddl3/hx-unbound-floor/pull/22",
         "at": "2026-11-26T05:53:23Z"
-      }
+      },
+      "message_id": "1575444637219426388",
+      "sent_at": "2026-11-26T09:34:32Z"
     },
     "wisemandenny/hxtra:pr-opened:219": {
       "status": "queued",
