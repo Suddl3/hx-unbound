@@ -3550,7 +3550,7 @@
       "sent_at": "2026-11-26T09:34:38Z"
     },
     "wisemandenny/hxtra:pr-opened:221": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:221",
         "repo": "wisemandenny/hxtra",
@@ -3558,7 +3558,9 @@
         "title": "#221 fix: confirm unverified firmware before RAM boot",
         "url": "https://github.com/wisemandenny/hxtra/pull/221",
         "at": "2026-11-26T06:21:17Z"
-      }
+      },
+      "message_id": "1575444675203178597",
+      "sent_at": "2026-11-26T09:34:40Z"
     },
     "Suddl3/hx-edit-unbound:pr-opened:9": {
       "status": "queued",
