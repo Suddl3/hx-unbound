@@ -3524,7 +3524,7 @@
       "sent_at": "2026-11-26T09:34:32Z"
     },
     "wisemandenny/hxtra:pr-opened:219": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:219",
         "repo": "wisemandenny/hxtra",
@@ -3532,7 +3532,9 @@
         "title": "#219 fix: check assembled conditional address references",
         "url": "https://github.com/wisemandenny/hxtra/pull/219",
         "at": "2026-11-26T05:33:34Z"
-      }
+      },
+      "message_id": "1575444650880147477",
+      "sent_at": "2026-11-26T09:34:35Z"
     },
     "wisemandenny/hxtra:pr-opened:220": {
       "status": "queued",
