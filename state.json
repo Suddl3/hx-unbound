@@ -3485,7 +3485,7 @@
       "sent_at": "2026-11-26T00:25:19Z"
     },
     "Suddl3/hx-edit-unbound:pr-opened:8": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-edit-unbound:pr-opened:8",
         "repo": "Suddl3/hx-edit-unbound",
@@ -3493,7 +3493,9 @@
         "title": "#8 Workbench: five faults from the live sweep (a cost per capture, the Library's slot check, Undo per preset, Floor slots, status lines)",
         "url": "https://github.com/Suddl3/hx-edit-unbound/pull/8",
         "at": "2026-11-25T15:45:03Z"
-      }
+      },
+      "message_id": "1575306432935362792",
+      "sent_at": "2026-11-26T00:25:21Z"
     },
     "Suddl3/hx-edit-unbound:pr:8": {
       "status": "queued",
