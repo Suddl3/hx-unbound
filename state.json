@@ -3368,7 +3368,7 @@
       "sent_at": "2026-11-26T00:24:57Z"
     },
     "wisemandenny/hxtra:pr-opened:213": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:213",
         "repo": "wisemandenny/hxtra",
@@ -3376,7 +3376,9 @@
         "title": "#213 Add Model Pictures as an HXtra feature",
         "url": "https://github.com/wisemandenny/hxtra/pull/213",
         "at": "2026-11-25T21:00:25Z"
-      }
+      },
+      "message_id": "1575306340526718978",
+      "sent_at": "2026-11-26T00:24:59Z"
     },
     "wisemandenny/hxtra:pr:210": {
       "status": "queued",
