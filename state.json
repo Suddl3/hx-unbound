@@ -3342,7 +3342,7 @@
       "sent_at": "2026-11-25T15:39:35Z"
     },
     "wisemandenny/hxtra:pr-opened:211": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:211",
         "repo": "wisemandenny/hxtra",
@@ -3350,7 +3350,9 @@
         "title": "#211 feat: add HX Stomp XL feature parity",
         "url": "https://github.com/wisemandenny/hxtra/pull/211",
         "at": "2026-11-25T17:01:22Z"
-      }
+      },
+      "message_id": "1575306319991275625",
+      "sent_at": "2026-11-26T00:24:54Z"
     },
     "wisemandenny/hxtra:pr-opened:212": {
       "status": "queued",
