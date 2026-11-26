@@ -3,22 +3,22 @@
   "repos": {
     "nocaseguy/hx-stomp-nam-lite": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-25T15:39:16Z",
+      "checked_at": "2026-11-26T00:24:41Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "savedadodo/helix-floor-nam-lite": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-25T15:39:16Z",
+      "checked_at": "2026-11-26T00:24:41Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "andreidevs/helix-lt-nam": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-25T15:39:16Z",
+      "checked_at": "2026-11-26T00:24:41Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "scottlynn73/hx-effects-nam-lite": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-25T15:39:16Z",
+      "checked_at": "2026-11-26T00:24:41Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "wisemandenny/hx-stomp-customOS": {
@@ -28,42 +28,42 @@
     },
     "andreidevs/hx-edit-nam": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-25T15:39:16Z",
+      "checked_at": "2026-11-26T00:24:41Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "Suddl3/hx-unbound-editor": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-25T15:39:16Z",
+      "checked_at": "2026-11-26T00:24:41Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "crmne/tonepush": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-25T15:39:16Z",
+      "checked_at": "2026-11-26T00:24:41Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "allansomensi/openhx": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-25T15:39:16Z",
+      "checked_at": "2026-11-26T00:24:41Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "mpeskett88/ToneRelay": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-25T15:39:16Z",
+      "checked_at": "2026-11-26T00:24:41Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "Suddl3/hx-unbound-floor": {
       "since": "2026-11-12T09:53:23Z",
-      "checked_at": "2026-11-25T15:39:16Z",
+      "checked_at": "2026-11-26T00:24:41Z",
       "opened_since": "2026-11-12T09:53:23Z"
     },
     "wisemandenny/hxtra": {
       "since": "2026-11-12T09:53:23Z",
-      "checked_at": "2026-11-25T15:39:16Z",
+      "checked_at": "2026-11-26T00:24:41Z",
       "opened_since": "2026-11-12T09:53:23Z"
     },
     "Suddl3/hx-edit-unbound": {
       "since": "2026-11-17T04:31:07Z",
-      "checked_at": "2026-11-25T15:39:16Z",
+      "checked_at": "2026-11-26T00:24:41Z",
       "opened_since": "2026-11-17T04:31:07Z"
     }
   },
@@ -3340,6 +3340,149 @@
       },
       "message_id": "1575174117995581484",
       "sent_at": "2026-11-25T15:39:35Z"
+    },
+    "wisemandenny/hxtra:pr-opened:211": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:211",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#211 feat: add HX Stomp XL feature parity",
+        "url": "https://github.com/wisemandenny/hxtra/pull/211",
+        "at": "2026-11-25T17:01:22Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:212": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:212",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Draft pull request opened",
+        "title": "#212 Northern audio effects",
+        "url": "https://github.com/wisemandenny/hxtra/pull/212",
+        "at": "2026-11-25T18:32:04Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:213": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:213",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#213 Add Model Pictures as an HXtra feature",
+        "url": "https://github.com/wisemandenny/hxtra/pull/213",
+        "at": "2026-11-25T21:00:25Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:210": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:210",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#210 Entry 2: load data that is all zeros as a zero-fill LDR block",
+        "url": "https://github.com/wisemandenny/hxtra/pull/210",
+        "at": "2026-11-25T21:52:22Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:214": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:214",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#214 Setup page: Zadig/WinUSB step for the RAM run on Windows",
+        "url": "https://github.com/wisemandenny/hxtra/pull/214",
+        "at": "2026-11-25T22:04:07Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:182": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:182",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#182 USB monitoring: send USB In 1/2 Trim (I/O setting 0x99), not setting 3",
+        "url": "https://github.com/wisemandenny/hxtra/pull/182",
+        "at": "2026-11-25T22:15:12Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:214": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:214",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#214 Setup page: Zadig/WinUSB step for the RAM run on Windows",
+        "url": "https://github.com/wisemandenny/hxtra/pull/214",
+        "at": "2026-11-25T22:16:05Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:183": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:183",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#183 GR meter: go off when the window count stops, not when the marker goes",
+        "url": "https://github.com/wisemandenny/hxtra/pull/183",
+        "at": "2026-11-25T22:31:32Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:189": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:189",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#189 GR meter: at Middle, draw again the lit lights after a stock layout",
+        "url": "https://github.com/wisemandenny/hxtra/pull/189",
+        "at": "2026-11-25T22:56:31Z"
+      }
+    },
+    "wisemandenny/hxtra:pr-opened:217": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr-opened:217",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Pull request opened",
+        "title": "#217 hx_devtest: run in Stomp mode, find Tap LED Color by label, steady the TAP ring, read the DSP total tolerantly",
+        "url": "https://github.com/wisemandenny/hxtra/pull/217",
+        "at": "2026-11-25T23:06:16Z"
+      }
+    },
+    "wisemandenny/hxtra:pr:217": {
+      "status": "queued",
+      "event": {
+        "key": "wisemandenny/hxtra:pr:217",
+        "repo": "wisemandenny/hxtra",
+        "kind": "Merged pull request",
+        "title": "#217 hx_devtest: run in Stomp mode, find Tap LED Color by label, steady the TAP ring, read the DSP total tolerantly",
+        "url": "https://github.com/wisemandenny/hxtra/pull/217",
+        "at": "2026-11-25T23:33:51Z"
+      }
+    },
+    "Suddl3/hx-edit-unbound:pr-opened:8": {
+      "status": "queued",
+      "event": {
+        "key": "Suddl3/hx-edit-unbound:pr-opened:8",
+        "repo": "Suddl3/hx-edit-unbound",
+        "kind": "Pull request opened",
+        "title": "#8 Workbench: five faults from the live sweep (a cost per capture, the Library's slot check, Undo per preset, Floor slots, status lines)",
+        "url": "https://github.com/Suddl3/hx-edit-unbound/pull/8",
+        "at": "2026-11-25T15:45:03Z"
+      }
+    },
+    "Suddl3/hx-edit-unbound:pr:8": {
+      "status": "queued",
+      "event": {
+        "key": "Suddl3/hx-edit-unbound:pr:8",
+        "repo": "Suddl3/hx-edit-unbound",
+        "kind": "Merged pull request",
+        "title": "#8 Workbench: five faults from the live sweep (a cost per capture, the Library's slot check, Undo per preset, Floor slots, status lines)",
+        "url": "https://github.com/Suddl3/hx-edit-unbound/pull/8",
+        "at": "2026-11-25T21:14:56Z"
+      }
     }
   }
 }
