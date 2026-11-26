@@ -3472,7 +3472,7 @@
       "sent_at": "2026-11-26T00:25:16Z"
     },
     "wisemandenny/hxtra:pr:217": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:217",
         "repo": "wisemandenny/hxtra",
@@ -3480,7 +3480,9 @@
         "title": "#217 hx_devtest: run in Stomp mode, find Tap LED Color by label, steady the TAP ring, read the DSP total tolerantly",
         "url": "https://github.com/wisemandenny/hxtra/pull/217",
         "at": "2026-11-25T23:33:51Z"
-      }
+      },
+      "message_id": "1575306422172778680",
+      "sent_at": "2026-11-26T00:25:19Z"
     },
     "Suddl3/hx-edit-unbound:pr-opened:8": {
       "status": "queued",
