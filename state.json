@@ -3407,7 +3407,7 @@
       "sent_at": "2026-11-26T00:25:04Z"
     },
     "wisemandenny/hxtra:pr:182": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:182",
         "repo": "wisemandenny/hxtra",
@@ -3415,7 +3415,9 @@
         "title": "#182 USB monitoring: send USB In 1/2 Trim (I/O setting 0x99), not setting 3",
         "url": "https://github.com/wisemandenny/hxtra/pull/182",
         "at": "2026-11-25T22:15:12Z"
-      }
+      },
+      "message_id": "1575306371119718492",
+      "sent_at": "2026-11-26T00:25:06Z"
     },
     "wisemandenny/hxtra:pr:214": {
       "status": "queued",
