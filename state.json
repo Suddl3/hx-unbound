@@ -3589,7 +3589,7 @@
       "sent_at": "2026-11-26T19:39:31Z"
     },
     "Suddl3/hx-edit-unbound:release:459741436": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-edit-unbound:release:459741436",
         "repo": "Suddl3/hx-edit-unbound",
@@ -3597,7 +3597,9 @@
         "title": "HX Edit Unbound v0.7.0: the Workbench",
         "url": "https://github.com/Suddl3/hx-edit-unbound/releases/tag/v0.7.0",
         "at": "2026-11-26T17:50:33Z"
-      }
+      },
+      "message_id": "1575596898742702083",
+      "sent_at": "2026-11-26T19:39:34Z"
     },
     "Suddl3/hx-edit-unbound:pr-opened:10": {
       "status": "queued",
