@@ -3641,7 +3641,7 @@
       "sent_at": "2026-11-26T19:39:42Z"
     },
     "Suddl3/hx-edit-unbound:pr:11": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-edit-unbound:pr:11",
         "repo": "Suddl3/hx-edit-unbound",
@@ -3649,7 +3649,9 @@
         "title": "#11 NAM cost: judge room as HX Edit does and say why a capture does not fit",
         "url": "https://github.com/Suddl3/hx-edit-unbound/pull/11",
         "at": "2026-11-26T18:28:33Z"
-      }
+      },
+      "message_id": "1575596945521643604",
+      "sent_at": "2026-11-26T19:39:45Z"
     }
   }
 }
