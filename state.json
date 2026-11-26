@@ -3537,7 +3537,7 @@
       "sent_at": "2026-11-26T09:34:35Z"
     },
     "wisemandenny/hxtra:pr-opened:220": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:220",
         "repo": "wisemandenny/hxtra",
@@ -3545,7 +3545,9 @@
         "title": "#220 docs: record HX Stomp XL firmware measurements",
         "url": "https://github.com/wisemandenny/hxtra/pull/220",
         "at": "2026-11-26T06:20:36Z"
-      }
+      },
+      "message_id": "1575444662737567776",
+      "sent_at": "2026-11-26T09:34:38Z"
     },
     "wisemandenny/hxtra:pr-opened:221": {
       "status": "queued",
