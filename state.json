@@ -3355,7 +3355,7 @@
       "sent_at": "2026-11-26T00:24:54Z"
     },
     "wisemandenny/hxtra:pr-opened:212": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:212",
         "repo": "wisemandenny/hxtra",
@@ -3363,7 +3363,9 @@
         "title": "#212 Northern audio effects",
         "url": "https://github.com/wisemandenny/hxtra/pull/212",
         "at": "2026-11-25T18:32:04Z"
-      }
+      },
+      "message_id": "1575306330816782498",
+      "sent_at": "2026-11-26T00:24:57Z"
     },
     "wisemandenny/hxtra:pr-opened:213": {
       "status": "queued",
