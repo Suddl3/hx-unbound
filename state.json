@@ -3420,7 +3420,7 @@
       "sent_at": "2026-11-26T00:25:06Z"
     },
     "wisemandenny/hxtra:pr:214": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:214",
         "repo": "wisemandenny/hxtra",
@@ -3428,7 +3428,9 @@
         "title": "#214 Setup page: Zadig/WinUSB step for the RAM run on Windows",
         "url": "https://github.com/wisemandenny/hxtra/pull/214",
         "at": "2026-11-25T22:16:05Z"
-      }
+      },
+      "message_id": "1575306381219598367",
+      "sent_at": "2026-11-26T00:25:09Z"
     },
     "wisemandenny/hxtra:pr:183": {
       "status": "queued",
