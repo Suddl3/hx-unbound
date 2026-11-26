@@ -3563,7 +3563,7 @@
       "sent_at": "2026-11-26T09:34:40Z"
     },
     "Suddl3/hx-edit-unbound:pr-opened:9": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-edit-unbound:pr-opened:9",
         "repo": "Suddl3/hx-edit-unbound",
@@ -3571,7 +3571,9 @@
         "title": "#9 Workbench: pre-release polish, TONE3000's Plays on row, install from a fresh clone",
         "url": "https://github.com/Suddl3/hx-edit-unbound/pull/9",
         "at": "2026-11-26T04:10:11Z"
-      }
+      },
+      "message_id": "1575444686921932861",
+      "sent_at": "2026-11-26T09:34:43Z"
     }
   }
 }
