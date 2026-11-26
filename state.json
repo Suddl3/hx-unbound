@@ -3433,7 +3433,7 @@
       "sent_at": "2026-11-26T00:25:09Z"
     },
     "wisemandenny/hxtra:pr:183": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr:183",
         "repo": "wisemandenny/hxtra",
@@ -3441,7 +3441,9 @@
         "title": "#183 GR meter: go off when the window count stops, not when the marker goes",
         "url": "https://github.com/wisemandenny/hxtra/pull/183",
         "at": "2026-11-25T22:31:32Z"
-      }
+      },
+      "message_id": "1575306393395793943",
+      "sent_at": "2026-11-26T00:25:12Z"
     },
     "wisemandenny/hxtra:pr:189": {
       "status": "queued",
