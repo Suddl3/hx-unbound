@@ -3615,7 +3615,7 @@
       "sent_at": "2026-11-26T19:39:37Z"
     },
     "Suddl3/hx-edit-unbound:pr:10": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-edit-unbound:pr:10",
         "repo": "Suddl3/hx-edit-unbound",
@@ -3623,7 +3623,9 @@
         "title": "#10 README: lead with the Workbench picking a NAM capture",
         "url": "https://github.com/Suddl3/hx-edit-unbound/pull/10",
         "at": "2026-11-26T17:58:31Z"
-      }
+      },
+      "message_id": "1575596923363266573",
+      "sent_at": "2026-11-26T19:39:39Z"
     },
     "Suddl3/hx-edit-unbound:pr-opened:11": {
       "status": "queued",
