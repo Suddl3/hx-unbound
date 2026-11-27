@@ -3927,7 +3927,7 @@
       "sent_at": "2026-11-27T22:00:08Z"
     },
     "Suddl3/hx-unbound-floor:pr-opened:32": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-unbound-floor:pr-opened:32",
         "repo": "Suddl3/hx-unbound-floor",
@@ -3935,7 +3935,9 @@
         "title": "#32 Floor web builder: mark the all-on mix as run on a Floor",
         "url": "https://github.com/Suddl3/hx-unbound-floor/pull/32",
         "at": "2026-11-27T20:11:41Z"
-      }
+      },
+      "message_id": "1575994674773098608",
+      "sent_at": "2026-11-27T22:00:11Z"
     },
     "Suddl3/hx-unbound-floor:pr:20": {
       "status": "queued",
