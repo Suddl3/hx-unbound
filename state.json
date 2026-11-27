@@ -3745,7 +3745,7 @@
       "sent_at": "2026-11-27T02:53:27Z"
     },
     "wisemandenny/hxtra:pr-opened:224": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:224",
         "repo": "wisemandenny/hxtra",
@@ -3753,7 +3753,9 @@
         "title": "#224 Phones block",
         "url": "https://github.com/wisemandenny/hxtra/pull/224",
         "at": "2026-11-27T02:01:57Z"
-      }
+      },
+      "message_id": "1575706103809839215",
+      "sent_at": "2026-11-27T02:53:30Z"
     }
   }
 }
