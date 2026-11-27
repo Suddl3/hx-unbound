@@ -3888,7 +3888,7 @@
       "sent_at": "2026-11-27T21:59:59Z"
     },
     "Suddl3/hx-unbound-floor:pr-opened:30": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-unbound-floor:pr-opened:30",
         "repo": "Suddl3/hx-unbound-floor",
@@ -3896,7 +3896,9 @@
         "title": "#30 Floor web builder: keep the DMA abort fix on",
         "url": "https://github.com/Suddl3/hx-unbound-floor/pull/30",
         "at": "2026-11-27T15:53:20Z"
-      }
+      },
+      "message_id": "1575994636701532281",
+      "sent_at": "2026-11-27T22:00:02Z"
     },
     "Suddl3/hx-unbound-floor:pr-opened:31": {
       "status": "queued",
