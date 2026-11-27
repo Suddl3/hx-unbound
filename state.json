@@ -4265,7 +4265,7 @@
       "sent_at": "2026-11-27T22:01:24Z"
     },
     "Suddl3/hx-edit-unbound:release:461069250": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-edit-unbound:release:461069250",
         "repo": "Suddl3/hx-edit-unbound",
@@ -4273,7 +4273,9 @@
         "title": "HX Edit Unbound v0.7.3: NAM costs as the Floor counts them",
         "url": "https://github.com/Suddl3/hx-edit-unbound/releases/tag/v0.7.3",
         "at": "2026-11-27T21:13:18Z"
-      }
+      },
+      "message_id": "1575994995775766549",
+      "sent_at": "2026-11-27T22:01:27Z"
     }
   }
 }
