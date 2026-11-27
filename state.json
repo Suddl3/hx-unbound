@@ -4148,7 +4148,7 @@
       "sent_at": "2026-11-27T22:00:58Z"
     },
     "Suddl3/hx-edit-unbound:pr-opened:17": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-edit-unbound:pr-opened:17",
         "repo": "Suddl3/hx-edit-unbound",
@@ -4156,7 +4156,9 @@
         "title": "#17 Docs: v0.7.2",
         "url": "https://github.com/Suddl3/hx-edit-unbound/pull/17",
         "at": "2026-11-27T18:32:24Z"
-      }
+      },
+      "message_id": "1575994886337859716",
+      "sent_at": "2026-11-27T22:01:01Z"
     },
     "Suddl3/hx-edit-unbound:pr:17": {
       "status": "queued",
