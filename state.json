@@ -3732,7 +3732,7 @@
       "sent_at": "2026-11-27T02:53:24Z"
     },
     "wisemandenny/hxtra:pr-opened:223": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:223",
         "repo": "wisemandenny/hxtra",
@@ -3740,7 +3740,9 @@
         "title": "#223 Midi block",
         "url": "https://github.com/wisemandenny/hxtra/pull/223",
         "at": "2026-11-27T02:01:42Z"
-      }
+      },
+      "message_id": "1575706092699386018",
+      "sent_at": "2026-11-27T02:53:27Z"
     },
     "wisemandenny/hxtra:pr-opened:224": {
       "status": "queued",
