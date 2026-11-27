@@ -1,0 +1,17 @@
+# Who else is working on what we're working on
+
+Check this before starting a feature or fix. Each row pairs something we're doing with someone else's work on the same problem, so we can reuse it, team up, or at least not do it twice.
+A sweep of the projects in [PROJECTS.md](PROJECTS.md) and new related repos adds rows every other day; rows are marked done by hand. Suggestions welcome. Last updated 2026-11-27.
+
+| Our work | Who else | Where | What to do | Status |
+|---|---|---|---|---|
+| HX Edit working with custom firmware (HX Edit Unbound, `EDITOR.md` pairing, commands 0x53/0x4f) | muetze-online, starting an HX Edit modification for HXtra (Stomp) on 11-27 | [hxtra#218](https://github.com/wisemandenny/hxtra/issues/218) | Point him at HX Edit Unbound and the pairing contract; maybe share one approach for Stomp and Floor | open |
+| Real gear names ([hx-edit-unbound#20](https://github.com/Suddl3/hx-edit-unbound/pull/20), Floor builder names) | HXtra `HX_REAL_NAMES`; biver0's HX Model Renamer; scottlynn73's HX Effects Real names | [hxtra#208](https://github.com/wisemandenny/hxtra/issues/208), [hx-model-renamer](https://github.com/biver0/hx-model-renamer), [hx-effects-nam-lite](https://github.com/scottlynn73/hx-effects-nam-lite) | Propose one shared names list (JSON) before merging #20 | open |
+| Focus View, gear art, eMMC picture store | elroyski's Model Pictures for HXtra | [hxtra#213](https://github.com/wisemandenny/hxtra/pull/213) | Compare formats; offer our art pack or reuse theirs (check art licences) | open |
+| Floor USB session drops (stability research, pinned TonePush crates) | Jazzpirate's fix for scrambled Floor notifications | [tonepush#100](https://github.com/crmne/tonepush/pull/100), also [#102](https://github.com/crmne/tonepush/pull/102), [#118](https://github.com/crmne/tonepush/pull/118) | Replay-test it, then test on our Floor, report on the PR | open |
+| Floor builder DSP options (NAM_DSP_OPT, NAM_PEDAL, groups) | wisemandenny: per-option budget for the 512 KiB Entry 2 boot stream | [hxtra#215](https://github.com/wisemandenny/hxtra/issues/215) | Check whether the Floor builder can overflow Entry 2; share a test both can use | open |
+| Two NAM blocks on one DSP ([hx-unbound-floor#21](https://github.com/Suddl3/hx-unbound-floor/issues/21)) | mcknodra: audio lost after splitting two NAM amps | [hx-stomp-nam-lite#4](https://github.com/nocaseguy/hx-stomp-nam-lite/issues/4) | Compare repro steps with our #21 | open |
+| Being findable: where Floor work lives now | Users on the upstream LT/Floor thread asking whether Floor work stopped | [hx-stomp-nam-lite#8](https://github.com/nocaseguy/hx-stomp-nam-lite/issues/8) | Suddl3 or savedadodo posts where Floor work lives and the builder link | open |
+| Community coordination (hub + Discord) | ShimShamSam asking HXtra for a dev Discord | [hxtra#209](https://github.com/wisemandenny/hxtra/issues/209) | Suddl3 replies with the hub/Discord link | open |
+| Phone editor milestone | ToneRelay ESP32 hosts; jonsolberg's Android/browser HX Stomp editor | [ToneRelay](https://github.com/mpeskett88/ToneRelay), [hxstompcontrol](https://github.com/jonsolberg/hxstompcontrol) | Read before starting the phone editor | later |
+| DSP meter figures | ociadi's model catalog with DSP usage per model | [helix-model-catalog](https://github.com/ociadi/helix-model-catalog) | Cross-check our numbers (no licence: reference only) | later |
