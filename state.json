@@ -3823,7 +3823,7 @@
       "sent_at": "2026-11-27T12:29:36Z"
     },
     "Suddl3/hx-unbound-floor:pr:27": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-unbound-floor:pr:27",
         "repo": "Suddl3/hx-unbound-floor",
@@ -3831,7 +3831,9 @@
         "title": "#27 Faster DSP for stock amps and drives, without the pitch groups that froze the Floor",
         "url": "https://github.com/Suddl3/hx-unbound-floor/pull/27",
         "at": "2026-11-27T13:03:00Z"
-      }
+      },
+      "message_id": "1575994576936898782",
+      "sent_at": "2026-11-27T21:59:47Z"
     },
     "Suddl3/hx-unbound-floor:pr-opened:28": {
       "status": "queued",
