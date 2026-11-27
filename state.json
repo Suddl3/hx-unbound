@@ -3836,7 +3836,7 @@
       "sent_at": "2026-11-27T21:59:47Z"
     },
     "Suddl3/hx-unbound-floor:pr-opened:28": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-unbound-floor:pr-opened:28",
         "repo": "Suddl3/hx-unbound-floor",
@@ -3844,7 +3844,9 @@
         "title": "#28 README: link the live firmware builder",
         "url": "https://github.com/Suddl3/hx-unbound-floor/pull/28",
         "at": "2026-11-27T14:43:17Z"
-      }
+      },
+      "message_id": "1575994589309960203",
+      "sent_at": "2026-11-27T21:59:50Z"
     },
     "Suddl3/hx-unbound-floor:pr:28": {
       "status": "queued",
