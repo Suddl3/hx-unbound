@@ -4135,7 +4135,7 @@
       "sent_at": "2026-11-27T22:00:56Z"
     },
     "Suddl3/hx-edit-unbound:release:460945348": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-edit-unbound:release:460945348",
         "repo": "Suddl3/hx-edit-unbound",
@@ -4143,7 +4143,9 @@
         "title": "HX Edit Unbound v0.7.2: problems are explained, not hidden",
         "url": "https://github.com/Suddl3/hx-edit-unbound/releases/tag/v0.7.2",
         "at": "2026-11-27T18:31:02Z"
-      }
+      },
+      "message_id": "1575994875386531882",
+      "sent_at": "2026-11-27T22:00:58Z"
     },
     "Suddl3/hx-edit-unbound:pr-opened:17": {
       "status": "queued",
