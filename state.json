@@ -3758,7 +3758,7 @@
       "sent_at": "2026-11-27T02:53:30Z"
     },
     "Suddl3/hx-unbound-floor:pr-opened:26": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-unbound-floor:pr-opened:26",
         "repo": "Suddl3/hx-unbound-floor",
@@ -3766,7 +3766,9 @@
         "title": "#26 Builder: leave out the DSP rewrites, they can freeze the Floor",
         "url": "https://github.com/Suddl3/hx-unbound-floor/pull/26",
         "at": "2026-11-27T03:27:01Z"
-      }
+      },
+      "message_id": "1575851037804331010",
+      "sent_at": "2026-11-27T12:29:25Z"
     },
     "Suddl3/hx-unbound-floor:pr:26": {
       "status": "queued",
