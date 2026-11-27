@@ -3654,7 +3654,7 @@
       "sent_at": "2026-11-26T19:39:45Z"
     },
     "Suddl3/hx-unbound-floor:pr-opened:24": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-unbound-floor:pr-opened:24",
         "repo": "Suddl3/hx-unbound-floor",
@@ -3662,7 +3662,9 @@
         "title": "#24 Floor: faster DSP code for stock amps and drives (NAM_DSP_OPT=1, 32 groups)",
         "url": "https://github.com/Suddl3/hx-unbound-floor/pull/24",
         "at": "2026-11-27T00:29:36Z"
-      }
+      },
+      "message_id": "1575706022910238794",
+      "sent_at": "2026-11-27T02:53:11Z"
     },
     "Suddl3/hx-unbound-floor:pr-opened:25": {
       "status": "queued",
