@@ -3719,7 +3719,7 @@
       "sent_at": "2026-11-27T02:53:21Z"
     },
     "wisemandenny/hxtra:pr:196": {
-      "status": "queued",
+      "status": "sending",
       "event": {
         "key": "wisemandenny/hxtra:pr:196",
         "repo": "wisemandenny/hxtra",
