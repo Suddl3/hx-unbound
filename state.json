@@ -4239,7 +4239,7 @@
       "sent_at": "2026-11-27T22:01:19Z"
     },
     "Suddl3/hx-edit-unbound:pr:14": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-edit-unbound:pr:14",
         "repo": "Suddl3/hx-edit-unbound",
@@ -4247,7 +4247,9 @@
         "title": "#14 Read remembered Floor slots back before trusting their content (R8)",
         "url": "https://github.com/Suddl3/hx-edit-unbound/pull/14",
         "at": "2026-11-27T21:04:47Z"
-      }
+      },
+      "message_id": "1575994972354773014",
+      "sent_at": "2026-11-27T22:01:22Z"
     },
     "Suddl3/hx-edit-unbound:pr:19": {
       "status": "queued",
