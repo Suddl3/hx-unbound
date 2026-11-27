@@ -3953,7 +3953,7 @@
       "sent_at": "2026-11-27T22:00:14Z"
     },
     "Suddl3/hx-unbound-floor:pr-opened:33": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-unbound-floor:pr-opened:33",
         "repo": "Suddl3/hx-unbound-floor",
@@ -3961,7 +3961,9 @@
         "title": "#33 Floor web builder: rebuild the reference MD5s after #20",
         "url": "https://github.com/Suddl3/hx-unbound-floor/pull/33",
         "at": "2026-11-27T20:33:29Z"
-      }
+      },
+      "message_id": "1575994701004410972",
+      "sent_at": "2026-11-27T22:00:17Z"
     },
     "Suddl3/hx-unbound-floor:pr:31": {
       "status": "queued",
