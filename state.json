@@ -3810,7 +3810,7 @@
       "sent_at": "2026-11-27T12:29:33Z"
     },
     "Suddl3/hx-edit-unbound:pr:12": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-edit-unbound:pr:12",
         "repo": "Suddl3/hx-edit-unbound",
@@ -3818,7 +3818,9 @@
         "title": "#12 Docs for v0.7.1: NAM cost fix, its known issue, Polish list update",
         "url": "https://github.com/Suddl3/hx-edit-unbound/pull/12",
         "at": "2026-11-27T04:36:52Z"
-      }
+      },
+      "message_id": "1575851084063182869",
+      "sent_at": "2026-11-27T12:29:36Z"
     }
   }
 }
