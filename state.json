@@ -4187,7 +4187,7 @@
       "sent_at": "2026-11-27T22:01:07Z"
     },
     "Suddl3/hx-edit-unbound:pr:18": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-edit-unbound:pr:18",
         "repo": "Suddl3/hx-edit-unbound",
@@ -4195,7 +4195,9 @@
         "title": "#18 NAM blocks at the firmware's declared cost; shares shown as % of a DSP",
         "url": "https://github.com/Suddl3/hx-edit-unbound/pull/18",
         "at": "2026-11-27T21:03:46Z"
-      }
+      },
+      "message_id": "1575994922727907579",
+      "sent_at": "2026-11-27T22:01:10Z"
     },
     "Suddl3/hx-edit-unbound:pr:15": {
       "status": "queued",
