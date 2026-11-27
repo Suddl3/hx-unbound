@@ -3875,7 +3875,7 @@
       "sent_at": "2026-11-27T21:59:56Z"
     },
     "Suddl3/hx-unbound-floor:pr:29": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-unbound-floor:pr:29",
         "repo": "Suddl3/hx-unbound-floor",
@@ -3883,7 +3883,9 @@
         "title": "#29 Builder: hand out the developer file; keep hidden rows hidden",
         "url": "https://github.com/Suddl3/hx-unbound-floor/pull/29",
         "at": "2026-11-27T15:20:49Z"
-      }
+      },
+      "message_id": "1575994624688791715",
+      "sent_at": "2026-11-27T21:59:59Z"
     },
     "Suddl3/hx-unbound-floor:pr-opened:30": {
       "status": "queued",
