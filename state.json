@@ -4031,7 +4031,7 @@
       "sent_at": "2026-11-27T22:00:32Z"
     },
     "scottlynn73/hx-effects-nam-lite:release:460838446": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "scottlynn73/hx-effects-nam-lite:release:460838446",
         "repo": "scottlynn73/hx-effects-nam-lite",
@@ -4039,7 +4039,9 @@
         "title": "HX Effects: NAM, Amps and Effects v1.1.0",
         "url": "https://github.com/scottlynn73/hx-effects-nam-lite/releases/tag/v1.1.0",
         "at": "2026-11-27T16:29:21Z"
-      }
+      },
+      "message_id": "1575994777986400567",
+      "sent_at": "2026-11-27T22:00:35Z"
     },
     "scottlynn73/hx-effects-nam-lite:release:460969553": {
       "status": "queued",
