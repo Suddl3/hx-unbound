@@ -4252,7 +4252,7 @@
       "sent_at": "2026-11-27T22:01:22Z"
     },
     "Suddl3/hx-edit-unbound:pr:19": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-edit-unbound:pr:19",
         "repo": "Suddl3/hx-edit-unbound",
@@ -4260,7 +4260,9 @@
         "title": "#19 Docs: NAM cost fixes in What's new",
         "url": "https://github.com/Suddl3/hx-edit-unbound/pull/19",
         "at": "2026-11-27T21:05:22Z"
-      }
+      },
+      "message_id": "1575994984119803915",
+      "sent_at": "2026-11-27T22:01:24Z"
     },
     "Suddl3/hx-edit-unbound:release:461069250": {
       "status": "queued",
