@@ -4096,7 +4096,7 @@
       "sent_at": "2026-11-27T22:00:47Z"
     },
     "Suddl3/hx-edit-unbound:pr-opened:15": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-edit-unbound:pr-opened:15",
         "repo": "Suddl3/hx-edit-unbound",
@@ -4104,7 +4104,9 @@
         "title": "#15 Levels: keep every change to the preset it was measured in (review R1\u2013R4, R6, R7)",
         "url": "https://github.com/Suddl3/hx-edit-unbound/pull/15",
         "at": "2026-11-27T15:52:46Z"
-      }
+      },
+      "message_id": "1575994837558231224",
+      "sent_at": "2026-11-27T22:00:50Z"
     },
     "Suddl3/hx-edit-unbound:pr-opened:16": {
       "status": "queued",
