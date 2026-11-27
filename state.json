@@ -4070,7 +4070,7 @@
       "sent_at": "2026-11-27T22:00:41Z"
     },
     "Suddl3/hx-edit-unbound:pr-opened:13": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-edit-unbound:pr-opened:13",
         "repo": "Suddl3/hx-edit-unbound",
@@ -4078,7 +4078,9 @@
         "title": "#13 Wait for the snapshot recall before writing a grid value (review R5)",
         "url": "https://github.com/Suddl3/hx-edit-unbound/pull/13",
         "at": "2026-11-27T15:52:13Z"
-      }
+      },
+      "message_id": "1575994814649082049",
+      "sent_at": "2026-11-27T22:00:44Z"
     },
     "Suddl3/hx-edit-unbound:pr-opened:14": {
       "status": "queued",
