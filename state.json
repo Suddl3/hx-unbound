@@ -4395,7 +4395,7 @@
       "sent_at": "2026-11-28T03:56:21Z"
     },
     "Suddl3/hx-edit-unbound:pr-opened:23": {
-      "status": "queued",
+      "status": "sending",
       "event": {
         "key": "Suddl3/hx-edit-unbound:pr-opened:23",
         "repo": "Suddl3/hx-edit-unbound",
