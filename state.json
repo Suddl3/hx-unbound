@@ -4538,7 +4538,7 @@
       "sent_at": "2026-11-28T03:56:59Z"
     },
     "wisemandenny/hxtra:pr-opened:225": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "wisemandenny/hxtra:pr-opened:225",
         "repo": "wisemandenny/hxtra",
@@ -4546,7 +4546,9 @@
         "title": "#225 Tuner: name the notes with sharps instead of flats, from a Notes knob\u2026",
         "url": "https://github.com/wisemandenny/hxtra/pull/225",
         "at": "2026-11-28T11:31:42Z"
-      }
+      },
+      "message_id": "1576222154960146494",
+      "sent_at": "2026-11-28T13:04:06Z"
     }
   }
 }
