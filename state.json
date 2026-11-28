@@ -3,22 +3,22 @@
   "repos": {
     "nocaseguy/hx-stomp-nam-lite": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-27T21:59:32Z",
+      "checked_at": "2026-11-28T03:55:35Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "savedadodo/helix-floor-nam-lite": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-27T21:59:32Z",
+      "checked_at": "2026-11-28T03:55:35Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "andreidevs/helix-lt-nam": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-27T21:59:32Z",
+      "checked_at": "2026-11-28T03:55:35Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "scottlynn73/hx-effects-nam-lite": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-27T21:59:32Z",
+      "checked_at": "2026-11-28T03:55:35Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "wisemandenny/hx-stomp-customOS": {
@@ -28,42 +28,42 @@
     },
     "andreidevs/hx-edit-nam": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-27T21:59:32Z",
+      "checked_at": "2026-11-28T03:55:35Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "Suddl3/hx-unbound-editor": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-27T21:59:32Z",
+      "checked_at": "2026-11-28T03:55:35Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "crmne/tonepush": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-27T21:59:32Z",
+      "checked_at": "2026-11-28T03:55:35Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "allansomensi/openhx": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-27T21:59:32Z",
+      "checked_at": "2026-11-28T03:55:35Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "mpeskett88/ToneRelay": {
       "since": "2026-11-10T23:01:22Z",
-      "checked_at": "2026-11-27T21:59:32Z",
+      "checked_at": "2026-11-28T03:55:35Z",
       "opened_since": "2026-11-11T03:27:37Z"
     },
     "Suddl3/hx-unbound-floor": {
       "since": "2026-11-12T09:53:23Z",
-      "checked_at": "2026-11-27T21:59:32Z",
+      "checked_at": "2026-11-28T03:55:35Z",
       "opened_since": "2026-11-12T09:53:23Z"
     },
     "wisemandenny/hxtra": {
       "since": "2026-11-12T09:53:23Z",
-      "checked_at": "2026-11-27T21:59:32Z",
+      "checked_at": "2026-11-28T03:55:35Z",
       "opened_since": "2026-11-12T09:53:23Z"
     },
     "Suddl3/hx-edit-unbound": {
       "since": "2026-11-17T04:31:07Z",
-      "checked_at": "2026-11-27T21:59:32Z",
+      "checked_at": "2026-11-28T03:55:35Z",
       "opened_since": "2026-11-17T04:31:07Z"
     }
   },
@@ -4276,6 +4276,226 @@
       },
       "message_id": "1575994995775766549",
       "sent_at": "2026-11-27T22:01:27Z"
+    },
+    "Suddl3/hx-unbound-floor:pr-opened:35": {
+      "status": "queued",
+      "event": {
+        "key": "Suddl3/hx-unbound-floor:pr-opened:35",
+        "repo": "Suddl3/hx-unbound-floor",
+        "kind": "Pull request opened",
+        "title": "#35 Floor web builder: mark the all-on mix (after #20) as run on a Floor",
+        "url": "https://github.com/Suddl3/hx-unbound-floor/pull/35",
+        "at": "2026-11-27T22:15:58Z"
+      }
+    },
+    "Suddl3/hx-unbound-floor:pr:35": {
+      "status": "queued",
+      "event": {
+        "key": "Suddl3/hx-unbound-floor:pr:35",
+        "repo": "Suddl3/hx-unbound-floor",
+        "kind": "Merged pull request",
+        "title": "#35 Floor web builder: mark the all-on mix (after #20) as run on a Floor",
+        "url": "https://github.com/Suddl3/hx-unbound-floor/pull/35",
+        "at": "2026-11-28T01:28:06Z"
+      }
+    },
+    "Suddl3/hx-edit-unbound:pr-opened:20": {
+      "status": "queued",
+      "event": {
+        "key": "Suddl3/hx-edit-unbound:pr-opened:20",
+        "repo": "Suddl3/hx-edit-unbound",
+        "kind": "Pull request opened",
+        "title": "#20 Real gear names: a menu choice that shows models by the gear they model",
+        "url": "https://github.com/Suddl3/hx-edit-unbound/pull/20",
+        "at": "2026-11-27T22:25:06Z"
+      }
+    },
+    "Suddl3/hx-edit-unbound:pr-opened:21": {
+      "status": "queued",
+      "event": {
+        "key": "Suddl3/hx-edit-unbound:pr-opened:21",
+        "repo": "Suddl3/hx-edit-unbound",
+        "kind": "Pull request opened",
+        "title": "#21 Library Use / Put on the Floor: read the selected block's model again (v0.7.4)",
+        "url": "https://github.com/Suddl3/hx-edit-unbound/pull/21",
+        "at": "2026-11-27T22:55:27Z"
+      }
+    },
+    "Suddl3/hx-edit-unbound:pr:21": {
+      "status": "queued",
+      "event": {
+        "key": "Suddl3/hx-edit-unbound:pr:21",
+        "repo": "Suddl3/hx-edit-unbound",
+        "kind": "Merged pull request",
+        "title": "#21 Library Use / Put on the Floor: read the selected block's model again (v0.7.4)",
+        "url": "https://github.com/Suddl3/hx-edit-unbound/pull/21",
+        "at": "2026-11-27T22:55:36Z"
+      }
+    },
+    "Suddl3/hx-edit-unbound:release:461136386": {
+      "status": "queued",
+      "event": {
+        "key": "Suddl3/hx-edit-unbound:release:461136386",
+        "repo": "Suddl3/hx-edit-unbound",
+        "kind": "Release",
+        "title": "HX Edit Unbound v0.7.4: library loads again, safer Levels and slots",
+        "url": "https://github.com/Suddl3/hx-edit-unbound/releases/tag/v0.7.4",
+        "at": "2026-11-27T22:55:46Z"
+      }
+    },
+    "Suddl3/hx-edit-unbound:pr:20": {
+      "status": "queued",
+      "event": {
+        "key": "Suddl3/hx-edit-unbound:pr:20",
+        "repo": "Suddl3/hx-edit-unbound",
+        "kind": "Merged pull request",
+        "title": "#20 Real gear names: a menu choice that shows models by the gear they model",
+        "url": "https://github.com/Suddl3/hx-edit-unbound/pull/20",
+        "at": "2026-11-27T23:14:54Z"
+      }
+    },
+    "Suddl3/hx-edit-unbound:pr-opened:22": {
+      "status": "queued",
+      "event": {
+        "key": "Suddl3/hx-edit-unbound:pr-opened:22",
+        "repo": "Suddl3/hx-edit-unbound",
+        "kind": "Pull request opened",
+        "title": "#22 Test launches: HX_EDIT_COPY_DIR keeps HX Edit's copy in one fixed folder",
+        "url": "https://github.com/Suddl3/hx-edit-unbound/pull/22",
+        "at": "2026-11-27T23:17:35Z"
+      }
+    },
+    "Suddl3/hx-edit-unbound:pr:22": {
+      "status": "queued",
+      "event": {
+        "key": "Suddl3/hx-edit-unbound:pr:22",
+        "repo": "Suddl3/hx-edit-unbound",
+        "kind": "Merged pull request",
+        "title": "#22 Test launches: HX_EDIT_COPY_DIR keeps HX Edit's copy in one fixed folder",
+        "url": "https://github.com/Suddl3/hx-edit-unbound/pull/22",
+        "at": "2026-11-27T23:17:37Z"
+      }
+    },
+    "Suddl3/hx-edit-unbound:pr-opened:23": {
+      "status": "queued",
+      "event": {
+        "key": "Suddl3/hx-edit-unbound:pr-opened:23",
+        "repo": "Suddl3/hx-edit-unbound",
+        "kind": "Pull request opened",
+        "title": "#23 CI: run the test suite on every PR",
+        "url": "https://github.com/Suddl3/hx-edit-unbound/pull/23",
+        "at": "2026-11-27T23:25:46Z"
+      }
+    },
+    "Suddl3/hx-edit-unbound:pr:23": {
+      "status": "queued",
+      "event": {
+        "key": "Suddl3/hx-edit-unbound:pr:23",
+        "repo": "Suddl3/hx-edit-unbound",
+        "kind": "Merged pull request",
+        "title": "#23 CI: run the test suite on every PR",
+        "url": "https://github.com/Suddl3/hx-edit-unbound/pull/23",
+        "at": "2026-11-27T23:38:45Z"
+      }
+    },
+    "Suddl3/hx-edit-unbound:pr-opened:24": {
+      "status": "queued",
+      "event": {
+        "key": "Suddl3/hx-edit-unbound:pr-opened:24",
+        "repo": "Suddl3/hx-edit-unbound",
+        "kind": "Pull request opened",
+        "title": "#24 One launch at a time: a second start shows the running editor",
+        "url": "https://github.com/Suddl3/hx-edit-unbound/pull/24",
+        "at": "2026-11-28T00:29:32Z"
+      }
+    },
+    "Suddl3/hx-edit-unbound:pr:24": {
+      "status": "queued",
+      "event": {
+        "key": "Suddl3/hx-edit-unbound:pr:24",
+        "repo": "Suddl3/hx-edit-unbound",
+        "kind": "Merged pull request",
+        "title": "#24 One launch at a time: a second start shows the running editor",
+        "url": "https://github.com/Suddl3/hx-edit-unbound/pull/24",
+        "at": "2026-11-28T00:33:56Z"
+      }
+    },
+    "Suddl3/hx-edit-unbound:pr-opened:25": {
+      "status": "queued",
+      "event": {
+        "key": "Suddl3/hx-edit-unbound:pr-opened:25",
+        "repo": "Suddl3/hx-edit-unbound",
+        "kind": "Pull request opened",
+        "title": "#25 Docs: v0.7.5",
+        "url": "https://github.com/Suddl3/hx-edit-unbound/pull/25",
+        "at": "2026-11-28T00:37:51Z"
+      }
+    },
+    "Suddl3/hx-edit-unbound:pr:25": {
+      "status": "queued",
+      "event": {
+        "key": "Suddl3/hx-edit-unbound:pr:25",
+        "repo": "Suddl3/hx-edit-unbound",
+        "kind": "Merged pull request",
+        "title": "#25 Docs: v0.7.5",
+        "url": "https://github.com/Suddl3/hx-edit-unbound/pull/25",
+        "at": "2026-11-28T00:37:54Z"
+      }
+    },
+    "Suddl3/hx-edit-unbound:release:461189940": {
+      "status": "queued",
+      "event": {
+        "key": "Suddl3/hx-edit-unbound:release:461189940",
+        "repo": "Suddl3/hx-edit-unbound",
+        "kind": "Release",
+        "title": "HX Edit Unbound v0.7.5: real gear names",
+        "url": "https://github.com/Suddl3/hx-edit-unbound/releases/tag/v0.7.5",
+        "at": "2026-11-28T00:38:07Z"
+      }
+    },
+    "Suddl3/hx-edit-unbound:pr-opened:26": {
+      "status": "queued",
+      "event": {
+        "key": "Suddl3/hx-edit-unbound:pr-opened:26",
+        "repo": "Suddl3/hx-edit-unbound",
+        "kind": "Pull request opened",
+        "title": "#26 Library: captures cut to the same 31-character name get distinct slot names",
+        "url": "https://github.com/Suddl3/hx-edit-unbound/pull/26",
+        "at": "2026-11-28T02:36:33Z"
+      }
+    },
+    "Suddl3/hx-edit-unbound:pr-opened:27": {
+      "status": "queued",
+      "event": {
+        "key": "Suddl3/hx-edit-unbound:pr-opened:27",
+        "repo": "Suddl3/hx-edit-unbound",
+        "kind": "Pull request opened",
+        "title": "#27 Library: Use of a Pedal version gives HX Edit a copy it accepts",
+        "url": "https://github.com/Suddl3/hx-edit-unbound/pull/27",
+        "at": "2026-11-28T03:06:13Z"
+      }
+    },
+    "Suddl3/hx-edit-unbound:pr:26": {
+      "status": "queued",
+      "event": {
+        "key": "Suddl3/hx-edit-unbound:pr:26",
+        "repo": "Suddl3/hx-edit-unbound",
+        "kind": "Merged pull request",
+        "title": "#26 Library: captures cut to the same 31-character name get distinct slot names",
+        "url": "https://github.com/Suddl3/hx-edit-unbound/pull/26",
+        "at": "2026-11-28T03:11:59Z"
+      }
+    },
+    "Suddl3/hx-edit-unbound:pr:27": {
+      "status": "queued",
+      "event": {
+        "key": "Suddl3/hx-edit-unbound:pr:27",
+        "repo": "Suddl3/hx-edit-unbound",
+        "kind": "Merged pull request",
+        "title": "#27 Library: Use of a Pedal version gives HX Edit a copy it accepts",
+        "url": "https://github.com/Suddl3/hx-edit-unbound/pull/27",
+        "at": "2026-11-28T03:12:20Z"
+      }
     }
   }
 }
