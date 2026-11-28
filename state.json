@@ -4369,7 +4369,7 @@
       "sent_at": "2026-11-28T03:56:16Z"
     },
     "Suddl3/hx-edit-unbound:pr-opened:22": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-edit-unbound:pr-opened:22",
         "repo": "Suddl3/hx-edit-unbound",
@@ -4377,7 +4377,9 @@
         "title": "#22 Test launches: HX_EDIT_COPY_DIR keeps HX Edit's copy in one fixed folder",
         "url": "https://github.com/Suddl3/hx-edit-unbound/pull/22",
         "at": "2026-11-27T23:17:35Z"
-      }
+      },
+      "message_id": "1576084298832810146",
+      "sent_at": "2026-11-28T03:56:19Z"
     },
     "Suddl3/hx-edit-unbound:pr:22": {
       "status": "queued",
