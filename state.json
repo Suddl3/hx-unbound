@@ -4486,7 +4486,7 @@
       "sent_at": "2026-11-28T03:56:44Z"
     },
     "Suddl3/hx-edit-unbound:pr-opened:26": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-edit-unbound:pr-opened:26",
         "repo": "Suddl3/hx-edit-unbound",
@@ -4494,7 +4494,9 @@
         "title": "#26 Library: captures cut to the same 31-character name get distinct slot names",
         "url": "https://github.com/Suddl3/hx-edit-unbound/pull/26",
         "at": "2026-11-28T02:36:33Z"
-      }
+      },
+      "message_id": "1576084428206243902",
+      "sent_at": "2026-11-28T03:56:50Z"
     },
     "Suddl3/hx-edit-unbound:pr-opened:27": {
       "status": "queued",
