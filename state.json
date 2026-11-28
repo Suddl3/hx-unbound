@@ -4525,7 +4525,7 @@
       "sent_at": "2026-11-28T03:56:56Z"
     },
     "Suddl3/hx-edit-unbound:pr:27": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-edit-unbound:pr:27",
         "repo": "Suddl3/hx-edit-unbound",
@@ -4533,7 +4533,9 @@
         "title": "#27 Library: Use of a Pedal version gives HX Edit a copy it accepts",
         "url": "https://github.com/Suddl3/hx-edit-unbound/pull/27",
         "at": "2026-11-28T03:12:20Z"
-      }
+      },
+      "message_id": "1576084467448025260",
+      "sent_at": "2026-11-28T03:56:59Z"
     }
   }
 }
