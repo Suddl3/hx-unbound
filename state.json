@@ -4304,7 +4304,7 @@
       "sent_at": "2026-11-28T03:56:00Z"
     },
     "Suddl3/hx-edit-unbound:pr-opened:20": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-edit-unbound:pr-opened:20",
         "repo": "Suddl3/hx-edit-unbound",
@@ -4312,7 +4312,9 @@
         "title": "#20 Real gear names: a menu choice that shows models by the gear they model",
         "url": "https://github.com/Suddl3/hx-edit-unbound/pull/20",
         "at": "2026-11-27T22:25:06Z"
-      }
+      },
+      "message_id": "1576084232206557335",
+      "sent_at": "2026-11-28T03:56:03Z"
     },
     "Suddl3/hx-edit-unbound:pr-opened:21": {
       "status": "queued",
