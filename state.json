@@ -4395,7 +4395,7 @@
       "sent_at": "2026-11-28T03:56:21Z"
     },
     "Suddl3/hx-edit-unbound:pr-opened:23": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-edit-unbound:pr-opened:23",
         "repo": "Suddl3/hx-edit-unbound",
@@ -4403,7 +4403,9 @@
         "title": "#23 CI: run the test suite on every PR",
         "url": "https://github.com/Suddl3/hx-edit-unbound/pull/23",
         "at": "2026-11-27T23:25:46Z"
-      }
+      },
+      "message_id": "1576084323759693937",
+      "sent_at": "2026-11-28T03:56:25Z"
     },
     "Suddl3/hx-edit-unbound:pr:23": {
       "status": "queued",
