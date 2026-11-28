@@ -4343,7 +4343,7 @@
       "sent_at": "2026-11-28T03:56:09Z"
     },
     "Suddl3/hx-edit-unbound:release:461136386": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-edit-unbound:release:461136386",
         "repo": "Suddl3/hx-edit-unbound",
@@ -4351,7 +4351,9 @@
         "title": "HX Edit Unbound v0.7.4: library loads again, safer Levels and slots",
         "url": "https://github.com/Suddl3/hx-edit-unbound/releases/tag/v0.7.4",
         "at": "2026-11-27T22:55:46Z"
-      }
+      },
+      "message_id": "1576084272618541230",
+      "sent_at": "2026-11-28T03:56:13Z"
     },
     "Suddl3/hx-edit-unbound:pr:20": {
       "status": "queued",
