@@ -4473,7 +4473,7 @@
       "sent_at": "2026-11-28T03:56:41Z"
     },
     "Suddl3/hx-edit-unbound:release:461189940": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-edit-unbound:release:461189940",
         "repo": "Suddl3/hx-edit-unbound",
@@ -4481,7 +4481,9 @@
         "title": "HX Edit Unbound v0.7.5: real gear names",
         "url": "https://github.com/Suddl3/hx-edit-unbound/releases/tag/v0.7.5",
         "at": "2026-11-28T00:38:07Z"
-      }
+      },
+      "message_id": "1576084406068711505",
+      "sent_at": "2026-11-28T03:56:44Z"
     },
     "Suddl3/hx-edit-unbound:pr-opened:26": {
       "status": "queued",
