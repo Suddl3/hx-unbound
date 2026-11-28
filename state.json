@@ -4434,7 +4434,7 @@
       "sent_at": "2026-11-28T03:56:31Z"
     },
     "Suddl3/hx-edit-unbound:pr:24": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-edit-unbound:pr:24",
         "repo": "Suddl3/hx-edit-unbound",
@@ -4442,7 +4442,9 @@
         "title": "#24 One launch at a time: a second start shows the running editor",
         "url": "https://github.com/Suddl3/hx-edit-unbound/pull/24",
         "at": "2026-11-28T00:33:56Z"
-      }
+      },
+      "message_id": "1576084366080344147",
+      "sent_at": "2026-11-28T03:56:35Z"
     },
     "Suddl3/hx-edit-unbound:pr-opened:25": {
       "status": "queued",
