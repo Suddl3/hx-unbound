@@ -4330,7 +4330,7 @@
       "sent_at": "2026-11-28T03:56:06Z"
     },
     "Suddl3/hx-edit-unbound:pr:21": {
-      "status": "sending",
+      "status": "sent",
       "event": {
         "key": "Suddl3/hx-edit-unbound:pr:21",
         "repo": "Suddl3/hx-edit-unbound",
@@ -4338,7 +4338,9 @@
         "title": "#21 Library Use / Put on the Floor: read the selected block's model again (v0.7.4)",
         "url": "https://github.com/Suddl3/hx-edit-unbound/pull/21",
         "at": "2026-11-27T22:55:36Z"
-      }
+      },
+      "message_id": "1576084256982048819",
+      "sent_at": "2026-11-28T03:56:09Z"
     },
     "Suddl3/hx-edit-unbound:release:461136386": {
       "status": "queued",
